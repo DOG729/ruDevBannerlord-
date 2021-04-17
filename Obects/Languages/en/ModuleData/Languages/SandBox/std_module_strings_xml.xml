@@ -4,6 +4,8 @@
     <tag language="English" />
   </tags>
   <strings>
+    <string id="4IZnbvlD" text="Baudein" />
+    <string id="776J8Fng" text="Baldimos" />
     <string id="7ZhNilg8" text="Easy (5% bonus)" />
     <string id="8UBfIenN" text="Normal" />
     <string id="9jSxo790" text="Realistic" />
@@ -16,9 +18,12 @@
     <string id="carorTAF" text="Reduced to 2/3 (Easy)" />
     <string id="cUHlzCRx" text="Disable Birth and Death" />
     <string id="D9GkBqyW" text="You can leave the training field by holding [{LEAVE_KEY}]{newline}You can return at any time from the campaign map." />
+    <string id="DELVwiEM" text="Tira" />
     <string id="DFMhzFGV" text="Keeping a number of horses in your inventory may speed up your party considerably, since they'll increase your carrying capacity and footmen will ride spare horses. Pack horses and mules are only useful for carrying cargo though." />
+    <string id="EhELIf65" text="Teruin" />
     <string id="F8TaKnjh" text="When you are in a town or village scene,  holding down the Alt key shows markers on important people and interest points." />
     <string id="fbaQp3ox" text="Enable auto allocation of perks for members in your clan." />
+    <string id="GCqWwDWg" text="Baladir" />
     <string id="hEYfasE1" text="Received damage ratio to your character." />
     <string id="HMFb1gaq" text="Egalitarian" />
     <string id="hR6Zo6pD" text="Oligarchic" />
@@ -39,13 +44,16 @@
     <string id="N6fz1efb" text="Skips tutorial at the beginning of the game." />
     <string id="NaMPa4ML" text="Authoritarian" />
     <string id="Oea9a5nY" text="Friendly Troops Received Damage" />
+    <string id="opUBnFym" text="Terte" />
     <string id="qc9Llr3x" text="Hero" />
     <string id="QGA2TilH" text="In game windows, you can right click on an item to open the encyclopedia entry for it. This works for troop portraits, town icons, and most other elements." />
     <string id="QUZku1Jr" text="Party speed penalties will be more effective on campaign map." />
+    <string id="QZHSvGrD" text="Baldrim" />
     <string id="QzmJL5I7" text="Easy (1 extra)" />
     <string id="raD9MK3O" text="Difficulty" />
     <string id="ReNnVfEn" text="Change Kingdom Name" />
     <string id="RZFAxCMp" text="Very Easy (10% bonus)" />
+    <string id="Sfd3aqia" text="Bandan" />
     <string id="sp8Kred0" text="Member needs to be in player's party in order to do this action." />
     <string id="SrkDqNdb" text="Enable Tutorial Popups" />
     <string id="sYVFg9ai" text="Combat AI Difficulty" />
@@ -56,8 +64,12 @@
     <string id="veterandifficulty" text="Veteran" />
     <string id="vGF5S2hE" text="Leaderboard" />
     <string id="wip6jLEM" text="Received damage ratio to your troops." />
+    <string id="X7Xp9xGe" text="Tertha" />
+    <string id="XsIq2RFs" text="Baldim" />
     <string id="yKJ9c8IV" text="Enable Right Side Circle Map Notifications" />
     <string id="yLa9ftit" text="Sets the interval of time between autosaves." />
+    <string id="yvdQ9MD6" text="Terea" />
+    <string id="Z33uQl2f" text="Tarya" />
     <string id="ZcyJePFm" text="Friendly Parties Received Damage" />
     <string id="ZWiFWA2W" text="Skip Main Storyline Tutorial" />
   </strings>

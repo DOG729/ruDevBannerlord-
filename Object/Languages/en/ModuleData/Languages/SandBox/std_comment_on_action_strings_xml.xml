@@ -15,7 +15,7 @@
     <string id="6KMf8lNE" text="I remember our victory over {DEFEATED_PARTY_LEADER}. I will not forget your bravery in that battle." />
     <string id="7vcCSGEN" text="I heard you defeated {DEFEATED_PARTY_LEADER}, even though he had you outnumbered. Most impressive." />
     <string id="8qkWFWTa" text="When last we met, {PLAYER.LINK}, you had the better of me. If we ever meet in battle again, perhaps things will go differently." />
-    <string id="952DmRsV" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. Well, I can't say that I would have trusted you, but perhaps you deserve the benefit of the doubt." />
+    <string id="952DmRsV" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. Well, I can't say that I would have trusted you, but perhaps you deserve the benefit of the doubt." />
     <string id="9aS4em4L" text="I hear you recently caught some bandits around here. I say 'good work,' and I think other merchants around here will agree. Cleanse the roads of those vermin, so that trade can flow." />
     <string id="9DDmAvXD" text="Apparently my family believes that we might make a good match." />
     <string id="9HvWdW77" text="I hear you've been trying to take the credit for our victory over {DEFEATED_PARTY_LEADER}. I was on the battlefield too, you may remember." />
@@ -25,7 +25,7 @@
     <string id="al0vHv5D" text="I insulted {SIDE2TROOP}." />
     <string id="ALIAwlgz" text="I heard that you fought and defeated {DEFEATED_PARTY_LEADER}. I wish you joy of your victory, my friend!" />
     <string id="alO2F63A" text="I hear you fought bravely against {VICTORIOUS_PARTY_LEADER} and made the {ENEMY_TERM} pay heavily for their victory. I salute your courage and your men's sacrifice." />
-    <string id="AtbVSdJi" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. No doubt you will soon betray him, and I will have the pleasure of watching you die a traitor's death." />
+    <string id="AtbVSdJi" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. No doubt you will soon betray him, and I will have the pleasure of watching you die a traitor's death." />
     <string id="B8Kb89jk" text="That battle against {ENEMY_TERM}. You failed, and we both paid the price." />
     <string id="bb8AxGwc" text="I heard that you fought and defeated {DEFEATED_PARTY_LEADER}. A blow well struck!" />
     <string id="BCNRS2ml" text="I hear you defeated {DEFEATED_LEADER_RELATIONSHIP} in battle. Well, I always knew you'd be a dangerous enemy." />
@@ -37,7 +37,7 @@
     <string id="cQbIMImo" text="I will not forget our victory over {DEFEATED_PARTY_LEADER}." />
     <string id="cVgKHCqa" text="I remember when my allies and I last faced you. It was a good fight." />
     <string id="CwJonOjV" text="You're a rebel and a traitor, {PLAYER.LINK}, but somehow I still can't bring myself to hate you." />
-    <string id="cWRudt73" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. Fight against our foes with valor, but also with honour and compassion. A good name is as valuable as a sharp sword or a swift horse in affairs of arms." />
+    <string id="cWRudt73" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. Fight against our foes with valor, but also with honour and compassion. A good name is as valuable as a sharp sword or a swift horse in affairs of arms." />
     <string id="DcRDdH6d" text="I hear {VICTORIOUS_PARTY_LEADER} ran you down and gave you the thrashing you deserve." />
     <string id="ddUxQwOX" text="I heard you defeated {DEFEATED_PARTY_LEADER}, even though he had you outnumbered. I salute you, {?PLAYER.GENDER}madame{?}sir{\?}!" />
     <string id="dJMfIABx" text="I hear you defeated our enemy {DEFEATED_PARTY_LEADER} in battle." />
@@ -46,14 +46,14 @@
     <string id="dNNcebar" text="So perhaps now you're regretting renouncing your allegiance to {FIRST_NAME}?" />
     <string id="dpaagbUb" text="So {DEFEATED_PARTY_LEADER} came at you with a great big host and you whipped him anyway. Heh. Good work." />
     <string id="dtaIcOa0" text="You won last time we fought. I look forward to a chance to even the score." />
-    <string id="DzpcTVWI" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. I look forward to fighting alongside you against our foes." />
+    <string id="DzpcTVWI" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. I look forward to fighting alongside you against our foes." />
     <string id="e0WSVhxu" text="I hear you'll be joining us in the service of {FIRST_NAME}. Well... Do yourself a favor, and stay out of my way." />
     <string id="e5viS3jv" text="{SIDE1TROOP} insulted me." />
-    <string id="e8Lec4g2" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. I do not pretend to be happy about his decision, but perhaps it is better to have you inside our tent pissing out, than the other way around." />
-    <string id="eMlj4eRa" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. Good {?PLAYER.GENDER}woman{?}man{\?}! Our lord is a noble soul, and rewards loyalty and valor with kindness and generosity." />
+    <string id="e8Lec4g2" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. I do not pretend to be happy about his decision, but perhaps it is better to have you inside our tent pissing out, than the other way around." />
+    <string id="eMlj4eRa" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. Good {?PLAYER.GENDER}woman{?}man{\?}! Our lord is a noble soul, and rewards loyalty and valor with kindness and generosity." />
     <string id="f0TZ7BRb" text="I hear you defeated {DEFEATED_LEADER_RELATIONSHIP} in battle." />
     <string id="FaQ02Yet" text="I'm not going to forget {ENEMY_SETTLEMENT}... A hard fight, but a glorious one." />
-    <string id="fjthM3fE" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. Excellent... I am sure that you and I will become very good friends. But remember -- if you betray us, it will be the biggest mistake you will ever make." />
+    <string id="fjthM3fE" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. Excellent... I am sure that you and I will become very good friends. But remember -- if you betray us, it will be the biggest mistake you will ever make." />
     <string id="FxTlch69" text="You must think me a truely weathly man to raid my caravans and expect that I would not notice. I'll assume your actions were meant as a compliment, and that you'll find other means of income." />
     <string id="g3a9dmzu" text="Those bandits never give us much trouble, but it is good practice I suppose." />
     <string id="gaHeS3qu" text="I will not forget our victory over {DEFEATED_PARTY_LEADER}. Let us once again give thanks to heaven, and pray that we not grow too proud." />
@@ -87,11 +87,11 @@
     <string id="mwF92doJ" text="I remember our last battle. It was a good fight." />
     <string id="n0SpScdp" text="So apparently you're a tough bite to swallow. I hear {VICTORIOUS_PARTY_LEADER} paid heavily in blood to defeat you." />
     <string id="ndagvVPz" text="I hear you defeated {DEFEATED_LEADER_RELATIONSHIP} in battle. But don't think that I will fall so easily for your tricks." />
-    <string id="ndQo81VN" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. That is good. The more skilled fighters we have with us in these troubled times, the better. I shall be watching your progress." />
+    <string id="ndQo81VN" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. That is good. The more skilled fighters we have with us in these troubled times, the better. I shall be watching your progress." />
     <string id="Nnqgix3X" text="I am glad that you look after your men well." />
-    <string id="O0acjJR9" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. Alas, from what I know of you I fear that you will disgrace us, but I will be happy if you prove me wrong." />
+    <string id="O0acjJR9" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. Alas, from what I know of you I fear that you will disgrace us, but I will be happy if you prove me wrong." />
     <string id="obydBl7I" text="I heard that you beat {DEFEATED_PARTY_LEADER}... This is good." />
-    <string id="Pf44U15I" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. Pray do not disgrace us by behaving in a cowardly fashion." />
+    <string id="Pf44U15I" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. Pray do not disgrace us by behaving in a cowardly fashion." />
     <string id="pJtkSopk" text="I hear you defeated {DEFEATED_LEADER_RELATIONSHIP} in battle. I'm here to even the score." />
     <string id="pT6QqtTB" text="I heard that you have besieged and taken {SETTLEMENT_NAME}." />
     <string id="PzBfkDIF" text="You looted a caravan under my protection. Look, it's war, we all do things... But was there really a need for that?" />
@@ -115,7 +115,7 @@
     <string id="tUc0CIs4" text="I will never forget how we came over the battlements of {ENEMY_SETTLEMENT} and put its defenders to the sword." />
     <string id="ucKrwFCj" text="I heard that you renounced your allegiance to {FIRST_NAME}. Well, that is your decision." />
     <string id="udMxMICB" text="I hear you looted a caravan under my protection. I'm going to assume that this was a misunderstanding." />
-    <string id="UKTXefOD" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. Fight hard against our foes, respect your betters, and don't cross me, and we'll get along fine." />
+    <string id="UKTXefOD" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. Fight hard against our foes, respect your betters, and don't cross me, and we'll get along fine." />
     <string id="VcXpFIrT" text="Remember how we whipped {DEFEATED_PARTY_LEADER}, and made of his men a feast for the crows? That's a sweet memory." />
     <string id="VSyOVMge" text="Rather than brand you a traitor, I will assume that you were too base and foolish to recognize that it was MY caravan you were attacking and not an enemies." />
     <string id="vxkoCCuc" text="I hear you'll be joining us in the service of {FIRST_NAME}" />
@@ -131,10 +131,10 @@
     <string id="yjDRCuQx" text="I am glad we were true to our word with {COMMENT_REFERENCE_HERO}." />
     <string id="YsUq0lPJ" text="Whatever comes next, I will not forget how we once fought together against {DEFEATED_PARTY_LEADER}." />
     <string id="yzxJBMJd" text="I hear you looted a caravan under my protection. I am not pleased." />
-    <string id="yZZx1WVQ" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. Fight bravely and you will be well-rewarded. Betray us, and we shall make of you the kind of example that will not soon be forgotten." />
+    <string id="yZZx1WVQ" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. Fight bravely and you will be well-rewarded. Betray us, and we shall make of you the kind of example that will not soon be forgotten." />
     <string id="Z6XSaq8b" text="When last we met, you had the better of me. But I assure you that it will not happen again!" />
     <string id="z76zznAS" text="Congratulations to you and {FIRST_NAME} on your marriage." />
     <string id="zFfRLbxK" text="Don't think I have forgotten our little battle. Now I know your tricks. If ever we are at war again, well, things will go differently." />
-    <string id="zTNNxMzz" text="I heard that you have pledged allegiance to our lord, {FIRST_NAME}. If I were he, I would not trust you to clean the sculleries." />
+    <string id="zTNNxMzz" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. If I were he, I would not trust you to clean the sculleries." />
   </strings>
 </base>

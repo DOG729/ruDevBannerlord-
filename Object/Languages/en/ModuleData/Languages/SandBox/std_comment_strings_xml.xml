@@ -75,7 +75,7 @@
     <string id="CPWbB47d" text="I've heard of you! I have long wanted to make your acquaintance." />
     <string id="CUfZXlOd" text="I shall remember your name." />
     <string id="d2QGFdRJ" text="You've got no chance. Surrender or I'll gut you like a fish.[ib:warrior][if:idle_angry]" />
-    <string id="dC8acIya" text="I am {CONVERSATION_CHARACTER.LINK}, a chieftain of the Sturgians." />
+    <string id="dC8acIya" text="I am {CONVERSATION_CHARACTER.LINK}, a boyar of the Sturgians." />
     <string id="dD6hNymL" text="My lads and I... Whatever you've heard, we respect authority. We hope we can be of service." />
     <string id="dD93WVhO" text="The one thing about me you should know, is that I make a very good friend and you absolutely do not want me as an enemy." />
     <string id="DIjtFVu8" text="Your last drop of blood? I guess I'll just have to spill it, then." />
@@ -115,6 +115,7 @@
     <string id="HbVsATfi" text="I know your name. Men praise your valor. But remember that honor and compassion are also worth cultivating." />
     <string id="heKSWVJk" text="Oh, I suppose I'm obligated to give you a chance to surrender, but I hope you don't. I'm rather looking forward to seeing how well attached your head is to your neck.[ib:warrior][if:idle_angry]" />
     <string id="hIFazIcK" text="So be it!" />
+    <string id="hP35jSyk" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}." />
     <string id="hQsjeTix" text="I yield! Grant me the honors of war, and do yourself credit![rf:angry][rb:trivial]" />
     <string id="HwhUEZPE" text="Yeah... I know your name. I've got nothing against you, friend. Stay out of my business, and I'll stay out of yours." />
     <string id="HwsshsMz" text="I'm glad that we could come to an understanding on that recent matter." />
@@ -135,6 +136,7 @@
     <string id="jrG4UPBr" text="For every house of mine that you burned when your raided {SETTLEMENT_NAME}, I'm going to carve another piece from your body." />
     <string id="JS5hKW6p" text="I'm not one of those who loves war for its own sake. But I still need reliable warriors who are true to their word. I will keep faith with all those who keep faith with me." />
     <string id="jxduaTUc" text="I've heard of talk of you -- the woman who knows how to fight like a man." />
+    <string id="K5Fvv504" text="I am {CONVERSATION_CHARACTER.LINK} of the house of {CLAN_NAME}, my {?PLAYER.GENDER}lady{?}lord{\?}, and I am honored to serve you." />
     <string id="k6TABWrF" text="We have heard of your cruel deeds when you raided my village at {SETTLEMENT_NAME}. I am responsible to protect my tenants, and if I cannot protect them, to avenge them." />
     <string id="kaEUZ8NA" text="My son" />
     <string id="kil3bT75" text="One thing you should know: If you cross me, you'll regret it." />
@@ -142,6 +144,7 @@
     <string id="KkWNSw9p" text="I know your name. It strikes fear in men's hearts. That is good. Perhaps we should speak together, some time." />
     <string id="KlQlzYdS" text="It's Fortune's idea of a good joke to make old friends fight. Shall we dance to her tune, or do you want to give up?[ib:warrior][if:idle_angry]" />
     <string id="KMygMFj2" text="It is my duty to fight you" />
+    <string id="L2GbDVja" text="I am {CONVERSATION_CHARACTER.LINK} of the {CLAN_NAME}, my {?PLAYER.GENDER}lady{?}lord{\?}, and I am honored to serve you." />
     <string id="l2nEIZV5" text="I am {CONVERSATION_CHARACTER.LINK}, an emir of {LIEGE_TITLE}." />
     <string id="L2PFxbD3" text="So... Not long ago, you betrayed my trust. Do we really have anything to discuss?" />
     <string id="L6FSmeIv" text="They say you've travelled widely. Such terrible times we live in, so much hardship. What do you think of what you've seen?" />

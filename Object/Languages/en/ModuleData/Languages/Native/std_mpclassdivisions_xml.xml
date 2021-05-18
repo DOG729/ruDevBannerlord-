@@ -26,6 +26,7 @@
     <string id="7LmUe8fQ" text="Menavlion" />
     <string id="7MkoLtWC" text="Axe" />
     <string id="7sWKjye0" text="Faster Horse" />
+    <string id="7u5TNeZM" text="Replaces Gladius with Pugio, much faster but shorter and deals less damage." />
     <string id="8nObGQqW" text="Rhomphaia" />
     <string id="9aFg4Cb4" text="Grants Throwing Axes, provides ranged damage, effective against shields, low in quantity." />
     <string id="9GQN5tTF" text="Grants Heavy Lance, more damage than spears, couchable." />
@@ -61,6 +62,7 @@
     <string id="Dj64aJKQ" text="Billhook" />
     <string id="DlKYZgA3" text="Improved Armor" />
     <string id="dQEa2hZa" text="Long Spear" />
+    <string id="DWIutWyg" text="Grants Axe, effective against shields, two handed." />
     <string id="DZ2g8IZr" text="Replaces Two Handed Axe with Two Handed Maul. Effective against armored opponents, two handed." />
     <string id="DZkbvhfq" text="Replaces Javelins with Jereeds, deals more damage, can be used in melee." />
     <string id="EdLIa9Ds" text="Replaces Arrows with Stronger Arrows, deals more damage." />
@@ -147,7 +149,6 @@
     <string id="SMws1ws6" text="Large Shield" />
     <string id="snQeVgCJ" text="Replaces Axe with Heavy Axe, longer and deals more damage." />
     <string id="sOARp3Dc" text="Grants Shield, makes blocking easier, effective against ranged units." />
-    <string id="SpTtirzT" text="Grants Mace, effective against armored opponents." />
     <string id="sVOdabQr" text="Grants Pitchfork, effective against cavalry." />
     <string id="t68bkisr" text="Hammer" />
     <string id="tFWBFpji" text="Replaces mount with a Camel, deals more charge damage, more maneuverable and durable but slower and can't jump." />

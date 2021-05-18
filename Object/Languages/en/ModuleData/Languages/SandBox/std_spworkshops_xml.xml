@@ -17,7 +17,6 @@
     <string id="eS6nGak1" text="Wool Weaver" />
     <string id="EVSoHzAQ" text="This workshops makes garments out of sheep wool. Garments are always in demand." />
     <string id="GsaLzLfl" text="Brewery" />
-    <string id="gZArIwNi" text="Silversmith" />
     <string id="HXuAkbcU" text="Velvet Weaver" />
     <string id="IO7Jgato" text="Carpenter" />
     <string id="IwFxZ6ab" text="Coarse flax is weaved into useful linen in this workshop. Many folks buy it for general use. It is also essential for making garments and armor in other workshops." />
@@ -32,6 +31,8 @@
     <string id="QChaCM2g" text="Fine raw silk is weaved into even finer velvet in this workshop. Velvet is one the most luxurious good in Calradia." />
     <string id="qfzkMuLj" text="Artisan" />
     <string id="RLz2b53X" text="Clothier" />
+    <string id="silversmithworker" text="Silversmith" />
+    <string id="silversmithworkshop" text="Silversmith" />
     <string id="Tj7ErPfn" text="Pottery Shop" />
     <string id="tK4IiP3J" text="Linen Weavery" />
     <string id="UiSes6XY" text="Wood Workshop" />

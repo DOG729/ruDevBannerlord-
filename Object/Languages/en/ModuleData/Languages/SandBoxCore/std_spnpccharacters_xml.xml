@@ -17,10 +17,10 @@
     <string id="2HDPaohZ" text="Expert Forester" />
     <string id="3lNtvh9W" text="Bounty Hunter" />
     <string id="3VosbFR0" text="Vlandian Champion" />
-    <string id="4BxUa4Sr" text="Aserai Skirmisher" />
     <string id="4C4WiTb2" text="Varyag" />
     <string id="5b6KjY5b" text="Vlandian Billman" />
     <string id="5JFkQn5U" text="Khuzait Militia Veteran Archer" />
+    <string id="5VBPoGYO" text="Aserai Light Archer" />
     <string id="6C3OMP1X" text="Battanian Scout" />
     <string id="6hhspFvz" text="Khuzait Veteran Caravan Guard" />
     <string id="6j9iJMRr" text="Lake Rat Recruit" />
@@ -31,7 +31,6 @@
     <string id="7EUhAv8b" text="Ghulam" />
     <string id="7JZPTbxB" text="Scholar" />
     <string id="7WWUxI6y" text="Sturgian Veteran Bowman" />
-    <string id="80plewQ1" text="Oath Keeper Recruit" />
     <string id="8bA4PvdG" text="Imperial Veteran Archer" />
     <string id="8Gh8q1PX" text="Beni Zilal Royal Guard" />
     <string id="8PLgCsiR" text="Vlandian Vanguard" />
@@ -61,13 +60,13 @@
     <string id="bHx8jaeI" text="Warrior" />
     <string id="bLMGbLF8" text="Preacher Notary" />
     <string id="bLq2HXMo" text="Imperial Veteran Caravan Guard" />
+    <string id="BlZK3wDN" text="Flame" />
     <string id="BmYpwIYi" text="Battania Peasant" />
     <string id="bNnQt4jN" text="Blacksmith" />
     <string id="bNZXcw3q" text="Battanian Oathsworn" />
     <string id="brlJJW5I" text="Sturgian Soldier" />
     <string id="bTApMxWr" text="Vlandian Banner Knight" />
     <string id="Btb7p3mD" text="Battanian Fian" />
-    <string id="bYn4ad1t" text="Expert Oath Keeper" />
     <string id="byPNCb5e" text="Sturgian Heavy Spearman" />
     <string id="c5rVdg75" text="Imperial Militia Veteran Spearman" />
     <string id="C8hwcOdF" text="Mounted Pillager" />
@@ -113,6 +112,7 @@
     <string id="Gd0y7SxJ" text="Vlandian Spearman" />
     <string id="GEnwDYp1" text="Vlandian Recruit" />
     <string id="GGVehOu9" text="Squire" />
+    <string id="ghilmanUnit" text="Ghilman" />
     <string id="GopVkA1q" text="Outlaw" />
     <string id="guardnoun" text="Guard" />
     <string id="GUQ3zfg2" text="Battanian Volunteer" />
@@ -121,7 +121,6 @@
     <string id="gyvXsXs8" text="Battanian Wildling" />
     <string id="gZ4JeEw4" text="Sturgian Militia Veteran Archer" />
     <string id="H5HJUejD" text="Aserai Recruit" />
-    <string id="H5iWxbbl" text="Ghilman" />
     <string id="H7eELtL6" text="Borrowed Troop" />
     <string id="h7nGFImt" text="Recruit Forester" />
     <string id="HMHzTNqJ" text="Battanian Trained Warrior" />
@@ -180,7 +179,6 @@
     <string id="nDoENDqD" text="Aserai Caravan Master" />
     <string id="noTLVPDD" text="Doctor" />
     <string id="nPyqHxmf" text="Vlandian Sergeant" />
-    <string id="nsyTIbtp" text="Veteran Oath Keeper" />
     <string id="o077j2j5" text="Teenager" />
     <string id="o1jvmi9P" text="Khuzait Raider" />
     <string id="OQPDvtpk" text="Vlandian Gallant" />
@@ -255,6 +253,7 @@
     <string id="uh4rIbZ9" text="Horseman" />
     <string id="ULaNn3pp" text="Aserai Militia Spearman" />
     <string id="UrSjhs4x" text="Vlandian Voulgier" />
+    <string id="UsvCnAS7" text="Blaze" />
     <string id="uViDMxLC" text="Skolder Recruit" />
     <string id="UYPaQP2j" text="Khuzait Qanqli" />
     <string id="uzwfybTH" text="Khuzait Footman" />
@@ -282,6 +281,7 @@
     <string id="xaYwo9tM" text="Mercenary Scout" />
     <string id="XgjXfmM1" text="Prison Guard" />
     <string id="xIFHLI66" text="Karakhuzait Nomad" />
+    <string id="xJ4koSsx" text="Spark" />
     <string id="xnzpQbwQ" text="Sturgian Horse Raider" />
     <string id="XzDObEiH" text="Vlandian Squire" />
     <string id="YE4RGuzU" text="Vlandian Veteran Caravan Guard" />

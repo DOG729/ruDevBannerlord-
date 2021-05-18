@@ -7,7 +7,7 @@
     <string id="00bd3Huo" text="performing new rituals that treat the ruler as semi-divine" />
     <string id="028iCb8B" text="Jythea" />
     <string id="02c5bQSM" text="Discard" />
-    <string id="03db314S" text="Increase your bow reload speed by 25%." />
+    <string id="03db314S" text="Increases your bow reload speed by 25%." />
     <string id="03DZpTYi" text="You are a wanted criminal." />
     <string id="03lc5R2t" text="You have tried to persuade me before. I will not stand your words again." />
     <string id="04F2ld9c" text="5% daily chance to improve relations by 1 with random gang leaders in the settlements you govern." />
@@ -41,9 +41,8 @@
     <string id="0h5BrVdA" text="Your relation with notables in some of your settlements increased due to high loyalty" />
     <string id="0I6xdead" text="taxing landowners on their property" />
     <string id="0i8RgslK" text="Or, maybe one of your trusted companions can take {COMPANION_NEED_GOLD_AMOUNT}{GOLD_ICON} denars and some {ALTERNATIVE_TROOP_AMOUNT} men as an escort can pull of the job." />
-    <string id="0iF5sNNZ" text="Increase your ranged damage while mounted by 10%." />
-    <string id="0JxFiVPt" text="Character can use a more efficient method of charcoal production that produces three units of charcoal from two units of hardwood." />
-    <string id="0LIb10KB" text="{EDUCATION_INTRO}" />
+    <string id="0iF5sNNZ" text="Increases your ranged damage by 10% while mounted." />
+    <string id="0JxFiVPt" text="You can use a more efficient method of charcoal production that produces three units of charcoal from two units of hardwood." />
     <string id="0LTL5qGP" text="Double damage to besieging personnel with %25 chance." />
     <string id="0M6ApEr2" text="Surely you know that {FIRST_NAME} is {RELATIONSHIP} as well as my liege, and will always be able to count on my loyalty." />
     <string id="0mivh2E1" text="Infantry troops in the formation you are leading have their polearm skill increased by 20." />
@@ -96,7 +95,7 @@
     <string id="1bbsq6uw" text="We should award this fief to a new clan" />
     <string id="1BFk0wAV" text="defeats an enemy." />
     <string id="1Bm1Wk1v" text="Infantry" />
-    <string id="1bNb2bZz" text="Infantry troops in the formation you are leading have their movement speed increased by 5%." />
+    <string id="1bNb2bZz" text="Infantry troops in the formation you are leading have their movement speed increased by 4%." />
     <string id="1bw2uw8H" text="Wind Winder" />
     <string id="1cKxsHSh" text="Penton" />
     <string id="1cMS6415" text="Pay {FINE}{INFLUENCE_ICON}" />
@@ -123,8 +122,8 @@
     <string id="1LWWvGTT" text="participate in a pilgrimage." />
     <string id="1LzohiMf" text="I brought {AMOUNT_TO_DELIVER} units of {REQUESTED_GOOD} as we agreed." />
     <string id="1NCVDNri" text="The noble gave the young adult command of a small group of scouts. {?CHILD.GENDER}She{?}He{\?} took them on patrol and even though some were twice {?CHILD.GENDER}her{?}his{\?} age, {?CHILD.GENDER}she{?}he{\?} won their respect." />
-    <string id="1ndbOvdQ" text="Increase head shot damage by 50% with crossbows." />
-    <string id="1nRyaC98" text="Have a 20% chance to increase bombardment casualties by 1." />
+    <string id="1ndbOvdQ" text="Increases your head shot damage with crossbows by 50%." />
+    <string id="1nRyaC98" text="You have a 20% chance to increase bombardment casualties by 1 unit." />
     <string id="1oPRugXl" text="Trick knife throws and swift evasions can entertain a marketplace crowd, but are useful on the battlefield as well. " />
     <string id="1PCaW5YI" text="My liege {QUEST_GIVER.NAME} also instructed me to present you the sum of {REWARD_GOLD}{GOLD_ICON} denars for the prisoners exchange." />
     <string id="1pdBdqKn" text="Party Type:" />
@@ -139,7 +138,7 @@
     <string id="1sbbbOyr" text="Excellent... The caravan will be leaving soon. I'm counting on you!" />
     <string id="1SUTcF0J" text="The gang leaders who kept watch over the slums of Calradian cities were always in need of poor youth to run messages and back them up in turf wars, while thrill-seeking merchants' sons and daughters sometimes slummed it in their company as well." />
     <string id="1Tft1d4A" text="{HERO.FIRSTNAME} the Boulder" />
-    <string id="1TX57OIu" text="Decrease your party food consumption by 20%." />
+    <string id="1TX57OIu" text="Decreases your party's food consumption by 20%." />
     <string id="1V6DRayw" text="You don't have {BRIBE_COST} denars." />
     <string id="1V9GeKr8" text="Fah...I don't need more men. Thank you." />
     <string id="1vnaskLR" text="It was a pleasure to work with you, chief. Farewell..." />
@@ -181,7 +180,7 @@
     <string id="2E7s4L9R" text="Do you need mercenaries? I have a contract that I can transfer to you for {DEMAND_GOLD} denars." />
     <string id="2eBBY7nG" text="Ballista in siege bombardment reload 25% faster." />
     <string id="2EiC1YyZ" text="Well, if they get wind of what you're up to, things could go very wrong for me. Do be quick." />
-    <string id="2Ekt9yKN" text="Immediately increase Endurance (END) by 1." />
+    <string id="2Ekt9yKN" text="Immediately increases Endurance (END) by 1." />
     <string id="2ELhox6C" text="If you don't want to get involved in this yourself, leave one of your capable companions and {NUMBER_OF_TROOPS} men for some days." />
     <string id="2EOvlPc2" text="Gripped by wanderlust, {?PLAYER_CHILD}your{?}the{\?} child rode from the freezing woods of Sturgia to the blazing Nahasa." />
     <string id="2EzfAklA" text="You gave {COUNT} {ITEM} to {HERO.NAME}." />
@@ -211,7 +210,7 @@
     <string id="2PEKd3Sz" text="Actually, I changed my mind. Cancel the order..." />
     <string id="2PVm7NON" text="Partners in Crime" />
     <string id="2pzjOTtj" text="Vlandian Battle Perception" />
-    <string id="2QWg8lOr" text="Troops in your formation ignore 10% of enemy armor with thrown weapons." />
+    <string id="2QWg8lOr" text="Troops in your formation ignore 10% of enemy's armor when attacking with thrown weapons." />
     <string id="2Qx4bL66" text="The ruler has a monopoly on certain goods, although practically he can license out production to merchants and collect a portion of the proceeds." />
     <string id="2qZ81jPG" text="Owner of {SETTLEMENT_NAME}" />
     <string id="2rPMYl7Y" text="Peasant Leader" />
@@ -244,7 +243,7 @@
     <string id="38dcXWzq" text="\nNotable Powers: {NOTABLE_POWER_LOST_AMOUNT}%" />
     <string id="38DvG2ba" text="Yeah? What is it now?" />
     <string id="39s03DwM" text="Things are all right, my {?HERO.GENDER}lady{?}lord{\?}. Business is good, but could be better. Some prices are high, but most of what the people need is available." />
-    <string id="3aDfv5w8" text="Decrease fall damage taken by 50%, kick damage is doubled." />
+    <string id="3aDfv5w8" text="Decreases fall damage taken by 50%, kick damage is doubled." />
     <string id="3aOIY6wl" text="Salt Mine" />
     <string id="3BvfOe1y" text="Very well then. You catch some more and you want me to take them off of your hands, you know where to find me..." />
     <string id="3cBfSJOI" text="Is there anything else?[rb:trivial]" />
@@ -259,8 +258,8 @@
     <string id="3gbgjJfZ" text="Candidly, what do you think of your liege, {FIRST_NAME}?" />
     <string id="3GHIb7YX" text="We Pledge our Swords" />
     <string id="3gXc2ZzJ" text="You need a wilder past" />
-    <string id="3GY5laNB" text="When you have a crossbow equipped, you take 10% less damage from range attacks." />
-    <string id="3hcbkk2i" text="Crossbow hits that deal over 25% damage dismount enemy cavalry." />
+    <string id="3GY5laNB" text="When you have a crossbow equipped, you take 10% less damage from projectiles." />
+    <string id="3hcbkk2i" text="Crossbow hits dismount enemy cavalry when they deal damage over 25% of their hit points." />
     <string id="3hFT34l1" text="{?PLAYER_CHILD}Your{?}The{\?} child helps out the local physician, binding and cleaning wounds and, when the master is absent, prescribing remedies." />
     <string id="3hzSmrMw" text="Great Leader" />
     <string id="3IBVEOwh" text="I still think we may not be ready yet." />
@@ -277,11 +276,11 @@
     <string id="3MLtqFPt" text="Thunderous Charge" />
     <string id="3n1KRLpZ" text="'My love is far \n I know not where \n Perhaps the winds shall tell me'" />
     <string id="3nbuRBJK" text="Forget it." />
-    <string id="3nla4sSL" text="Governed settlement ballista gain 30% bonus accuracy in campaign siege." />
+    <string id="3nla4sSL" text="Governed settlement's ballistae gain 30% bonus accuracy in siege bombardment phase." />
     <string id="3NROvpcO" text="Slowhand {HERO.FIRSTNAME}" />
     <string id="3nT5wWzb" text="Surrender." />
     <string id="3O1Pg3Ie" text="At {?CHILD.GENDER}her{?}his{\?} 14th birthday you gave {CHILD.NAME} a special present. You have seen {?CHILD.GENDER}her{?}him{\?} treasure it and believe it will shape who {?CHILD.GENDER}she{?}he{\?} is. You gave {?CHILD.GENDER}her{?}him{\?}..." />
-    <string id="3pBnLqIM" text="Bow equipped troops in your formation gain +5% damage with bows." />
+    <string id="3pBnLqIM" text="Bow equipped troops in your formation gain 5% damage with bows." />
     <string id="3pkVKMnA" text="Most poachers would probably run if they were surprised by armed men. But these ones are bold and desperate. Be ready for a fight." />
     <string id="3PzgpFGq" text="Neutral" />
     <string id="3QeRov0e" text="At the beginning of a battle, the morale of all your troops is increased by 5." />
@@ -314,7 +313,7 @@
     <string id="44tA6fNa" text="I will try to earn your family's trust, then." />
     <string id="49IwOe5E" text="As you wish..." />
     <string id="4ADQ7YZj" text="{PERSON.LINK} won the tournament at {TOWN}." />
-    <string id="4anAdME9" text="Increase your Control Attribute by 1." />
+    <string id="4anAdME9" text="Increases your Control Attribute by 1." />
     <string id="4ATx01zS" text="{HERO.FIRSTNAME} the Rock" />
     <string id="4bDHBIr1" text="You have completed your end of the bargain. {QUEST_GIVER.LINK} now considers you as a trustworthy {?PLAYER.GENDER}tradeswoman{?}tradesman{\?}." />
     <string id="4BeLW46B" text="Increase +5 security in a town per day while waiting." />
@@ -333,7 +332,7 @@
     <string id="4HWFvX8M" text="I gave an oath to my liege. To break it, even for a good reason, would be a great stain on my honor." />
     <string id="4iJku8oc" text="&quot;{CHILD.NAME} wants to play!&quot;" />
     <string id="4iTaEZKg" text="My lady, may you give me another chance to prove myself?" />
-    <string id="4JSzHkpt" text="As {?IS_FEMALE}queen{?}king{\?} you must decide if war will be declared on {KINGDOM_NAME}" />
+    <string id="4JSzHkpt" text="As {?IS_FEMALE}queen{?}king{\?}, you must decide if war will be declared on the {KINGDOM_NAME}" />
     <string id="4kealpZK" text="Have you brought the animals {?PLAYER.GENDER}madam{?}sir{\?}?" />
     <string id="4lEEqyCg" text="Jacorios" />
     <string id="4M6jlZVa" text="{ISSUE_GIVER.LINK} an artisan from {ISSUE_GIVER_SETTLEMENT} has complained to you about not being able to sell their goods at the price they want because of local laws. You agreed to send {ALTERNATIVE_SOLUTION_TROOP_COUNT} of your men along with a companion to smuggle {?ISSUE_GIVER.GENDER}her{?}his{\?} goods to a “friend” in {TARGET_TOWN}. They will return to you in {RETURN_DAYS} days with a sizable sum of {REWARD}{GOLD_ICON}" />
@@ -345,7 +344,6 @@
     <string id="4oxnmb5B" text="Increases your party limit by 15." />
     <string id="4Pbfs4rV" text="Breeder" />
     <string id="4pCODkNn" text="Increase your max health by 5." />
-    <string id="4PJF5EFA" text="{DEFECTION_AGREE_WITHOUT_BARTER}" />
     <string id="4pmvrnmN" text="The castle of {SETTLEMENT_LINK} is owned by {LORD.LINK}, {FACTION_OFFICIAL} of the {FACTION_TERM}. {KEEP_INFO}" />
     <string id="4pOb934Y" text="understands how a victory is won." />
     <string id="4RNREbPW" text="You managed to return all of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter.{newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for looking after my men. You honored our agreement, and you have my gratitude. Please accept this {GOLD}{GOLD_ICON}.”" />
@@ -386,12 +384,10 @@
     <string id="5ao0RdRT" text="Well, I do not deny that there is something about you to which I am drawn." />
     <string id="5AvvGkk4" text="I'm sure what you did was an honest mistake, but there are laws. Hand over the contraband to me, and this will be the end of it." />
     <string id="5axKTUpX" text="Forests give 30% less speed penalty to parties." />
-    <string id="5B6WPxeu" text="{CHAR_NAME}" />
     <string id="5bBAOHmC" text="{RULER.NAME} of the {KINGDOM} takes {SETTLEMENT} as {?RULER.GENDER}her{?}his{\?} fief, with {?RULER.GENDER}her{?}his{\?} council evenly split." />
     <string id="5BEGa9ZS" text="Choose a Skill" />
     <string id="5bmlZ26b" text="Arms Dealer" />
     <string id="5bSWSaPl" text="Footmen on horses" />
-    <string id="5c7Qd3mT" text="40" />
     <string id="5cH6ssDI" text="mercenary company" />
     <string id="5CJOMH90" text="{ARMY} has been disbanded." />
     <string id="5CokRxmL" text="{QUEST_GIVER.LINK}, the headman of the {QUEST_SETTLEMENT} asked you to deliver {GRAIN_AMOUNT} units of grain to {?QUEST_GIVER.GENDER}her{?}him{\?} to use as seeds. Otherwise peasants cannot sow their fields and starve in the coming season. \n \n You have agreed to bring them {GRAIN_AMOUNT} units of grain as soon as possible." />
@@ -445,7 +441,6 @@
     <string id="5zkewF8C" text="You have +1 ammunition for throwing weapons." />
     <string id="5zUIQtTa" text="I want you to surrender or die, brigand!" />
     <string id="60PPnopy" text="Defeated villagers and caravans give 5% more access to their inventory." />
-    <string id="6193thSy" text="Increased stack size for quivers by +4." />
     <string id="61J1wa6k" text="Schedule drills for commoners, increasing militia recruitment." />
     <string id="63lHFDSG" text="Gourmet" />
     <string id="63TAYbkx" text="Urban troops spend much of their time guarding the town walls. Most of their training was in missile weapons, especially useful during sieges." />
@@ -471,11 +466,12 @@
     <string id="6EaKsRtu" text="Accidents are inevitable, and {?PLAYER_CHILD}your{?}the{\?} child isn't bothered by the sight of blood. {?CHILD.GENDER}She{?}He{\?} acts quickly to staunch bleeding and prevent infection." />
     <string id="6ETg3maz" text="Trusted Commander" />
     <string id="6f9Hs5zp" text="{CLAN_NAME} has ended its mercenary contract and become a vassal in {NEW_FACTION_NAME}" />
-    <string id="6fFFbQS6" text="Increase your prisoner size limit by 5 and decrease prisoner escape chance by 10%." />
+    <string id="6fFFbQS6" text="Increases your prisoner size limit by 5 and decreases prisoner escape chance by 10%." />
     <string id="6fMGZbXD" text="Your throwing weapons gain 25% additional speed from your movement." />
     <string id="6gjSupBN" text="{HERO.FIRSTNAME} Mutton-pie" />
-    <string id="6GldhQg8" text="Melee mode of thrown weapons you wield now deals 10% more damage." />
+    <string id="6GldhQg8" text="Melee usage of thrown weapons deals 10% more damage." />
     <string id="6GmsZ7AG" text="You gave {COUNT} {ITEM} to {PARTY_NAME}." />
+    <string id="6gvDrbe7" text="Recruitment expenses" />
     <string id="6IKKFH3A" text="You have received a message and a large purse from {QUEST_GIVER.LINK}. The missive reads: ”The herd is safe. Thank you, and please accept these {REWARD}{GOLD_ICON} with our gratitude.”." />
     <string id="6iLxrDBa" text="You have accepted {QUEST_GIVER.LINK}'s request to find at least {TOTAL_COUNT} different parties of brigands around {QUEST_SETTLEMENT} and decided to hunt them down personally. {?QUEST_GIVER.GENDER}She{?}He{\?} will reward you {AMOUNT}{GOLD_ICON} gold once you have dealt with them." />
     <string id="6jgjJ3Ts" text="help anyone in need." />
@@ -485,7 +481,6 @@
     <string id="6kjacaiB" text="I hope I can bring peace to the land, and justice, and alleviate people's suffering." />
     <string id="6kn630ka" text="Ruler clan gains 100 denars per day for each town in the kingdom\nSettlement loyalty is decreased by 1 per day" />
     <string id="6kqK0kUn" text="There is no need to defend. Patrol the area." />
-    <string id="6L0hggoy" text="You decided not to permit the decree for artisans to behave like merchants." />
     <string id="6L1b1nJa" text="Oh I have a long list of scores to settle. You can be sure of that." />
     <string id="6lbjddM8" text="{PRIOR_LINE} We have been together in many wars. Including many against your {PEOPLE_OR_ALLIES}, the {ETHNIC_TERM}, I should add." />
     <string id="6LFj919J" text="You helped dig wells, rethatch houses, and fix broken plows. You learned about the basics of construction, as well as what it takes to keep a farming community prosperous." />
@@ -496,10 +491,10 @@
     <string id="6mhVzBKL" text="Town garrison is 20% more effective (for security)." />
     <string id="6mQGst9s" text="Healing rate increase +{a0}%" />
     <string id="6mWaEzgs" text="Infantry troops in the formation you are leading have their two handed skill increased by 30." />
-    <string id="6ncPxxfa" text="Ranged troops in your formation gain 10% of the total xp after battles." />
-    <string id="6nm9biYR" text="Troops in your formation use crossbows with +30 Crossbow skill." />
+    <string id="6ncPxxfa" text="Ranged troops in your formation gain an additional 10% of the total xp earned after battles." />
+    <string id="6nm9biYR" text="Crossbow equipped troops in your formation have +30 Crossbow skill." />
     <string id="6nSusCkE" text="Continuous projects provides 20 gold per day." />
-    <string id="6nUa0FIl" text="Bow equipped troops in your formation ignores 5% of enemies armor." />
+    <string id="6nUa0FIl" text="Bow equipped troops in your formation ignores 5% of enemy's armor." />
     <string id="6NWExCu6" text="Army Created" />
     <string id="6OKW8Ba3" text="{ISSUE_GIVER.LINK}, a landowner from {ISSUE_GIVER_SETTLEMENT}, has told you about {?ISSUE_GIVER.GENDER}her{?}his{\?} problems with the herders of {TARGET_SETTLEMENT}. Apparently {?ISSUE_GIVER.GENDER}she{?}he{\?} purchased the right to use a pasture near the village. But some local herders refuse to clear their flocks out and have threatened {?ISSUE_GIVER.GENDER}her{?}his{\?} herders. You have agreed to send {COMPANION.LINK} along with {NEEDED_MEN_COUNT} of your men to take care of the situation. You expect them to return in {RETURN_DAYS} days." />
     <string id="6P1ruzsC" text="Maybe..." />
@@ -511,15 +506,14 @@
     <string id="6qKJ6Uzr" text="I believe the goods have been delivered to you." />
     <string id="6qssnVgo" text="{HERO.FIRSTNAME} of the Pomegranate" />
     <string id="6RckjM4S" text="Presence" />
-    <string id="6Rh07aSi" text="Ranged troops reload speed increased by 5%." />
+    <string id="6REUNz1g" text="Enemy Party:" />
+    <string id="6Rh07aSi" text="Ranged troops' crossbow reload speed is increased by 5%." />
     <string id="6RYVOb0c" text="Manager" />
-    <string id="6SeA2URc" text="{DEFECTION_PERSUADE_ATTEMPT_3}" />
     <string id="6tBhhNaC" text="{HERO.FIRSTNAME} Rottentooth" />
     <string id="6TbPgeQE" text="Garrison troops in governed settlements are 30% more effective in restoring town security." />
     <string id="6u3t174w" text="{PRISONER_LORD.LINK_AND_FACTION} is now free." />
-    <string id="6U6s0EuM" text="Mounted troops in governed settlement's garrison have 50% reduced wages." />
+    <string id="6U6s0EuM" text="Mounted troops have 50% reduced wages in governed settlement's garrison." />
     <string id="6UKdUrPs" text="The men say the food's running out. We expect them to die for us if needed. Least we can do is let them die on a full belly." />
-    <string id="6uu4tSoN" text="50" />
     <string id="6vPCEaSR" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?} that would be very good. Merchants will not like this but the hard-working artisans like me will be grateful to you for this." />
     <string id="6vtmYjTW" text="Jolanna" />
     <string id="6VtZJPSb" text="Javelins you throw penetrate shields like ballista bolts." />
@@ -574,11 +568,11 @@
     <string id="7JoiyH1Y" text="You heard that {CHILD.NAME} could put an arrow through an arm ring from 100 paces away, but you didn't believe it until you saw it." />
     <string id="7K13R6SV" text="You should rest for a while and let your wounds heal." />
     <string id="7kGGgkro" text="Caravans are 30% cheaper to build. 10% less trade penalty." />
-    <string id="7KgllquH" text="Troops under your command in your formation take 3% less damage by range attacks." />
+    <string id="7KgllquH" text="Troops under your command take 3% less damage by range attacks." />
     <string id="7kNxogN8" text="appointing independent elders to uphold the law" />
     <string id="7KshRCtM" text="Excellent. I'll have the goods delivered to you right away." />
-    <string id="7Kz2tQbK" text="Increased your speed damage bonus by 30% while on foot." />
-    <string id="7kZ7BucN" text="Increase your Endurance Attribute by 1." />
+    <string id="7Kz2tQbK" text="Increases your speed damage bonus by 30% while on foot." />
+    <string id="7kZ7BucN" text="Increases your Endurance Attribute by 1." />
     <string id="7ldEMGn6" text="I don't like running away from a battle like that." />
     <string id="7lee0h29" text="One thing - if one or two die, that's the fortunes of war, things could go even worse if we get raided and have no one who can fight back... But try not to get them all massacred. These men will take some risks for me, but not have their lives thrown away to no purpose." />
     <string id="7LjTNs1k" text="{QUEST_GIVER.LINK} will pay you {REWARD_GOLD}{GOLD_ICON} denars when the task is done." />
@@ -605,7 +599,7 @@
     <string id="7vZcwCqA" text="Increase equipped shield hitpoints by 30%." />
     <string id="7WlQ0Twr" text="{WEAPON} of {SETTLEMENT} hit some soldiers of {BESIEGER}!" />
     <string id="7XR4MJci" text="{QUEST_GIVER.LINK}, a landowner in {SETTLEMENT}, told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs prisoners to use in {?QUEST_GIVER.GENDER}her{?}his{\?} mines as manual laborers. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to bring at least {NEEDED_PRISONER_AMOUNT} prisoners but {?QUEST_GIVER.GENDER}she{?}he{\?} will paid extra if you bring more. You have agreed to bring {?QUEST_GIVER.GENDER}her{?}him{\?} at least {NEEDED_PRISONER_AMOUNT} prisoner and you will be paid ten times more than their market price for each prisoner you bring." />
-    <string id="7ZqusnEa" text="Character can produce crude iron more efficiently by obtaining three units of crude iron from one unit of iron ore." />
+    <string id="7ZqusnEa" text="You can produce crude iron more efficiently by obtaining three units of crude iron from one unit of iron ore." />
     <string id="81qgJ7fW" text="Every profitable shop you own gives you 1 renown per day." />
     <string id="83iwPPVH" text="Controlled Smith" />
     <string id="83n7Oa7e" text="burnished {?CHILD.GENDER}her{?}his{\?} social skills." />
@@ -632,7 +626,7 @@
     <string id="8bfzW0np" text="Many captives are still taken, and their families will pay to have them back. Men such as I criss-cross the Empire and the outer kingdoms, acquiring prisoners, and contacting their kin for a suitable ransom." />
     <string id="8BnWa83o" text="I'm just honored to have fought alongside comrades who thought nothing of shedding their blood to keep me alive." />
     <string id="8bwpVpgy" text="you defeated an enemy in battle." />
-    <string id="8coU5Ff5" text="Increase security of your settlement by 1." />
+    <string id="8coU5Ff5" text="Increases security of governed settlement by 1." />
     <string id="8CUvpLtP" text="Increase the prisoner size limit by +10." />
     <string id="8DTKXbKw" text="Hard Knock" />
     <string id="8eV9abMu" text="This hero is suitable but wounded." />
@@ -658,17 +652,17 @@
     <string id="8pjMAqOg" text="Senate" />
     <string id="8POWjrr6" text="Steed Killer" />
     <string id="8PwNj5tR" text="Yes... Yes. We should, em, discuss this." />
-    <string id="8Q1W7vFo" text="Governed farm, mine, lumbercamp, claypit production increased by 10%." />
+    <string id="8Q1W7vFo" text="Production is increased by 10% in governed farms, mines, lumber camps and clay pits." />
     <string id="8qwvZ15E" text="Towns held by the ruler clan gain 1 Loyalty and 1 Prosperity per day\nTowns held by non-ruler clans lose 0.3 Loyalty per day" />
     <string id="8RBZaQKk" text="{AGGRESSOR_RULER.NAME} of the {AGGRESSOR_KINGDOM} chose not to go to war with the {KINGDOM} with the support of {?AGGRESSOR_RULER.GENDER}her{?}his{\?} council." />
     <string id="8rgH8CGc" text="We're just harmless shepherds..." />
-    <string id="8ROAZwyZ" text="Foot Troops in your formation gain 10% increased weapon handling." />
+    <string id="8ROAZwyZ" text="Foot troops in your formation gain 10% increased weapon handling." />
     <string id="8rvpcb4k" text="Tactical Mastery" />
     <string id="8tBET7S5" text="Good. We will be heading out soon." />
     <string id="8TCev3Qs" text="So, captain. We expect a bit of looting and plundering as compensation, in addition to the wages. You don't seem like you're going to provide it to us. So, farewell.[ib:hip]" />
+    <string id="8Tqv9ezH" text="We heard you wish to issue a decree changing our longstanding rules on pricing. Of course this is your right, but I'd like to remind you that we merchants pay significantly more taxes than the artisans. I would ask you to think of the finances of the town, and reconsider this." />
     <string id="8trsbRav" text="{HERO.FIRSTNAME} the {?HERO.GENDER}Widow{?}Orphan{\?}" />
     <string id="8uBbbwY9" text="Max mount difficulty: {a0}" />
-    <string id="8w3FR6eV" text="I will assign a companion with {AlternativeSolutionNeededMenCount} good men for {RETURN_DAYS} days." />
     <string id="8Wa6OxG8" text="It's secret. You must be new in your post if you don't know who I am and what I do." />
     <string id="8wUfQc4W" text="You know me. I'll be careful not to get this get back to the wrong ears." />
     <string id="8Wy1OCsr" text="{WEAPON} of {BESIEGER} hit wall of {SETTLEMENT}!" />
@@ -690,6 +684,7 @@
     <string id="96m29Eb7" text="The Art of The Trade" />
     <string id="97pacK2l" text="Fah... I don't need more men. Thank you." />
     <string id="98giYyES" text="During sieges reduce settlement food consumption by 5%." />
+    <string id="99v8GTTe" text="{DEFAULT_TEXT}Before {?ARMY_LEADER.GENDER}she{?}he{\?} fell, {ARMY_LEADER.LINK} granted {?ARMY_LEADER.GENDER}her{?}his{\?} men their customary right of pillage after a successful siege. They may take property but must spare the townsfolk’s lives." />
     <string id="9ACJsI6S" text="Blocked" />
     <string id="9aoQYpZs" text="Your family's clan never pledged its loyalty to the khan and never settled down, preferring to live out in the deep steppe away from his authority. They remain some of the finest trackers and scouts in the grasslands, as the ability to spot an enemy coming and move quickly is often all that protects their herds from their neighbors' predations." />
     <string id="9arDDOOK" text="Settlement provides 1 extra catapult at the beginning of the siege." />
@@ -703,11 +698,11 @@
     <string id="9cDw6vPF" text="Cadomenos" />
     <string id="9cZeHcAC" text="The cruelty of {CURRENT_LIEGE.NAME} is legendary. Who cares what he stands for if the realm is drenched in blood?" />
     <string id="9d6WxRrj" text="Do you want to buy the goods yourself? Or will I retain ownership, and you just keep the extra profits? I am expecting to earn {TOTAL_DENARS}{GOLD_ICON} for {SELECTED_COUNT} loads of produce. If would like to buy it right away you can simply sell it yourself or do whatever you wish with it." />
-    <string id="9D6Xv3e8" text="Increase settlement tax gain in governed settlement by 5%." />
+    <string id="9D6Xv3e8" text="Increases tax gain in governed settlement by 5%." />
     <string id="9DaDtQbo" text="Disavow {POLICY_NAME}" />
     <string id="9ezoyFMm" text="10% more damage in simulated battles when sallying out." />
-    <string id="9gaXSO0T" text="Foot troops in your party gain +5% campaign speed." />
-    <string id="9HJbLneH" text="Thank you for your help {PLAYER.NAME}. Here is the purse I've promised. Farewell." />
+    <string id="9gaXSO0T" text="Foot troops in your party give +5% party speed." />
+    <string id="9HJbLneH" text="Thank you for your help, {PLAYER.NAME}. Here is the purse I promised you. Farewell." />
     <string id="9iLyu1kp" text="Long Reach" />
     <string id="9iZg4vpz" text="Thank you. You will be rewarded when you are done." />
     <string id="9j7LJk60" text="Collected Items" />
@@ -732,7 +727,6 @@
     <string id="9Tq3IAiz" text="{?CHARACTER.GENDER}She{?}He{\?} was executed in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}" />
     <string id="9ttfQo9G" text="{POACHERS_PERSUADE_ATTEMPT_1}" />
     <string id="9u9OEZ9Y" text="Splendid. My men will guide your companion to the hideout." />
-    <string id="9u9ylfWa" text="You may be right. The laws should stand as they are." />
     <string id="9UABeRWO" text="Yes. Here is your grain." />
     <string id="9vzm2j5T" text="Deserters have noticed our presence, they are running away!" />
     <string id="9WNmQpkm" text="similar to that enjoyed by nobles." />
@@ -740,7 +734,6 @@
     <string id="9xyXdX4I" text="Tharos" />
     <string id="9y0zpKUF" text="You need to be the owner of this settlement!" />
     <string id="9y3X0MQg" text="Loose Formations" />
-    <string id="9yDGkbqw" text="{HERO.NAME}" />
     <string id="9YHjPkb8" text="Force notables to give you recruits." />
     <string id="9YKV4SNH" text="restricting what creditor may do to collect debts" />
     <string id="9zJNjWes" text="{SETTLEMENT} was raided. Your agreement with {QUEST_GIVER.LINK} was canceled." />
@@ -757,7 +750,6 @@
     <string id="a2dJDUoL" text="My sword is my dowry. The gold and land will follow." />
     <string id="A310vHqJ" text="Healing rate increase for troops +{a0}%" />
     <string id="a37zTVVe" text="Believe me, I'll be generous to those who came to me early. Perhaps not as generous to those who came late." />
-    <string id="A3H7ex4y" text="{LIEGE_IS_RELATIVE}" />
     <string id="A3HdRbqf" text="{ARMY} has been disbanded since the leader party has left the army." />
     <string id="A3ql1SUy" text="{PARTY_1} attacked a common area belonging to {PARTY_2} in {SETTLEMENT}." />
     <string id="a48xlNUb" text="Should the owner of {SETTLEMENT} change?" />
@@ -777,7 +769,7 @@
     <string id="A8dyXgLz" text="That's a pity." />
     <string id="A8lvIDVw" text="Wise decision! Now move along! " />
     <string id="A8NttdZY" text="My {?QUEST_GIVER.GENDER}lady{?}lord{\?} will be furious that you are going back on your word." />
-    <string id="a8tFTecO" text="Character has 5% chance to create a 'Legendary' weapon, if difficulty requierements are met. This increases by 1% for every skill point beyond 300." />
+    <string id="a8tFTecO" text="Character has 5% chance to create a 'Legendary' weapon, if difficulty requirements are met. The chance is increased by 1% for each skill point above 300." />
     <string id="a94mkNNk" text="Arrow Catcher" />
     <string id="A9mtiIx2" text="Increases your thrust damage with polearms by 10%." />
     <string id="aa1lM2MV" text="{HERO.FIRSTNAME} the Angel" />
@@ -790,7 +782,7 @@
     <string id="AAy1oX7z" text="Hunter Clan" />
     <string id="abda9slW" text="We were waiting for you, {?PLAYER.GENDER}madam{?}sir{\?}. Have you brought the troops that our {?ISSUE_OWNER.GENDER}lady{?}lord{\?} requested?" />
     <string id="ABeCWcLi" text="While you are resting, you hear news that a force led by {ATTACKER} has arrived outside the walls of {DEFENDER} and is beginning preparations for a siege." />
-    <string id="Abj4P4Hg" text="Every skill point after 200 grants you 0.5% damage increase with throwing weapons." />
+    <string id="Abj4P4Hg" text="Each skill point above 200 grants you 0.5% damage increase with throwing weapons." />
     <string id="abkmGhLH" text="Has {CURRENT_LIEGE.NAME} really repaid you for your service as you deserve?" />
     <string id="ABmCO23x" text="{QUEST_GIVER.NAME} Needs Help With Brigands" />
     <string id="abmSQFR5" text="{YOUNG_HERO.LINK} has died under your care. {QUEST_GIVER.LINK} is furious." />
@@ -805,11 +797,11 @@
     <string id="acp2IcMs" text="Crotor" />
     <string id="acu1wTeq" text="Your men are sure of that some of the goods were stolen from the baggage train." />
     <string id="ACvQdkG8" text="Discuss the terms of your surrender" />
-    <string id="AcYxyuDL" text="5% movement speed bonus in deserts and dunes" />
-    <string id="AD30RcU9" text="Troops in your formation deal 10% more damage against foot troops with crossbows." />
+    <string id="AcYxyuDL" text="5% movement speed bonus on deserts and dunes." />
+    <string id="AD30RcU9" text="Troops in your formation deal 10% more damage against foot soldiers with crossbows." />
     <string id="ADabRUeh" text="weapons" />
     <string id="Adah5bay" text="The most powerful weapons require years of practice and conditioning to use properly. Their wielders need to start early." />
-    <string id="aDbvfb8z" text="+50% damage to head shots with thrown weapons." />
+    <string id="aDbvfb8z" text="+50% damage to headshots with thrown weapons." />
     <string id="AdK4Ilzw" text="Chalia" />
     <string id="AdkSktd2" text="You have to send {NUMBER} {?MOUNTED}cavalry {?}{\?}troops to this quest." />
     <string id="AdoaDR26" text="{QUEST_GIVER.LINK} asks you to scout {SETTLEMENT_1}, {SETTLEMENT_2} and {SETTLEMENT_3}." />
@@ -851,7 +843,7 @@
     <string id="aJHMafam" text="{?PLAYER.GENDER}Madam{?}Sir{\?} - a moment of your time! You're on a job for {ISSUE_GIVER.LINK}, am I right? Look - our people are depending on those jobs. {?ISSUE_GIVER.GENDER}She{?}He{\?} doesn't need to pay us a living wage if {?ISSUE_GIVER.GENDER}she{?}he{\?} can do the work with prisoners. Please - break your agreement. You don't have to do this." />
     <string id="aJLQz9iZ" text="Silver Mine" />
     <string id="aK23T43P" text="Keeps stockpiles of food so that the settlement has more food supply. Each level increases the local food supply." />
-    <string id="ak8QloJg" text="While besieged, governed settlement consumes 20% less food." />
+    <string id="ak8QloJg" text="While under siege, governed settlement consumes 20% less food." />
     <string id="aKaGaOQx" text="{CLAN_LEADER.NAME}'s Clan" />
     <string id="AkbiPIij" text="Orchards" />
     <string id="AKdDSZoM" text="Yes. It's a good problem to have, though. As you know, I deal in {SELECTED_ITEM}. Production this year has been very good, and we can no longer make a profit on the local market. I cannot however, put together a caravan to sell it elsewhere. So, I propose a very simple deal." />
@@ -861,10 +853,10 @@
     <string id="ALC3Kzv9" text="Besieged" />
     <string id="AlFTInfU" text="States with strict and formal laws of inheritance make it more difficult to revoke land." />
     <string id="aLsVKIRy" text="Wounded Members" />
-    <string id="AlY8Edde" text="Governed settlement gain +1 loyalty per day." />
+    <string id="AlY8Edde" text="Governed settlement gains 1 loyalty per day." />
     <string id="AlZB8WIb" text="War Tax" />
     <string id="AmBEgOyq" text="I see..." />
-    <string id="aMHPsSe4" text="Foot troops in your party gain +3 xp everyday while traveling." />
+    <string id="aMHPsSe4" text="Foot troops in your party gain 3 xp everyday while traveling." />
     <string id="aMICdOjq" text="{NEW_LIEGE.NAME} will be grateful to those who backed {?NEW_LIEGE.GENDER}her{?}him{\?} before {?NEW_LIEGE.GENDER}her{?}his{\?} victory was assured. Not so much after it's assured." />
     <string id="aO2JSbSq" text="Sharpened Tip" />
     <string id="ao9bhAhf" text="You are not leading any troops" />
@@ -874,18 +866,18 @@
     <string id="aoKJbxi8" text="Increase relationship by 1 with a random noble over age 50 while in a town." />
     <string id="AONaIqXv" text="20% decrease in sell price penalty for pottery, tools, cotton and jewelery." />
     <string id="AozaGCru" text="{CLAN_NAME} has joined {KINGDOM_NAME} as mercenary." />
-    <string id="apabj5be" text="Running speed: +{a0} %" />
     <string id="aPbpBJq5" text="Prison Architect" />
     <string id="APEBfqyW" text="Greetings my {?PLAYER.GENDER}lady{?}lord{\?}. Do you wish something from me?" />
     <string id="ApG1xg7O" text="{PARTY_NAME} has left {ARMY_NAME}." />
     <string id="apr2dH0n" text="{ISSUE_SETTLEMENT} Needs Grain Seeds" />
     <string id="APSE3Q6r" text="What? No... I cannot, I cannot agree." />
     <string id="apuNQC2W" text="What can I do for you?" />
-    <string id="aQAI99d4" text="Declaring War On {KINGDOM_NAME}" />
+    <string id="aQAI99d4" text="Declaring War on the {KINGDOM_NAME}" />
     <string id="aqCj9dhC" text="There is no need to defend. Siege their settlements!" />
     <string id="aQduWCrg" text="Max difficulty of siege engine that can be built: {a0}" />
     <string id="AQi1arUp" text="Anyway, if you have any prisoners, I will be happy to buy them from you." />
     <string id="aqp9ZtXb" text="{HERO.FIRSTNAME} the Wart" />
+    <string id="aQVdW6aC" text="You have left {QUEST_GIVER_FACTION}. Your agreement with {QUEST_GIVER.LINK} is terminated." />
     <string id="aQYMefHU" text="Maybe we can work out something." />
     <string id="aR3M3YfX" text="Infantry troops in the formation you are leading have their attack speed increased by 2%." />
     <string id="arbaXvQf" text="Effects village's production." />
@@ -893,9 +885,9 @@
     <string id="arCGUuR5" text="The settlement is under siege." />
     <string id="aRfMtTUT" text="Good. See if you can hit {NUMBER_OF_TARGET_VILLAGE} villages. They won't be able to ignore that kind of damage. I'll give you {BASE_REWARD}{GOLD_ICON} for doing that, and {EXTRA_REWARD}{GOLD_ICON} more for every extra one that you raid. Agreed?" />
     <string id="ARNYrXln" text="{TROOP.NAME} has claimed {SIDE1_PARTY} currently held by the {SIDE2_FACTION}" />
-    <string id="Arwl4bAi" text="Increase the morale of each Tier 1 to 3 troops by 10%." />
+    <string id="Arwl4bAi" text="Increases the morale of each Tier 1 to 3 troops by 10%." />
     <string id="asePjBVy" text="{HERO.FIRSTNAME} the {?HERO.GENDER}Freedwoman{?}Freedman{\?}" />
-    <string id="AsjB3siS" text="Range troops in governed garrison provide 20% more security." />
+    <string id="AsjB3siS" text="Range troops in governed settlement's garrison provide 20% more security." />
     <string id="aSniKUJv" text="High Loyalty" />
     <string id="ASOW1MuQ" text="Your settlement {SETTLEMENT} is under attack by {PARTY} of {FACTION}!" />
     <string id="ASRpFaGF" text="Nice try, brigand. Surrender or die!" />
@@ -908,7 +900,6 @@
     <string id="atk3PTae" text="Deserters are extorting from the villagers of {SETTLEMENT} and have killed several who resisted." />
     <string id="aTncHUfL" text="stood guard with the garrisons." />
     <string id="aTPc7AkY" text="All right. But I can only hire {MERCENARY_COUNT} of you. Here is {GOLD_AMOUNT}{GOLD_ICON}" />
-    <string id="atRDtxfr" text="My {?PLAYER.GENDER}lady{?}lord{\?}, we heard that you wish to issue a decree granting craftsmen the same trading rights as us merchants. Please reconsider this." />
     <string id="Au7VCWTa" text="Mercy represents your general aversion to suffering and your willingness to help strangers or even enemies." />
     <string id="auCinAKs" text="never tires out." />
     <string id="auftprN9" text="allowing the common people to elect tribes to represent them" />
@@ -953,23 +944,22 @@
     <string id="B0eBWPoO" text=" You shared your food with starving soldiers of your army. You gained {INFLUENCE}{INFLUENCE_ICON}." />
     <string id="B0uKPW9S" text="Vote for the next ruler of {KINGDOM_NAME}" />
     <string id="B0YOpGsZ" text="Any news about my prisoners?" />
-    <string id="b1lsZNxE" text="You failed to deliver {REQUESTED_ANIMAL_AMOUNT} {?PLURAL}{SELECTED_ANIMAL}{.s}{?}{SELECTED_ANIMAL}{\?} to {QUEST_GIVER.LINK} in time." />
+    <string id="b1lsZNxE" text="You failed to deliver enough prisoners in time. {QUEST_GIVER.LINK} must be disappointed." />
     <string id="B1meG5eO" text="Your workshop productions increased by 25%." />
     <string id="b2aRoXsb" text="Tessa" />
     <string id="b2ePtImV" text="Those who are loyal to me, I am loyal to them." />
     <string id="b2InhEeP" text="We oppose expelling the clan" />
     <string id="B2lVai6s" text="Your troops receive 25% less morale penalty from casualties when using Line, Loose, Circle or Scatter formations." />
     <string id="b36QZ1aZ" text="{LYRIC_SCRAP}" />
-    <string id="b38NeEp2" text="Foot troops in your party gain +10 xp everyday while waiting in settlements." />
+    <string id="b38NeEp2" text="Foot troops in your party gain 10 xp everyday while waiting in settlements." />
     <string id="b3iBOVXN" text="Passing by a wadi, you see what looks like a camouflaged well to tap the groundwater left behind by rare rainfalls." />
     <string id="b3PsxeiB" text="Appraiser" />
     <string id="b3shPt8Q" text="You cannot enter an enemy keep." />
     <string id="B3WyJjBx" text="{QUEST_GIVER.LINK}, a gang leader from {SETTLEMENT}, wants you to get {?QUEST_GIVER.GENDER}her{?}him{\?} some weapons. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to buy {NEEDED_AMOUNT} units of {NEEDED_TYPE} and deliver them to {SETTLEMENT} where {QUEST_GIVER.LINK}'s men will be waiting for you. {?QUEST_GIVER.GENDER}She{?}He{\?} promised to give you {REWARD_GOLD}{GOLD_ICON} for your troubles." />
     <string id="b47HTdFK" text="Troops in your formation gain 1% damage against any troop." />
-    <string id="b4BX9Fr5" text="Governed settlement gain +0.5 militia per day." />
+    <string id="b4BX9Fr5" text="Governed settlement gains 0.5 militia per day." />
     <string id="b4lDDcli" text="Family" />
     <string id="b4TeiuoJ" text="Exceptional taxes were often applied in wartime." />
-    <string id="B52IxT9p" text="BARTER LINE - Covered by barter interface. Please do not remove these lines!" />
     <string id="b5DWVsOZ" text="{HERO.NAME} has died in battle." />
     <string id="b5Ucatkb" text="Tell me about your journeys. What news of the markets?" />
     <string id="B5UMlqHc" text="I'll be honest... We don't want to die. Would you take us on as hired fighters? That way everyone gets what they want." />
@@ -979,8 +969,8 @@
     <string id="b6Spbd9O" text="{VICTIM.LINK} has been executed by {KILLER.LINK}." />
     <string id="b6W74uyR" text="Splinters" />
     <string id="b7APCGY2" text="Talk to other members" />
-    <string id="b7c5Q3BY" text="Character can refine two units of fine steel into one unit of Thamaskene steel, and one unit of crude iron as by-product." />
-    <string id="b7FbnGn6" text="Tier 3+ foot troops your formation gain +10% movement speed." />
+    <string id="b7c5Q3BY" text="You can refine two units of fine steel into one unit of Thamaskene steel, and one unit of crude iron as by-product." />
+    <string id="b7FbnGn6" text="Tier 3+ foot troops in your formation gain 4% movement speed." />
     <string id="B7HwvV6L" text="A Good Days Rest" />
     <string id="B7JVLc4u" text="Choose a Tutor" />
     <string id="b7UHp4J9" text="Leave the siege" />
@@ -996,11 +986,11 @@
     <string id="bAHNQGAw" text="Our allies need help. Cease our besiege!" />
     <string id="bai3aiDB" text="as an envoy." />
     <string id="BaifRgT5" text="That's useful to know for when it comes time to discuss the exchange of dowries." />
-    <string id="BajgWS2n" text="Crossbow equipped troops in your formation take 3% less damage by range attacks." />
+    <string id="BajgWS2n" text="Crossbow equipped troops in your formation take 3% less damage from projectiles." />
     <string id="basevalue" text="Base" />
     <string id="baUFKAbd" text="One handed weapon damage: +{a0} %" />
     <string id="bAVZloaC" text="{ARMY} has been disbanded since dismissal is requested." />
-    <string id="BaYbaMU2" text="Ranged troops in garrison provide 30% more security." />
+    <string id="BaYbaMU2" text="Ranged troops in governed settlement's garrison provide 30% more security." />
     <string id="BazrgEOj" text="Counterweight" />
     <string id="bb1hS9I4" text="Dirty Fighting" />
     <string id="Bb3oHQNa" text="Thanks, this will come in handy." />
@@ -1013,7 +1003,7 @@
     <string id="BC4BC0ZC" text="{HERO.FIRSTNAME} the Spicetrader" />
     <string id="bcA7ZuyO" text="Learning Limit Exceeded" />
     <string id="bcGzpFSg" text="Are you sure about what your hunters saw? My men are starting to run out of patience." />
-    <string id="bcONdncG" text="+2 daily xp gain to all troops in garrison to governed settlements." />
+    <string id="bcONdncG" text="+2 xp daily to all troops in garrison to governed settlement." />
     <string id="BCoQgZvG" text="Perfect Technique" />
     <string id="bcpYibrF" text="10% more damage bonus in simulations against bandit parties." />
     <string id="BCU6RezA" text="Smiths" />
@@ -1021,6 +1011,7 @@
     <string id="BCy1KpvR" text="Lacalion" />
     <string id="bcYgBWkn" text="Trade penalty within cities of your faction is decreased by 5%." />
     <string id="bCZbgrLU" text="The smith came down sick and the young {?CHILD.GENDER}woman{?}man{\?} had to quickly learn how to craft horseshoes and nails." />
+    <string id="BDAmZkJF" text="You received a message from {ISSUE_GIVER.LINK}. 'It was a pleasure doing business with you and your folks.'" />
     <string id="bDANTRwA" text="5% tax on tariffs is paid to the ruler clan\nHigher trade penalty in towns\nSettlement prosperity is decreased by 1 per day" />
     <string id="BdQMQW8t" text="Riding Horde" />
     <string id="Bdt41knf" text="You have accepted {QUEST_GIVER.LINK}'s request to find at least {TOTAL_COUNT} different parties of brigands around {QUEST_SETTLEMENT} and sent {COMPANION.LINK} and with {?COMPANION.GENDER}her{?}his{\?} {ALTERNATIVE_COUNT} of your men to deal with them. They should return with the reward of {GOLD_AMOUNT} denars as promised by {QUEST_GIVER.LINK} after dealing with them in {RETURN_DAYS} days." />
@@ -1088,10 +1079,10 @@
     <string id="Bm7U7TgG" text="If you're going to keep pestering us, traveller, we might need to take a bit more coin from you." />
     <string id="bm7UcuQj" text="No! There is no need to fight. I don't want any bloodshed... Just leave." />
     <string id="bM9VX881" text="Shield breaker" />
-    <string id="bMBqJx4h" text="Party suffers 20% less speed penalty from being over burdened." />
+    <string id="bMBqJx4h" text="Your party suffers 20% less from speed penalty for being overburdened." />
     <string id="bmfo7CaO" text="Village shop is not available right now." />
     <string id="bmHAYBwX" text="Catila" />
-    <string id="bMPZi9OZ" text="Increase your damage against mounts with bows by 30%." />
+    <string id="bMPZi9OZ" text="Increases your damage against mounts with bows by 30%." />
     <string id="BMQQSeTp" text="I'm sure my men will find what you need and bring them to you in time." />
     <string id="bMSI9Bt3" text="Council of the Commons" />
     <string id="bMTfCgTY" text="You accepted the merchant's request. You've handed over the goods." />
@@ -1118,7 +1109,7 @@
     <string id="bOTQ7Pta" text="Town" />
     <string id="bOtYmSP8" text="Road Tolls" />
     <string id="bOyjQ4yr" text="If you can deliver {AMOUNT_REQUESTED} units of {RAW_MATERIAL} to my contact {TARGET_HERO.LINK}, who you can find in {TARGET_SETTLEMENT}, that would help me survive for a time. The merchants of the town could be furious and lodge legal complaints of course, but hopefully you won't have to deal with that part." />
-    <string id="Bp0ZQbfp" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} has decided to show mercy to the people of {SETTLEMENT}." />
+    <string id="Bp0ZQbfp" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} has decided to show mercy to the people of {SETTLEMENT}. You can hear disgruntled murmuring among the troops, who have been denied their customary right of pillage." />
     <string id="bP3XdKK3" text="{HERO.FIRSTNAME} of the Dawn" />
     <string id="bPbzwMat" text="I could only deliver {AMOUNT_TO_DELIVER} units of {REQUESTED_GOOD}." />
     <string id="bPcO3Km2" text="Yes, things come up, but my agreement with {QUEST_GIVER.LINK} was for a fixed amount of goods. I don't want to negotiate a new deal. Please come back when you can get the full amount." />
@@ -1129,13 +1120,13 @@
     <string id="bPqwLopK" text="Mm. Are you a slaver?" />
     <string id="bpXgcBCp" text="What we did to that village... I don't like it. Those farmers, they're a lot like my people. I want to know it won't happen again." />
     <string id="bqEO389P" text="This decision caused a split in the council." />
-    <string id="bqjL4vxF" text="Deal 40% more damage against horses with throwing weapons." />
+    <string id="bqjL4vxF" text="Deal 40% more damage with throwing weapons against horses." />
     <string id="bQKbW8Tx" text="Thasyna" />
     <string id="BqkD4YWr" text="You manage to round up some men from the village who look like they might make decent recruits." />
     <string id="BQuVWKvq" text="You're welcome. Is there anything we need to discuss?" />
     <string id="bqXpBNvF" text="Cinnamon {HERO.FIRSTNAME}" />
     <string id="BRbEODrQ" text="Increased tariff income by 10%." />
-    <string id="bRdjTD7Q" text="Throwing weapon projectile speed increased by 25%." />
+    <string id="bRdjTD7Q" text="Projectile speed of your throwing weapons is increased by 25%." />
     <string id="brDw7ewN" text="You have failed to deliver {GRAIN_AMOUNT} units of grain to the villagers. They won't be able to sow them before the coming winter. The Headman and the villagers are doomed." />
     <string id="brixvCjC" text="guided the caravan." />
     <string id="brmnjfP3" text="Each skill point above 250 grants you 0.2% speed increase with two handed weapons." />
@@ -1143,7 +1134,8 @@
     <string id="brzz79Je" text="You cannot enter arena while in disguise." />
     <string id="bS0bBgp3" text="I'm happy to hear this. Tell me, what is the most important lesson you've learned from me?" />
     <string id="bs8ayCGX" text="'A warrior brave you might surely be \n With your blade and your helm and your bold fiery steed \n But I'll give you a warning you'd be wise to heed \n Don't toy with the fishwives of {RANDOM_TOWN}'" />
-    <string id="BSLbbQ7j" text="1.25x zoom in with throwing weapons." />
+    <string id="bSguu34C" text="After listening to the town merchants, you decided to let the merchants continue price-fixing." />
+    <string id="BSLbbQ7j" text="You can zoom in 25% more with throwing weapons." />
     <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}" />
     <string id="Bsp30p3g" text="{HERO.FIRSTNAME} the Cooper" />
     <string id="BsVXQEhj" text="How may I help you?" />
@@ -1160,6 +1152,7 @@
     <string id="BuPOdw0f" text="Your infantrymen suffer 10% less damage by ranged troops in simulations." />
     <string id="bvEOmHWd" text="I think a man who knows how to trade alongside {ALTERNATIVE_TROOP_AMOUNT} fighters can get the job done without trouble. Also they will need {GOLD_REQUIRED_FOR_ALTERNATIVE_SOLUTION}{GOLD_ICON} denars to buy the animals. You or one of your companions, {?PLAYER.GENDER}madam{?}sir{\?} - it doesn't matter for us as long as you find the animals we need..." />
     <string id="bVi0JKSx" text="You will be executed. You must face it as bravely as you can" />
+    <string id="BVIm1HPw" text="Party Name:" />
     <string id="bVmHW3wg" text="When fighting against bandit parties you have +5 battle morale." />
     <string id="bvRVu0fO" text="{SKILL1} and {SKILL2} gain {NUMBER_FP} Focus Point and {NUMBER_SP} Skill Points." />
     <string id="BvytaDUJ" text="Heaven protect us from the likes of you." />
@@ -1193,7 +1186,7 @@
     <string id="ByRAgJy4" text="Housing Costs" />
     <string id="ByrkbDoK" text="10% extra speed bonus for horsemen on campaign map." />
     <string id="BYTrUJyj" text="In War" />
-    <string id="byX4TWWM" text="Reduces upkeep of ranged troops in the governed garrison by 20%." />
+    <string id="byX4TWWM" text="Reduces upkeep of ranged troops in the governed settlement's garrison by 20%." />
     <string id="bZbFrIUr" text="a mug of kvass" />
     <string id="BZIKo5Qd" text="30% increased chance to recover lethal wounds in siege assaults." />
     <string id="bZlhwK0a" text="Bows are all very well for small game, but those who pursue bears, boar or wolves bring spears along." />
@@ -1210,7 +1203,7 @@
     <string id="c5dsio8Q" text="Relation increase with NPCs +{a0}%" />
     <string id="c5GOJIhU" text="Steel Maker 3" />
     <string id="C5UrdSgj" text="Fast legs and stamina are as vital to a warrior's survival as {?CHILD.GENDER}her{?}his{\?} strength and skill." />
-    <string id="C7BAafCR" text="When no shields and range weapons are wielded, gain 10% faster movement." />
+    <string id="C7BAafCR" text="When no shields and range weapons are wielded, you gain 5% movement speed." />
     <string id="c7cdMWA3" text="Buttermilk {HERO.FIRSTNAME}" />
     <string id="c9aKz2A6" text="Morale bonus from having diverse food is doubled." />
     <string id="captainasleader" text="Captain" />
@@ -1219,7 +1212,7 @@
     <string id="cBAVR7e8" text="granting high-ranking nobles the right to summon large armies" />
     <string id="CBBPWMZd" text="Thanks to you, my mines are full {?PLAYER.GENDER}madam{?}sir{\?}. I will only buy {X} more then we're done." />
     <string id="cbF9jdQo" text="Your parents didn't give you much money, but they did leave just enough for you to purchase a plot of unused land at the edge of the village. You cleared away rocks and dug an irrigation ditch, raised a few seasons of crops, than sold it for a considerable profit." />
-    <string id="cbwRp51K" text="Decrease your reload movement penalty by 50%." />
+    <string id="cbwRp51K" text="Decreases the penalty to movement speed for reloading by 50%." />
     <string id="CbxLZdVg" text="Lycos" />
     <string id="cbzJRaDJ" text="You are my prisoner now!" />
     <string id="cC8iTtg5" text="Throwing Competitions" />
@@ -1236,12 +1229,12 @@
     <string id="CeYwClaG" text="Yes, there is one starting at {NEARBY_TOURNAMENTS_LIST}. I am sure the arena master can explain the rules, if you need to know them." />
     <string id="CfDlOdTH" text="Go to the arena" />
     <string id="cfjTtxWv" text="Maximum" />
-    <string id="cFN6JaT2" text="Melee Cavalry in your formation gain +5% to melee damage." />
+    <string id="cFN6JaT2" text="Melee cavalry in your formation deals 5% more melee damage." />
     <string id="Cg3hH8gN" text="You have to send {NUMBER} {?MOUNTED}cavalry {?}{\?}troops with at least tier {TIER} to this quest." />
     <string id="CGOG31aq" text="For every project completed increase relation between a random notable and the settlement owner by 1." />
     <string id="cGSXFJ3N" text="Because of a recent breakout attempt in this settlement it is on high alert. The guard won't even be seen talking to you." />
     <string id="cGuPMx4p" text="Perfect Health" />
-    <string id="cH0iAEfq" text="Solve this matter immediately. I need those animals." />
+    <string id="cH0iAEfq" text="Please take care of this as quickly as you can. I need those animals." />
     <string id="ch6zCk2w" text="You know me as someone who seeks to avoid bloodshed." />
     <string id="character_creation_content_16" text="As a child you were noted for..." />
     <string id="cHgLxbbc" text="Pre Battle Maneuvers" />
@@ -1249,6 +1242,7 @@
     <string id="ChsBdNW8" text="You must know something about this region's dark underbelly. Bandits and the like..." />
     <string id="Ci8NCwgW" text="{ISSUE_GIVER.LINK} a landowner in {SETTLEMENT}, asked you to train recruits for {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} gave you 10 men, hoping to take them back when once they are veterans.{newline}You sent them with one of your companions {COMPANION.LINK} to hunt down some easy targets. You arranged to meet them in {RETURN_DAYS} days." />
     <string id="ciELES5v" text="Swift Strike" />
+    <string id="CiSkFsfa" text="Increases stack size for quivers by 4." />
     <string id="CITG915d" text="joined a commander's staff." />
     <string id="CJIsjKn0" text="20% less penalty from overburden " />
     <string id="CjuVoxaC" text="Yes, Here are your animals." />
@@ -1265,6 +1259,7 @@
     <string id="cnbeJh6Y" text="After many tries {?CHILD.GENDER}she{?}he{\?} successfully beat {?CHILD.GENDER}her{?}his{\?} tutor, fair and square, during sparring." />
     <string id="CNYoZKyf" text="dabbled in intrigue." />
     <string id="cO61R3va" text="We've got no quarrel with you." />
+    <string id="cOgmdp9e" text="Decline" />
     <string id="cojKmfSk" text="There is no one inside." />
     <string id="cOS8cdib" text="Mangonels and trebuchets in siege bombardment reload 25% faster." />
     <string id="cOyolp4F" text="I am just not... How can I say this? I am not attracted to you." />
@@ -1283,14 +1278,14 @@
     <string id="CqmoyrHH" text="You can assign a companion with {REQUIRED_SOLDIERS} men, they will be enough too. Both ways works fine for us. I promise if you or your men manage to deliver the herd safely, I will pay you {REWARD}{GOLD_ICON}. So what do you say?" />
     <string id="CQWKrd0a" text="{HERO.FIRSTNAME} of the Spinning-Wheel" />
     <string id="cr2jmYxg" text="You remember poring over the hand-drawn schematics of mangonels and towers for hours, imagining that one day you might build one of these awesome instruments of destruction yourself." />
-    <string id="crg2DrbZ" text="We are worried that the herders of target settlement will harm our animals. Fortunately we have you on our side {?PLAYER.GENDER}madam{?}sir{\?}." />
+    <string id="crg2DrbZ" text="We are worried that the herders of {TARGET_SETTLEMENT} will harm our animals. Fortunately we have you on our side {?PLAYER.GENDER}madam{?}sir{\?}." />
     <string id="cRpsjvOM" text="{AGGRESSOR_RULER.NAME} of the {AGGRESSOR_KINGDOM} has declared war on the {KINGDOM} with the support of {?AGGRESSOR_RULER.GENDER}her{?}his{\?} council." />
     <string id="cRVT5qHi" text="I wish to ransom one of my companions." />
     <string id="cRwfJ7aU" text="Infantry troops in the formation you are leading have their damage increased by 2%." />
     <string id="cRwNeSzb" text="Everything Has a Price" />
-    <string id="CRXQ3Fmn" text="+1 focus points to throwing." />
+    <string id="CRXQ3Fmn" text="Gives 1 focus point to Throwing." />
     <string id="CrzFdo2H" text="Yes. It's about the war with the {ENEMYFACTION_INFORMALNAME}. We need to tie up some of their forces. A relatively small force moving quickly through their lands and raiding their villages should be a good distraction. Their lords will need to chase the raiders and won't be able to threaten us elsewhere. You seem to be the right {?PLAYER.GENDER}warrior{?}man{\?} for the job. What do you say? You'll have my gratitude and you'll be well rewarded if you succeed." />
-    <string id="csKot5g4" text="Your throwing weapons deal 50% more damage to enemies with less than 50% health left." />
+    <string id="csKot5g4" text="Your throwing weapons deal 50% more damage to enemies with less than 50% hit points left." />
     <string id="CSqaF7tz" text="There's been a real surge of banditry around here recently. I don't know if it's because the lords are away fighting or something else, but it's a miracle if a traveler can make three leagues beyond the gates without being set upon by highwaymen." />
     <string id="cSt26auo" text="Increase garrison size by +{a0}" />
     <string id="csUq1RCC" text="You were employed as a hired hand at the town's stables. The overseers recognized that you had a knack for horses, and you were allowed to exercise them and sometimes even break in new steeds." />
@@ -1318,7 +1313,7 @@
     <string id="cxQGUbUD" text="I'm so grateful! You've kept my workshop running and my family fed. Please take this money and some extra to cover your costs." />
     <string id="CymOFgzv" text="I gave an oath to {CURRENT_LIEGE.LINK} - but {?LORD.GENDER}her{?}his{\?} disregard for the common people of this realm does give me pause." />
     <string id="cyQXm7VA" text="The young {?CHILD.GENDER}woman{?}man{\?} was charged with ensuring they had the food, saddles, animals, teamsters and guards for the journey." />
-    <string id="cYvpUGq9" text="Prisoners in your party is 50% less likely to escape." />
+    <string id="cYvpUGq9" text="Prisoners in your party are 50% less likely to escape." />
     <string id="cZ2eQZdZ" text="Your shield takes 20% less damage while blocking the wrong direction." />
     <string id="cZ38hU37" text="Military projects (barracks, training fields, battlements, workshop etc.) are built 30% faster." />
     <string id="CZ4y5NAf" text="Clean Infrastructure" />
@@ -1330,7 +1325,7 @@
     <string id="czuvE3PC" text="Do you think I will break my word for a handful more silver?" />
     <string id="CZuYne8X" text="Singing, dancing and playing an instrument is important but the {?IS_BATTANIA}bard{?}minstrel{\?} knows more. You asked him to make sure the child is also skilled in..." />
     <string id="d0kbtGYn" text="You don't have enough gold." />
-    <string id="d0ubMkDV" text="Trade penalty while selling smithed weapons is halved." />
+    <string id="d0ubMkDV" text="Trade penalty is halved for selling smithed weapons." />
     <string id="D0xDRqvm" text="{PERSUASION_REACTION}" />
     <string id="d18Ul2Zl" text="a plate of sardines" />
     <string id="D1biQObM" text="I will pay double whatever {ISSUE_OWNER.NAME} is paying you! Please consider my offer!" />
@@ -1340,7 +1335,7 @@
     <string id="D33fIGQe" text="Never mind." />
     <string id="D3W9Qi0Z" text="All lords have a formal role on the council." />
     <string id="D40RPEbz" text="You have failed to enter a tournament in time. {QUEST_GIVER.LINK} will certainly be disappointed." />
-    <string id="D49gf45A" text="Decrease your armor weight by 30%." />
+    <string id="D49gf45A" text="Decreases your armor weight by 15%." />
     <string id="d52z03aH" text="Reduce food consumption of garrisons during siege by 10%." />
     <string id="d5aK6Sv0" text="Strong" />
     <string id="D5JUgcyl" text="Tier 1 and tier 2 troops have 30% higher chance to recover from fatal wounds." />
@@ -1353,8 +1348,8 @@
     <string id="D9F4IA2W" text="When you are attacked in a field battle 10% more damage in simulations." />
     <string id="D9LxQxNa" text="Thank you for your help {?PLAYER.GENDER}madam{?}sir{\?}. We will be waiting for your men. Good luck to you all." />
     <string id="dA8RGoQ1" text="You have arrived at {SETTLEMENT_LINK}. {KEEP_INFO}" />
-    <string id="dAau8qyS" text="Decrease mounted accuracy penalties by 15%." />
-    <string id="daJkC7ZG" text="Hit points increased by 2." />
+    <string id="dAau8qyS" text="Decreases accuracy penalty by 15% while you are mounted." />
+    <string id="daJkC7ZG" text="Increases your hit points by 2." />
     <string id="daXZlOBi" text="We need {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}units{?}unit{\?} of {._}{ITEM} in {NUMBER_OF_DAYS} days. We can offer {PAYMENT}{GOLD_ICON} for the tools and your services. What do you say?" />
     <string id="DBabgrcC" text="This hero is not available right now." />
     <string id="dbEb7iak" text="Way Of The Great Axe" />
@@ -1370,7 +1365,7 @@
     <string id="DcoDtW2A" text="Choose a Gift" />
     <string id="dcV0iOYB" text="Gather your troops and prepare for battle!" />
     <string id="Dd9bwAZL" text="I was planning to give you some troops to solve this task but it seems like there are lots of troops under your command already." />
-    <string id="ddcEaGrG" text="Your troops' kills by crossbows inflict 25% more morale damage to enemy." />
+    <string id="ddcEaGrG" text="Your troops' crossbow kills inflict 25% more morale loss to enemy." />
     <string id="DdeIg5hz" text="As you move through the streets, you hear whispers of an upcoming war between your faction and {SETTLEMENT_FACTION}. Upon hearing this, you slink away without attracting any suspicion." />
     <string id="ddEu5IFQ" text="I hope so." />
     <string id="dDmcqTzb" text="Yours wasn't the kind of reputation that local legends are made of, but it was the kind that wins you respect among those around you. You were consistently fair and honest in your business dealings and helpful to those in trouble. In doing so, you got a sense of what made people tick." />
@@ -1378,7 +1373,7 @@
     <string id="ddymPMWg" text="{VILLAGER_GREETING}" />
     <string id="ddYWbO8b" text="The usual?" />
     <string id="dE3vxfTo" text="Excellent. I'm sure they can learn a lot from your veterans." />
-    <string id="dEItpQvn" text="Thrown weapon hits that deal over 25% damage have 50% chance to dismount cavalry." />
+    <string id="dEItpQvn" text="Thrown weapon hits that deal damage over 25% of enemy cavalry's hit points have 50% chance to dismount them." />
     <string id="DEnFOGhS" text="Fight me if you dare!" />
     <string id="DeWp2GjP" text="Shield Breaker" />
     <string id="DfbYtRyj" text="You had second thoughts about giving {?PLAYER_CHILD}your{?}the{\?} child such a spirited animal, but {?CHILD.GENDER}she{?}he{\?} lept upon its back and galloped like the wind across your pastures." />
@@ -1405,7 +1400,7 @@
     <string id="Di2Qbaae" text="High morale increases the healing rate by 15%." />
     <string id="dicpCcb2" text="Party Culture:" />
     <string id="DiE5Mh2J" text="learned to inspire the soldiers." />
-    <string id="DIEjNmNa" text="Every skill point after 200 grants you 0.2% projectile speed increase with throwing weapons." />
+    <string id="DIEjNmNa" text="Each skill point above 200 grants you 0.2% projectile speed increase with throwing weapons." />
     <string id="DIfTkzJJ" text="Cheat: Besiege Nearby Town" />
     <string id="DIgsfYfz" text="You took your family's goods to the nearest town to sell your produce and buy supplies. It was hard work, but you enjoyed the hubbub of the marketplace." />
     <string id="DIjtFVu8" text="Your last drop of blood? I guess I'll just have to spill it, then." />
@@ -1437,7 +1432,7 @@
     <string id="DNPbZZPQ" text="Veterinarian" />
     <string id="dnvPDnzS" text="I will my {?PLAYER.GENDER}lady{?}lord{\?}. Thank you" />
     <string id="dObod6IZ" text="do some honest work." />
-    <string id="DOD4AUPA" text="Character has 10% chance to create a 'fine' weapon, if difficulty requierements are met." />
+    <string id="DOD4AUPA" text="You have 10% chance to create a 'fine' weapon, if difficulty requirements are met." />
     <string id="DOhOpmhV" text="You found {CHILD.NAME} an apprenticeship with a siege engineer. Even if it can be a bit dangerous, there's no substitute for that kind of practical experience." />
     <string id="DOmb81Mu" text="(Undefined hideout type)" />
     <string id="dPD5zood" text="Daily Gold Change: {CHANGE}{GOLD_ICON}" />
@@ -1450,7 +1445,7 @@
     <string id="dqbbT5DK" text="Strong Bows" />
     <string id="dqg4nlo9" text="{?IS_BATTANIA}Bard{?}Minstrel{\?}s frequently sing of nature and the hunt and are often great travellers, skilled at living rough on the land. The child was encouraged to accompany the {?IS_BATTANIA}bard{?}minstrel{\?} on his roamings." />
     <string id="Dqjq02Sd" text="15% decrease in sell price penalty for trade goods." />
-    <string id="DqOBr2BF" text="You stun enemies longer after they block your attack." />
+    <string id="DqOBr2BF" text="You stun your enemies longer after they block your attack." />
     <string id="dQyiRllV" text="Your ranged troops have +5 hit points." />
     <string id="DR2aK4aQ" text="I respect our ancient laws and traditions. I don't want to find myself at odds with you." />
     <string id="driH06vI" text="I need more recruits in {SETTLEMENT}'s garrison. Since I'll be elsewhere... maybe you can recruit {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} and bring them to the garrison for me?" />
@@ -1473,7 +1468,6 @@
     <string id="DV2kW53e" text="Your caravans gather trade rumors." />
     <string id="dv2ZNazN" text="Go to the lord's hall" />
     <string id="dvEkfaab" text="recognizing the common folk in the realm as full citizens" />
-    <string id="Dw78MmFR" text="{RECRUIT_START}" />
     <string id="dwFZFQ6V" text="Lysica" />
     <string id="dwtIc9AG" text="Experienced Smith" />
     <string id="DwzrsJxS" text="Jamanys" />
@@ -1483,11 +1477,12 @@
     <string id="DxGecvb6" text="What happened to the rest? Well, in any case it is better than nothing, I suppose." />
     <string id="dY2PzpIV" text="I'm not sure how much we have in common.." />
     <string id="dYa9oVSP" text="Fate is cruel. So, I am your prisoner. But you don't need to do {QUEST_GIVER.NAME}'s dirty work. For the sake of your honor, {?PLAYER.GENDER}lady{?}sir{\?}, listen to me!" />
-    <string id="dyaagsuj" text="Foot Troops in your formation gain +5% movement speed." />
-    <string id="DyLbvdUw" text="Your crossbow attacks ignore armor below 20." />
+    <string id="dyaagsuj" text="Foot troops in your formation gain 5% movement speed." />
+    <string id="DyLbvdUw" text="Your crossbow attacks ignore armors below 20." />
     <string id="dYO8piOM" text="Yes, my {?PLAYER.GENDER}lady{?}lord{\?}. It is good of you to ask. A group of deserters is camped out near here. They come every few weeks, demanding food and money. They've killed two villagers who resisted them." />
     <string id="DzFvoy8r" text="Thrust attacks with polearms have 5% increased damage." />
     <string id="dzXaXKaC" text="Very well." />
+    <string id="E1OwmQFb" text="Back" />
     <string id="e1sSXEOh" text="This is excellent news. If you could bring the goods, it would be an immense help, and the merchants would have to lower their prices. Thank you." />
     <string id="E31IJyqs" text="Recruit troops" />
     <string id="E3b8iKjc" text="allowing the ruler to appoint magistrates" />
@@ -1498,7 +1493,7 @@
     <string id="E4WhEvu7" text="Sotherys" />
     <string id="E57VFXqU" text="I'll have that." />
     <string id="E5bgLJcs" text="Head Basher" />
-    <string id="E5XGVJGE" text="Increase your stagger damage threshold by 50% while on foot." />
+    <string id="E5XGVJGE" text="Increases your stagger damage threshold by 50% while on foot." />
     <string id="E5yAFR6y" text="Good to hear that. Thank you." />
     <string id="E8a2joMO" text="Smuggler Connections" />
     <string id="E8wdxbui" text="All right, I accept. I release you now. Now pay me." />
@@ -1520,7 +1515,7 @@
     <string id="EbFK5HXY" text="Infantry troops in the formation you are leading have their damage increased by 2% and movement speed increased by 2%." />
     <string id="EbRDo6Lv" text="A hunter should be able to endure long treks over rough ground and pursue a wounded quarry until it drops." />
     <string id="EbROfVJJ" text="Uplifting Spirit" />
-    <string id="EbSw2vj0" text="Increase mounted infantry campaign speed by 30%." />
+    <string id="EbSw2vj0" text="Mounted infantry increase your party speed by 30%." />
     <string id="ebUwP3Q3" text="Don't get involved." />
     <string id="EC2n5DBl" text="Vantage Point" />
     <string id="eC4laxrj" text="I'm still out recruiting." />
@@ -1532,7 +1527,7 @@
     <string id="edzN3EQ3" text="CHEAT AND WIN" />
     <string id="EEedqolz" text="Bedouin" />
     <string id="eEh752CZ" text="Horse Farm" />
-    <string id="EeHDUxf8" text="Increase your armor by 10% while on foot." />
+    <string id="EeHDUxf8" text="Increases your armor by 10% while on foot." />
     <string id="EerNV0aM" text="Steel Maker 2" />
     <string id="eEwI880g" text="Collect Grain" />
     <string id="eeWx1yYd" text="Smuggler" />
@@ -1544,7 +1539,7 @@
     <string id="egNhD6fF" text="Khuzait Cavalry Agility" />
     <string id="egXc7J72" text="Caravan guards are not elite troops, and may slack off if not held to a high standard of discipline. {CHILD.NAME} made sure that they stayed sober and alert." />
     <string id="EhaMPtRX" text="Encirclement" />
-    <string id="EHBkdRfV" text="Mounted Archers your formation gain +30 Bow skill." />
+    <string id="EHBkdRfV" text="Mounted archers in your formation gain +30 Bow skill." />
     <string id="EhxS7NQ4" text="So be it. Attack!" />
     <string id="ei1JSeco" text="Best Medicine" />
     <string id="EIaiIRTI" text="Increase the party size limit by +5." />
@@ -1580,7 +1575,6 @@
     <string id="EPbHr2DX" text="two healthy babies" />
     <string id="epcc2knY" text="Well, you get around, right? It wouldn't be hard for you to collect the {SELECTED_GOOD} we need. If you could bring, say {SELECTED_AMOUNT} units of {SELECTED_GOOD} directly to me instead of selling to the merchants, I would gladly pay {REWARD_AMOUNT}{GOLD_ICON} for them. With this, the merchants would have to lower their prices." />
     <string id="ePD5Afvy" text="While you are past your prime, there is still enough time to go on that last big adventure for you. And you have all the experience you need to overcome anything!" />
-    <string id="EpmoBw3Z" text="Barter screen goes here" />
     <string id="ePNba38W" text="Armies win battles, but farms and towns win wars." />
     <string id="epnk9qIt" text="We oppose a declaration of war" />
     <string id="eQ0jNSN0" text="When will you get me out of here, {STR_SALUTATION}?" />
@@ -1601,6 +1595,7 @@
     <string id="ETfx08db" text="see as much of the world as {?CHILD.GENDER}she{?}he{\?} could." />
     <string id="etG87fB7" text="with your tutor." />
     <string id="etjMHPjQ" text="Go to dungeon" />
+    <string id="etKrpcHe" text="You must resolve pending decisions" />
     <string id="ETKyjOkJ" text="You don't have enough denars to pay the fine." />
     <string id="eTr0XHas" text="{FACTION_LEADER} will decide if {CLAN_NAME} will be expelled from {KINGDOM_NAME}. You can pick your stance regarding this decision." />
     <string id="EtRkxd6x" text="Troops in the formation you are leading have their damage with polearms increased by 3%." />
@@ -1627,7 +1622,7 @@
     <string id="eXLxHSls" text="leads men into enemy territory." />
     <string id="EXwX0zrx" text="The young {?CHILD.GENDER}woman{?}man{\?} faced a rival clan's outrider in single combat, and handed him a defeat that he wouldn't forget." />
     <string id="EY6qSvNl" text="Let's have some high society gossip. Any good scandals at court?" />
-    <string id="eyIspJfB" text="Troops in your formation increase their bow reload speed by 5%." />
+    <string id="eyIspJfB" text="Troops in your formation have their bow reload speed increased by 5%." />
     <string id="EYQI9HJv" text="I gave an oath to {CURRENT_LIEGE.LINK} - but {?LORD.GENDER}her{?}his{\?} disregard for the laws of this realm does give me pause." />
     <string id="eYzTvFEH" text="Dauntless Steed" />
     <string id="EzbzOsJo" text="burnish {?CHILD.GENDER}her{?}his{\?} social skills." />
@@ -1649,6 +1644,7 @@
     <string id="F58CwbzF" text="Ranged siege engines are 25% less likely to be hit while bombarding settlements." />
     <string id="f5jHMbOq" text="Aqueducts" />
     <string id="f5X5uU0m" text="Village Hearth" />
+    <string id="F5Xc0m5O" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} fell during the fighting. {?ARMY_LEADER.GENDER}Her{?}His{\?} troops, reluctant to harm their {CULTURE_ADJ} kinfolk, forego their traditional right of pillage." />
     <string id="F6dEZOVl" text="Faster raiding 5%." />
     <string id="F7OO5SAa" text="As a youngster growing up in Calradia, war was never too far away. You..." />
     <string id="f7XrO5Z8" text="20% more renown from battles." />
@@ -1668,11 +1664,11 @@
     <string id="FbowXAC0" text="There are no available products right now." />
     <string id="fbsFZWhb" text="Rebels in {SETTLEMENT} have taken the ownership of the settlement." />
     <string id="FbwRbuWR" text="It seems you are already dealing with a similar issue." />
-    <string id="FbzyR6hL" text="25% increased build speed for town projects." />
+    <string id="FbzyR6hL" text="12% increased build speed for town projects." />
     <string id="Fc7OsyZ8" text="Military Tradition" />
     <string id="FClEZIkT" text="Sovos" />
     <string id="fcRLq8LL" text="{QUEST_GIVER.LINK}, a landowner in {QUEST_SETTLEMENT}, asked you to train some recruits for {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} gave you {NUMBER_OF_MEN} men. Hoping to take them back when once they have some experience.\nThe easiest way to train them without putting them in too much danger is to attack weak parties." />
-    <string id="FCZc2zev" text="Infantry troops in the formation you are leading have their movement speed increased by 5%." />
+    <string id="FCZc2zev" text="Infantry troops in the formation you are leading have their movement speed increased by 3%." />
     <string id="fDRbGy7y" text="Troops under your command deal 2% more damage with one handed swords." />
     <string id="fe0uGUZb" text="That's just robbery under the cover of law. I'm not giving you anything." />
     <string id="FekWDIUm" text="{?CHILD.GENDER}She{?}He{\?} helped plan a small expedition in pursuit of a group of brigands." />
@@ -1684,7 +1680,6 @@
     <string id="ffoqz6yP" text="You have delivered {DELIVERED_ITEM_COUNT} units of goods from {QUEST_GIVER.NAME}." />
     <string id="fFqT4eJ2" text="Every caravan entering your town generates 20 gold income." />
     <string id="ffT8ISSb" text="Stamina spent for refining is halved." />
-    <string id="FfubN1NY" text="You decided to issue a decree permitting artisans to behave like merchants." />
     <string id="FFx4hSEU" text="{NEWS} {NEWS2}" />
     <string id="FfZpLoVD" text="dabble in intrigue." />
     <string id="fGFMqlGz" text="Gender" />
@@ -1710,8 +1705,7 @@
     <string id="fJY9uosa" text="All supporters gain some relations with each other and lose a large amount of relations with the expelled clan." />
     <string id="Fk03aAWk" text="{SIEGE_LEAVE_TEXT}" />
     <string id="FK3W0SKk" text="Ultimate Leader" />
-    <string id="fk4ewfQh" text="{QUEST_GIVER.LINK}, a merchant of {SETTLEMENT}, told you that the poachers {?ISSUE_GIVER.GENDER}she{?}he{\?} hired before are now out of control. {?ISSUE_GIVER.GENDER}She{?}He{\?} asked you to go to {VILLAGE} around midnight and kill the poachers." />
-    <string id="fKbpY5vG" text="You decided to enact a law which prevents price fixing in the markets." />
+    <string id="fk4ewfQh" text="{QUEST_GIVER.LINK}, a merchant of {SETTLEMENT}, told you that the poachers {?QUEST_GIVER.GENDER}she{?}he{\?} hired before are now out of control. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to go to {VILLAGE} around midnight and kill the poachers." />
     <string id="fKnkkWH1" text="Have you brought any {REQUESTED_GOOD}? My stocks are running out and I need some very soon." />
     <string id="FKpLEamz" text="caring for horses." />
     <string id="FKtkmwtb" text="I don't know if you know much about the law here... Craftsmen like me are required to buy our raw materials from local merchants. The other side of the bargain is that they offer us reasonable prices. But they're not doing that! They've come together and agreed on a price that's just too high. They don't care if it ruins us - they can always sell the goods elsewhere." />
@@ -1749,31 +1743,32 @@
     <string id="fsr2yhrr" text="While there were few military feats to accomplish, {CHILD.NAME} still became quite popular among the troops and improved their morale in the process." />
     <string id="ft08QZrA" text="Precarial Land Tenure" />
     <string id="ft6k4Fav" text="Polearm attacks that deal damage over 25% of your opponent's hit points have 25% chance to knock them down." />
+    <string id="FT9V47bd" text="You issued a decree to remove the restrictions on the sale of goods and protected the artisans as you promised." />
     <string id="FTjKWm8s" text="{KING.NAME} should rule us" />
     <string id="FUT6eXfw" text="Phaea" />
     <string id="fUvs4g40" text="Healing rate increase for heroes +{a0}%" />
     <string id="FV4SWLQx" text="Content Trades" />
     <string id="Fv8CKNU2" text="I hope {QUEST_GIVER.NAME} knows what {?QUEST_GIVER.GENDER}she's{?}he's{\?} doing with that plan to get rid of the deserters." />
     <string id="FVaRDe2a" text="A noyan's kinsfolk" />
-    <string id="FViaQrbV" text="{QUEST_GIVER.LINK}, the {?QUEST_GIVER.GENDER}lady{?}lord{\?} of {QUEST_SETTLEMENT}, told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs more troops in {?QUEST_GIVER.GENDER}her{?}his{\?} garrison. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to deliver {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} troops to {QUEST_SETTLEMENT}'s garrison." />
+    <string id="FViaQrbV" text="{QUEST_GIVER.LINK}, the {?QUEST_GIVER.GENDER}lady{?}lord{\?} of {QUEST_SETTLEMENT}, told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs more troops in {?QUEST_GIVER.GENDER}her{?}his{\?} garrison. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to deliver {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} troops to garrison commander in {QUEST_SETTLEMENT}." />
     <string id="FVLymWqW" text="Dead Aim" />
     <string id="fvutqQH6" text="always hits {?CHILD.GENDER}her{?}his{\?} mark." />
     <string id="fW0XS9JC" text="{ELEMENT_NUMBER} {ELEMENT_CHAR_NAME}" />
     <string id="FwBUKVrK" text="Character can refine two units of steel into one unit of fine steel, and one unit of crude iron as by-product." />
     <string id="FwIgakj8" text="Help {DEFENDER}." />
     <string id="fwQtClVo" text="I will deal with {?TARGET_HERO.GENDER}her{?}him{\?} right away! " />
-    <string id="FwtsStzu" text="{DEFECTION_PERSUADE_ATTEMPT_1}" />
     <string id="fxDr44K4" text="A silvered tongue gets you far. You want {CHILD.NAME} to learn how to ferret out people's motivations, flatter their egos, and convince them that their interests are aligned." />
     <string id="fxEka7Bm" text="Pay a {AMOUNT}{GOLD_ICON} bribe to enter the keep" />
     <string id="fxGlBFPk" text="Thug" />
     <string id="FXPvGTEa" text="Army you are in is dispersed" />
     <string id="fYe25aEt" text="{HERO.FIRSTNAME} of the Well" />
     <string id="FYfZFve3" text="Thank you, {?PLAYER.GENDER}my lady{?}my lord{\?}. Hopefully, we can travel safely again." />
+    <string id="FyTGbvLS" text="On second thought, I have decided not to interfere with the merchant's business." />
     <string id="fzKFQuFT" text="Perhaps you are not suitable for this party after all." />
     <string id="fZXEqTIP" text="{HERO.FIRSTNAME} of the Plough" />
     <string id="fzxJZZEH" text="Each piece is a work of art. Even without an opponent one could set it up and gaze upon it for hours, contemplating moves and counter-moves." />
     <string id="g0obBtCq" text="Proper Engagement" />
-    <string id="G14cbf5j" text="Troops in your formation you gain +2% more melee damage." />
+    <string id="G14cbf5j" text="Troops in your formation deal 2% more melee damage." />
     <string id="g2qYB345" text="Halves the chance of your mount becoming lame or dead after it falls in battle." />
     <string id="g31pXuqi" text="Oasis farmers" />
     <string id="G3qGLAeQ" text="{RULER.NAME} has expelled the {CLAN} clan from the {KINGDOM} against the wishes of {?RULER.GENDER}her{?}his{\?} council." />
@@ -1796,7 +1791,7 @@
     <string id="g7lNg1ea" text="unleashed {?CHILD.GENDER}her{?}his{\?} fighting spirit." />
     <string id="g7qhnsnJ" text="The {CLAN_NAME} clan has left the {KINGDOM_NAME}." />
     <string id="G7yjkafk" text="The lorekeeper is responsible for teaching children the ancestral knowledge of the clan, including genealogy, law, and medicine. {?PLAYER_CHILD}Your{?}The{\?} child should gain a respect for learning." />
-    <string id="g8a8a8KJ" text="Immediately increase Control (CTR) by 1." />
+    <string id="g8a8a8KJ" text="Immediately increases Control (CTR) by 1." />
     <string id="g8qb3Ame" text="Thank you." />
     <string id="g9qLrEb4" text="Great Investor" />
     <string id="g9VIbA9s" text="Sergeant" />
@@ -1831,12 +1826,11 @@
     <string id="GgHn8qUr" text="Your kills with two handed weapons have 30% higher effect on friendly troops' battle morale." />
     <string id="Ggjb9BVQ" text="Actually I prefer not to get involved in this kind of business personally but my men will help you out." />
     <string id="ggKa4Bd8" text="Hmm... First thing to do after taking power is to work on your plan to remain in power." />
-    <string id="GgMVWlkr" text="Test Clan" />
     <string id="ggpRTQQl" text="Party Leader" />
     <string id="Ggs8sYEe" text="Your kicks stun your opponents for 50% longer." />
     <string id="GGTxzAtn" text="You have delivered {GRAIN_AMOUNT} units of grain to the villagers. They will be able to sow them before the coming winter. You have saved a lot of lives today. The Headman and the villagers are grateful." />
     <string id="gGXelWQX" text="Issue owner power" />
-    <string id="ghbKql0E" text="Bow equipped troops in your formation gain +5% to their on foot movement speed." />
+    <string id="ghbKql0E" text="Bow equipped troops in your formation gain 3% to their on foot movement speed." />
     <string id="GHbM1i6R" text="{QUEST_GIVER.LINK} needs {MOUNT_TYPE} to speed up {?QUEST_GIVER.GENDER}her{?}his{\?} party." />
     <string id="gHgUwteP" text="natural disasters" />
     <string id="gHnfFi1s" text="Retired" />
@@ -1845,8 +1839,8 @@
     <string id="Ghz90npw" text="Your family owned a few horses at the town stables and you took charge of their care. Many evenings you would take them out beyond the walls and gallup through the fields, racing other youth." />
     <string id="GiaTh92Q" text="{QUEST_GIVER.LINK}, the army commander of the {QUEST_GIVER_FACTION} has told you that they need food supplies for their upcoming military campaign. {?QUEST_GIVER.GENDER}She{?}He{\?} wanted you to deliver {GRAIN_AMOUNT} sacks of grain and although it's not necessary, to provide {LIVESTOCK_AMOUNT} live stocks and {WINE_AMOUNT} barrels of wine {?QUEST_GIVER.GENDER}she{?}he{\?} would appreciate it." />
     <string id="GIkvhuCC" text="Maybe one of your men who knows a thing or two about scouting, with {TROOP_AMOUNT} good men can deal with these scum. So what do you say?" />
-    <string id="gIL4YKp3" text="Decrease campaign speed herding penalty by 50%." />
-    <string id="GIljHGh9" text="20% construction speed bonus to town projects, wall repairs and siege engines." />
+    <string id="gIL4YKp3" text="Halves the party speed penalty for herding." />
+    <string id="GIljHGh9" text="10% construction speed bonus to town projects, wall repairs and siege engines." />
     <string id="Gitd3DN8" text="a thirst for knowledge." />
     <string id="gJG0xmAq" text="{QUEST_GIVER.LINK}'s village {QUEST_SETTLEMENT} was raided. Your agreement with {QUEST_GIVER.LINK} is canceled." />
     <string id="gjGb044I" text="I hope they will be..." />
@@ -1854,7 +1848,7 @@
     <string id="gkuS35ly" text="caring for your horses." />
     <string id="GkwOyJn9" text="{newline}You later learn that {?PRISONER.GENDER}she{?}he{\?} died from {?PRISONER.GENDER}her{?}his{\?} injuries." />
     <string id="gL7Ltjpc" text="Sweeping Wind" />
-    <string id="GlfwOWre" text="You have received a letter from {ISSUE_OWNER.LINK}; It reads: " />
+    <string id="GlfwOWre" text="You have received a letter from {ISSUE_OWNER.LINK}; It reads: &quot;My dear {PLAYER.NAME}, I have been informed that that vile creature called {TARGET_HERO.LINK} has been slain by you! While this is great news, I had other plans for {?TARGET_HERO.GENDER}her{?}him{\?}. What a pity. Anyway, I am feeling generous. So I will still pay half of what we had previously agreed upon. The messenger who brought you this note should give you the sum. Best wishes - {ISSUE_OWNER.LINK}&quot;" />
     <string id="glL3Dj4R" text="Bandit units in the formation you control deals 2% more damage." />
     <string id="GLqb67cg" text="I don't care, brigand. Surrender or die!" />
     <string id="GlRZN1J5" text="I gave an oath to {CURRENT_LIEGE.LINK} - though no oath binds me to serve a weak leader who is too softhearted to rule." />
@@ -1874,7 +1868,7 @@
     <string id="GOt2uRcJ" text="In adolescence, {?CHILD.GENDER}she{?}he{\?} began to take on serious responsibilities and compete with adults as a near-equal. {?CHILD.GENDER}She{?}He{\?} managed to..." />
     <string id="gp1qYbgb" text="Your {?IS_BATTANIA_OR_KHUZAIT}lorekeeper{?}scholar{\?} is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}." />
     <string id="GpKJ7N4d" text="Reduce food consumption while in an army by 10%." />
-    <string id="gpPlaaey" text="Tier 3+ troops in your formation gain +5% damage with bows." />
+    <string id="gpPlaaey" text="Tier 3+ troops in your formation gain 5% damage with bows." />
     <string id="gQ2tAvCz" text="Farmers" />
     <string id="gq8sgb2J" text="{TARGET_HERO.LINK} has been taken prisoner by {OTHER_HERO.LINK}." />
     <string id="GQ96SX4M" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {MOUNT_TYPE} for {?QUEST_GIVER.GENDER}her{?}his{\?} party. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to bring {MOUNT_COUNT} {MOUNT_NAME}{.s} to {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} will pay you {REWARD_GOLD}{GOLD_ICON} denars when the task is done." />
@@ -1926,7 +1920,7 @@
     <string id="h117Qj3E" text="Effects settlement's security." />
     <string id="h1GdWZjk" text="avoids chores." />
     <string id="h1juSIZx" text="Troops under your command have +30 throwing skill." />
-    <string id="h2Km4Jai" text="Character can refine two units of iron into one unit of steel, and one unit of crude iron as by-product." />
+    <string id="h2Km4Jai" text="You can refine two units of iron into one unit of steel, and one unit of crude iron as by-product." />
     <string id="h2KnarLL" text="trained with the cavalry." />
     <string id="h2Wle7ZI" text="Well. That's a pity." />
     <string id="H2zjWQLk" text="Bow equipped troops in your party gain +3 xp everyday." />
@@ -1936,7 +1930,7 @@
     <string id="H6uSeerV" text="Base (Daytime)" />
     <string id="h7aX2GOw" text="This child is quite strong, grabbing whatever {?CHILD.GENDER}she{?}he{\?} likes climbing out of {?CHILD.GENDER}her{?}his{\?} cradle whenever {?CHILD.GENDER}her{?}his{\?} caretaker's back is turned." />
     <string id="H7NJ0QHQ" text="You see {?PLAYER_CHILD}your{?}the{\?} child endlessly re-arranging the pieces, inventing new rules and playing out stories in {?CHILD.GENDER}her{?}his{\?} head." />
-    <string id="h7zHLPX5" text="Increase visual range in campaign  by 10%." />
+    <string id="h7zHLPX5" text="Increases your visual range in campaign map by 10%." />
     <string id="h83ZU95t" text="Deep Quivers" />
     <string id="h9i9VXLd" text="You cannot enter an enemy lord's hall." />
     <string id="H9Px95rR" text="Villages grant 0.2 influence per day to the owner clan\nTowns gain 1 security but lose 1 militia and 1 prosperity per day" />
@@ -1992,24 +1986,25 @@
     <string id="hjxRvb9l" text="One handed weapon speed: +{a0} %" />
     <string id="HkbK8cqw" text="Your clan is now at war with the {QUEST_GIVER.LINK}'s faction. Your agreement with {QUEST_GIVER.LINK} was terminated." />
     <string id="HkjaCc44" text="Your men say there's little to eat. They march, they fight. They deserve to eat." />
-    <string id="HKNtU2NI" text="Foot Troops in your party gain +5 hitpoints." />
+    <string id="HKNtU2NI" text="Foot troops in your party gain 5 hit points." />
     <string id="hKP7E6lQ" text="Every 1 skill point over 250 increase siege engine campaign damage by 1%." />
     <string id="HKT5MnjP" text="Bailiffs" />
     <string id="HkvlHhPN" text="{TARGET_HERO.LINK} has been taken prisoner and thrown into the dungeons of {SETTLEMENT}." />
-    <string id="Hl33qopv" text="Governed settlements bound villages have +5% production." />
+    <string id="Hl33qopv" text="Governed settlement's bound villages have 5% more production rate." />
     <string id="HLoivET9" text="Party size limit increased by 10." />
     <string id="HlrGpPkV" text="{CLAN_NAME} changed kingdom {OLD_FACTION_NAME} -&gt; {NEW_FACTION_NAME}." />
     <string id="HM2XzVr7" text="Mounted troops in your formation cause 5% more battle morale penalty when they kill enemies on range." />
-    <string id="HM60zpIf" text="Your ranged troops gain +2 xp everyday." />
+    <string id="HM60zpIf" text="Your ranged troops gain 2 xp everyday." />
     <string id="HM7auUMA" text="You are my friend, but even so, this is a risky conversation to have." />
     <string id="HMFb1gaq" text="Egalitarian" />
     <string id="hMiJvlJ5" text="Yes, Since we last spoke, I've learned a lot about hand-to-hand combat, my {?PLAYER.GENDER}lady{?}lord{\?}. Correct timing and putting your whole body behind the blow means a lot more than I initially thought." />
     <string id="HMt8Xo5p" text="{PARTY} is raiding {SETTLEMENT}. You decide to..." />
     <string id="hNmz5OL8" text="Show Your Scars" />
+    <string id="ho5EndaV" text="Decision" />
     <string id="hob3WVkU" text="Your father was a member of a boyar's druzhina, the 'companions' that make up his retinue. He sat at his lord's table in the great hall, oversaw the boyar's estates, and stood by his side in the center of the shield wall in battle." />
     <string id="HokNfd1i" text="15% decrease in sell price penalty for equipments." />
     <string id="hOVr77fd" text="You will never see the sunrise again!" />
-    <string id="hOyX7rSy" text="Increase your mount top speed by 5%." />
+    <string id="hOyX7rSy" text="Increases your mount's top speed by 5%." />
     <string id="hp4jLl3M" text="{PRISONER_LORD.LINK_AND_FACTION} has been released after battle." />
     <string id="HPOft1E9" text="If your tactics skill is greater than the enemy, gain bonus in simulations proportional to the difference." />
     <string id="hq13B7Ok" text="Yes.. You might be correct." />
@@ -2049,7 +2044,7 @@
     <string id="HZW39Tj2" text="Mounted troops in your formation gain +10 mount armor." />
     <string id="I022Z9Ub" text="Heh. {QUEST_GIVER.NAME} got in deeper than {?QUEST_GIVER.GENDER}she{?}he{\?} could handle with those mercenaries." />
     <string id="i0ehHB2a" text="30% chance to negate relationship penalty from kingdom decisions." />
-    <string id="I0OtUEDb" text="Increase your map hit points regeneration by 10% while traveling." />
+    <string id="I0OtUEDb" text="Increases your hit point regeneration by 10% while traveling." />
     <string id="I0StkXlK" text="Do you have a need for fighters, {?PLAYER.GENDER}madam{?}sir{\?}? Me and {?PLURAL}{MERCENARY_COUNT} of my mates{?}one of my mates{\?} are looking for a master. You might call us mercenaries, like. We'll join you for {GOLD_AMOUNT}{GOLD_ICON}" />
     <string id="I0ZG4tIj" text="{TOWN_NAME} has fallen to your troops. You may station a garrison here to defend it against enemies who may try to recapture it." />
     <string id="I1CMeL9R" text="Mounted Archers" />
@@ -2099,12 +2094,12 @@
     <string id="ihfuqu2S" text="I will find that seed grain for you." />
     <string id="IhktcM29" text="25% more damage to defender siege engines." />
     <string id="iiH5gKzE" text="Vote for {POLICY_NAME}" />
-    <string id="IiMfnxMC" text="Troops with throwing weapons equipped gain 10% more xp after battles." />
-    <string id="iIzShvKQ" text="Melee cavalry in your formation gain +10% speed damage bonus." />
+    <string id="IiMfnxMC" text="Throwing weapon equipped troops gain 10% more xp after battles." />
+    <string id="iIzShvKQ" text="Melee cavalry in your formation gain 10% speed damage bonus." />
     <string id="ijanbumZ" text="Led formation has a small bonus to their shield protection area against projectiles." />
     <string id="IJdGTOAe" text="Tribunes of the People" />
     <string id="IJihRdfF" text="Don't worry, we'll be ready for the fight." />
-    <string id="IJof7vUp" text="50% increased build speed for castle projects." />
+    <string id="IJof7vUp" text="25% increased build speed for castle projects." />
     <string id="ijootCu7" text="It was easy to get bogged down in the details of hurling rocks and assembling towers, but {CHILD.NAME} kept a keen eye on why some sieges succeeded and others failed." />
     <string id="ikDX1Fd7" text="Send the troops back" />
     <string id="iKYSgoZx" text="You're a handsome devil, I'll give you that." />
@@ -2122,7 +2117,7 @@
     <string id="iN1kBsac" text="I don't think they'll be long now. Our hunters have spotted them making ready. Keep waiting." />
     <string id="InFseOAA" text="This limits the ability of magistrates to condemn those they consider criminals quickly. It prevents arbitrary abuse of power, but landowners or gang leaders can sometimes use threats or bribes to manipulate it." />
     <string id="Ing5gFbO" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has chosen not to make peace with the {KINGDOM} over the objections of {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council." />
-    <string id="inkr6Dzy" text="Too bad. You've wasted my time. Now I need to find someone else to get those {MOUNT_TYPE}." />
+    <string id="inkr6Dzy" text="Too bad. Perhaps someone else will be able to get me the {MOUNT_TYPE} that I need." />
     <string id="InLGoUbB" text="Market Dealer" />
     <string id="INn1axcf" text="Ok captain, thank you." />
     <string id="InN5ZZt3" text="A landlord's retainers" />
@@ -2131,7 +2126,7 @@
     <string id="IoaAvgRD" text="You know {NEW_LIEGE.LINK} have had our differences. You expect me to change sides for him?" />
     <string id="ioF9aJBJ" text="How can I help?" />
     <string id="iOrtiVLt" text="House of {CLAN_NAME}" />
-    <string id="Ioyk7QVU" text="Mounted Archers in your formation gain +5% to range damage." />
+    <string id="Ioyk7QVU" text="Mounted archers in your formation deal 5% more ranged damage." />
     <string id="iPcbFoDx" text="Are you prepared for the tournament? Eating well? Staying healthy?" />
     <string id="iPDOLbi3" text="Party wages {A0}" />
     <string id="IPg30HIs" text="You told {ISSUE_OWNER.LINK} that instead of her request, the next tournament held will be held in her honor." />
@@ -2140,17 +2135,17 @@
     <string id="ipQP6aVi" text="Mercenaries" />
     <string id="ipwU1JT3" text="Morning Exercise" />
     <string id="iq3yEuO9" text="All right. I will bring your animals by myself." />
-    <string id="IqcdcG9j" text="Troops in your formation deal 8% more damage against mounts with throwing weapons." />
+    <string id="IqcdcG9j" text="Troops in your formation deal 8% more damage with throwing weapons against mounts." />
     <string id="IqH0jFdK" text="So you need someone to deal with these bastards?" />
     <string id="Ir7BP5bD" text="The best smiths are those that understand how their tools are used. Your child will be tasked with sparring with the weapons and testing their edges. " />
     <string id="iS7GqDcg" text="Continuous projects for settlements are 20% more effective." />
-    <string id="isepwTYW" text="Every skill point after 200 grants you 0.2% speed increase with crossbows." />
+    <string id="isepwTYW" text="Each skill point above 200 grants you 0.2% speed increase with crossbows." />
     <string id="isGIZ18i" text="The guards gave all your weapons back to you." />
     <string id="IsHyjvSq" text="Last Hit" />
     <string id="ISOHhXxW" text="Yes commander, I have brought your grain and wine as you requested." />
     <string id="ISoR0vaR" text="{ATR_1} and {ATR_2}" />
     <string id="iSppZBje" text="You don't need to know the full story of the child's escapades in the {?IS_BATTANIA}bard{?}minstrel{\?}'s company, but the {?IS_BATTANIA}bard{?}minstrel{\?} does inform you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}." />
-    <string id="IsuynJ2f" text="Increase your charge damage and manuever by 1 for each 10 riding skill over 200." />
+    <string id="IsuynJ2f" text="Increases your charge damage and maneuver by 1 for each 10 riding skill above 200." />
     <string id="ITboR6C1" text="The men say we're running low on food. We should be more careful of that." />
     <string id="itHCs6bB" text="I'm delivering {?TARGET_HERO.GENDER}her{?}him{\?} as I promised." />
     <string id="ithcVNfA" text="{CLAN_NAME}'s Party" />
@@ -2167,9 +2162,7 @@
     <string id="ivH8RWyb" text="Master Smith" />
     <string id="ivKl4mV2" text="Your father was a trusted lieutenant of the local landowning aristocrat. He rode with the lord's cavalry, fighting as an armored lancer." />
     <string id="IvlOul28" text="Oh, a rhyme! I remember that one.." />
-    <string id="ivoZNYOb" text="30" />
     <string id="IvY187PJ" text="No matter. Anything else?" />
-    <string id="IvzpbbO6" text="You decided not to enact a law to ban price-fixing in the markets." />
     <string id="iW9iKbb8" text="Nothing." />
     <string id="Ix8YjLPD" text="Men within prisoner size" />
     <string id="ixHqTrX5" text="Fairgrounds" />
@@ -2194,7 +2187,7 @@
     <string id="J1nh9YiN" text="Atilon" />
     <string id="J2Iok9lT" text="An ally has paid your ransom." />
     <string id="J4UMplzb" text="{FACTION_LEADER} will decide who will own {SETTLEMENT_NAME}. You can give your support to one of the candidates." />
-    <string id="j4V4fVBd" text="I see.. How can I help?" />
+    <string id="j4V4fVBd" text="I see... How can I help?" />
     <string id="J4yakjtP" text="Splendid. You have served me well. Take your well-earned reward." />
     <string id="J53hpSzc" text="Your kills with two handed weapons have 20% higher effect on enemy troops' battle morale." />
     <string id="j5OqFCa6" text="After painful days of being dragged about as a prisoner, suddenly one of your captors comes near you with an offer; he proposes to free you in return for {MONEY_AMOUNT}{GOLD_ICON} of your hidden wealth. You decide to..." />
@@ -2216,7 +2209,7 @@
     <string id="JBLwQVNT" text="+1 renown for each issue resolved." />
     <string id="jbPZTSP4" text="Sagittarius" />
     <string id="Jc1YXXjN" text="an influx of wild beasts" />
-    <string id="jCBbUvHx" text="Mounted troops in your party gain +10% hitpoint to mounts." />
+    <string id="jCBbUvHx" text="Mounts of your commanded troops have 10% more hit points." />
     <string id="jd4qUGEA" text="I wish to discuss the final terms of my marriage with {COURTSHIP_PARTNER}." />
     <string id="jD7aFORo" text="Your couch lance now has a 30% chance to stay couched after it kills someone." />
     <string id="JDfnPFsW" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has decided to make peace with the {KINGDOM} despite the opposition of {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council." />
@@ -2229,10 +2222,10 @@
     <string id="jeWV2uV3" text="{EXP_VALUE} Skill {?IS_PLURAL_SKILL}Levels{?}Level{\?} and {FOCUS_VALUE} Focus {?IS_PLURAL_FOCUS}Points{?}Point{\?} to {SKILL_ONE}, {SKILL_TWO} and {SKILL_THREE}{NEWLINE}{ATTR_VALUE} Attribute {?IS_PLURAL_ATR}Points{?}Point{\?} to {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}" />
     <string id="jF4Nl8Au" text="{NPC_LIEGE.NAME}, {LIEGE_RELATIONSHIP}? Long may {?NPC_LIEGE.GENDER}she{?}he{\?} live." />
     <string id="JfBTbsX2" text="{EFFECT_DESCRIPTION}{NEW_LINE_1}{SKILL_DESCRIPTION}{NEW_LINE_2}{ATTRIBUTE_DESCRIPTION}" />
-    <string id="JfLCWjqI" text="Deal 40% more damage against shields with throwing weapons." />
+    <string id="JfLCWjqI" text="You deal 40% more damage with throwing weapons against shields." />
     <string id="jFOva44m" text="{FACTION_LEADER} proposes the policy of {POLICY_NAME}. You can pick your stance regarding this decision." />
     <string id="JFVseSa3" text="Oros" />
-    <string id="JFvZAuKl" text="Crossbow equipped troops in your formation gain +10% damage with crossbows." />
+    <string id="JFvZAuKl" text="Crossbow equipped troops in your formation gain 10% damage with crossbows." />
     <string id="JGCtv8om" text="Raise The Meek" />
     <string id="JGEQ68jc" text="Your huntsman is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}." />
     <string id="jGIxKb99" text="Mercenaries have joined your party." />
@@ -2259,17 +2252,17 @@
     <string id="jjkJyKoy" text="Puncture" />
     <string id="jjNSVzx3" text="What do you need, Lord?" />
     <string id="jjTcNhKE" text="Have you been able to find any bandits yet?" />
+    <string id="JJULYirc" text="I am glad to service my kingdom. I have no interest in serving another liege." />
     <string id="Jk3mDlU6" text="Yeah... I've got some problems. A few years ago, I needed hides for my tannery and I hired some hunters. I didn't ask too many questions about where they came by the skins they sold me. Well, that was a bit of mistake. Now they've banded together as a gang and are trying to muscle me out of the leather business." />
     <string id="jKHkGzUn" text="{SELECTED_ITEM_COUNT} {SELECTED_ITEM}{?PLURAL}s have been{?} has been{\?} added to your inventory." />
     <string id="JKqsYaBj" text="One handed weapons you wield have their handling increased by 20%." />
     <string id="jKWJpIES" text="{JOIN_ENCOUNTER_TEXT}. You decide to..." />
-    <string id="jkYNBr5p" text="Immediately increase Vigor (VIG) by 1." />
+    <string id="jkYNBr5p" text="Immediately increases Vigor (VIG) by 1." />
     <string id="jkYQmtIF" text="You need to have at least {GOLD_AMOUNT}{GOLD_ICON} to pay for the expenses beforehand." />
     <string id="JL204Kc0" text="Sure... sure. We'll hand them over.." />
     <string id="jL8ntljn" text="procures supplies." />
     <string id="JlFfuFEC" text="How about you take him with you? Feed and protect him, sure, but don't treat him any differently from your companions. Let him stay with you for a year, and then let him return to us? I will send you a worthwhile gift and, perhaps more valuably, you will gain my lifelong friendship, assuming everything goes well?" />
     <string id="jlgjLDo7" text="Garrison" />
-    <string id="JlhgngOB" text="{DEFECTION_PERSUADE_ATTEMPT_2}" />
     <string id="JmoOJX4e" text="There is no one in the garrison to receive the troops requested. You should wait until someone arrives." />
     <string id="JmrERaq4" text="Troops in the formation you are leading gain 5 experience for each enemy you kill." />
     <string id="JMzyh6Gl" text="Force people to give you supplies." />
@@ -2286,7 +2279,7 @@
     <string id="joFaAgvc" text="{GUARDS_PERSUADE_ATTEMPT_1}" />
     <string id="jojBRn0D" text="Aiming with your crossbow is 25% faster." />
     <string id="joRHKCkm" text="Your family needed someone trustworthy to take a caravan to a neighboring town. You organized supplies, ensured a constant watch to keep away bandits, and brought it safely to its destination." />
-    <string id="JPAGzEhe" text="You failed to rescue the {QUEST_GIVER.LINK}'s men in time. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. " />
+    <string id="JPAGzEhe" text="You failed to rescue the {QUEST_GIVER.LINK}'s men in time. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. &quot;You sat on your heels doing nothing and my men will pay the price. I won't forget this...&quot;" />
     <string id="jpBpwgAs" text="Settlements" />
     <string id="JPclWyyr" text="My companion can handle it... So, {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} to {SETTLEMENT}." />
     <string id="jPcULnsk" text="Your shops return 5000 gold when town is captured by enemy." />
@@ -2296,12 +2289,11 @@
     <string id="JQligd8z" text="The council of the {KINGDOM} has chosen {KING.NAME} as the new ruler." />
     <string id="jQpeuHIE" text="We oppose making peace at this time" />
     <string id="jqstr7ZL" text="Learn to fire men's pride, stoke their anger and dispel their fears, and they will turn from men into lions who will do anything for you." />
-    <string id="jQWgYr6r" text="Character has 10% chance to create a 'Masterwork' weapon, if difficulty requierements are met." />
+    <string id="jQWgYr6r" text="You have 10% chance to create a 'Masterwork' weapon, if difficulty requirements are met." />
     <string id="JrT9bBEK" text="{FACTION_LIEGE}'s {ETHNIC_TERM}" />
     <string id="JTfaqKyX" text="Well, try to bring it soon." />
     <string id="jukOfT2Z" text="Outside events also intruded on {CHILD.NAME}'s adolescence. You believe {?CHILD.GENDER}she{?}he{\?} was particularly shaped by {RANDOM_OUTCOME}. This event increased {?CHILD.GENDER}her{?}his{\?} skills in {SKILL_1} and {SKILL_2}." />
     <string id="JuPUG5wX" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, a {CLAN_DESCRIPTION} that is backing {RULER} in the civil war. {?LORD.GENDER}She{?}He{\?} has the reputation of being{REPUTATION}" />
-    <string id="juQXttNy" text="informal" />
     <string id="JUSHAPnu" text="You were quick on your feet and attentive to what was going on around you. Usually you could run away from trouble, though you could give a good account of yourself in a fight with other children if cornered." />
     <string id="JuwBb2Yg" text="Disorganized" />
     <string id="Jvf6K7TZ" text="Your family numbered among the many poor migrants living in the slums that grow up outside the walls of imperial cities, making whatever money they could from a variety of odd jobs. Sometimes they did service for one of the Empire's many criminal gangs, and you had an early look at the dark side of life." />
@@ -2310,7 +2302,7 @@
     <string id="JwWnpD40" text="Crossbow accuracy: +{a0} %" />
     <string id="JX13Wd65" text="managing the logistics of travel." />
     <string id="JX6o0tFv" text="Militia quantity is increased by 10% and 10% of militia troops will be higher tier\nRevenue paid to both liege and local ruler reduced by 5%" />
-    <string id="jXepJAhO" text="4% Increased damage with any melee weapons you wield." />
+    <string id="jXepJAhO" text="Increases your damage by 4% with all melee weapons." />
     <string id="jXTshvhV" text="You couldn't fully bring {ITEM} to {?QUEST_GIVER.GENDER}her{?}him{\?} on time." />
     <string id="JxUrkzd1" text="Thank you. I hope your men can get us the tools on time. Good luck." />
     <string id="Jy2ap8L1" text="Man of Means" />
@@ -2356,7 +2348,7 @@
     <string id="KBmAqg54" text="No problem, you can pay what you can afford." />
     <string id="KbnGyw0v" text="Your master-at-arms is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}." />
     <string id="KbQQV5rI" text="My oath is my oath. I cannot break it. (Oath persuasion failed.)" />
-    <string id="kbs0D9wc" text="Foot troops in your formation gain +5 armor." />
+    <string id="kbs0D9wc" text="Foot troops in your formation gain 5 armor." />
     <string id="KBxajw4c" text="Enter the dungeon (Cheat)" />
     <string id="kc3RfwFb" text="I'll try to be useful to you, {?PLAYER.GENDER}my lady{?}sir{\?}." />
     <string id="KC7rLf4b" text="The {?IS_BATTANIA}bard{?}minstrel{\?} had the child memorize the speeches of epic heroes, teaching {?CHILD.GENDER}her{?}him{\?} how to appeal to your people's pride in their ancestors." />
@@ -2375,7 +2367,7 @@
     <string id="kFs940kp" text="{COMPANY_OF_TROUBLE_PERSUADE_ATTEMPT_3}" />
     <string id="kg4Mx9j4" text="Two Faced" />
     <string id="kg9YtrOg" text="Your family were smiths, a revered profession among the Battanians. They crafted everything from fine filigree jewelry in geometric designs to the well-balanced longswords favored by the Battanian aristocracy." />
-    <string id="kgJ4hfd2" text="Every skill point after 200 grants you 0.2% speed increase with bows." />
+    <string id="kgJ4hfd2" text="Each skill point above 200 grants you 0.2% speed increase with bows." />
     <string id="KgJaq5dx" text="You sent the young {?CHILD.GENDER}woman{?}man{\?} to the hall of one of your fellow lords. There {?CHILD.GENDER}she{?}he{\?} will learn how a different clan runs its affairs." />
     <string id="khIuyBAi" text="Thank you for your help. Farewell." />
     <string id="KhUkmIrH" text="Deliver the herd to {TARGET_SETTLEMENT}" />
@@ -2390,7 +2382,7 @@
     <string id="KjR0HhJv" text="skirmished from a distance." />
     <string id="kJwpbptU" text="Well, try to stay close to me at all times and try to learn as much as you can." />
     <string id="KjzJjj5n" text="Eronys" />
-    <string id="kK8Kom0h" text="Decrease mounted accuracy penalties by 30% while using a bow." />
+    <string id="kK8Kom0h" text="Decreases mounted accuracy penalties by 30% while using a bow." />
     <string id="KK8MBZj5" text="Urban Developer" />
     <string id="KKajZg3a" text="Archer troops generate 10% more shared experience." />
     <string id="KKB2vNFr" text="Sally Out" />
@@ -2409,17 +2401,17 @@
     <string id="kNXet6Um" text="you had a famous escapade in town." />
     <string id="KODafKT7" text="Architectural Commissions" />
     <string id="kolBffjD" text="On The March" />
-    <string id="KOyGEcbQ" text="Bow equipped troops in your party gain +1 extra arrows per quiver." />
+    <string id="KOyGEcbQ" text="Bow equipped troops in your party gain 1 extra arrow per quiver." />
     <string id="kPqs7EIf" text="giving the ruler more power to summon armies" />
     <string id="KQ1js10G" text="{HERO.FIRSTNAME} the Appraiser" />
-    <string id="kqgadhCF" text="{QUEST_GIVER.LINK} from {QUEST_GIVER.FACTION}, has told you about of the tournament at {QUEST_GIVER_TOWN} region. She wants you to be her champion. {TOURNAMENT_ROUND_GOAL}\nYou told her that you will fight in her name." />
+    <string id="kqgadhCF" text="{QUEST_GIVER.LINK} from {QUEST_GIVER.FACTION}, has asked you to be her champion in an upcoming tournament. {TOURNAMENT_ROUND_GOAL} \nYou told her that you will honor her name in a tournament." />
     <string id="kqJipMqc" text="Track detection radius +{a0} %" />
-    <string id="kQtrLwVD" text="Increases your troops throwing weapons drawing speed by 10%." />
+    <string id="kQtrLwVD" text="Increases your troops' drawing speed of throwing weapons by 10%." />
     <string id="kRASveAC" text="We're just harmless foresters..." />
     <string id="KRfcro26" text="This time we're here to fight. Surrender or die!" />
     <string id="krTrNonp" text="{PRISONER_LORD.LINK_AND_FACTION} has escaped from captivity." />
     <string id="KSeIOHDh" text="(One of the merchants in the town comes to talk as you are preparing to depart.)" />
-    <string id="KSrNutEO" text="{FACTION_LEADER} will decide if war will be declared on {KINGDOM_NAME}. You can pick your stance regarding this decision." />
+    <string id="KSrNutEO" text="{FACTION_LEADER} will decide if war will be declared on the {KINGDOM_NAME}. You can pick your stance regarding this decision." />
     <string id="ksTDGuXs" text="{TROOP_TYPE_COUNT} {TROOP_TYPE} {?TROOP_TYPE_COUNT&gt;1}troops{?}troop{\?}" />
     <string id="KstesAiE" text="Garrison wages are 5% less." />
     <string id="ksXTQXOX" text="craft a weapon." />
@@ -2507,7 +2499,7 @@
     <string id="leaowE4D" text="Sheriff" />
     <string id="lEHjxPTs" text="Ally" />
     <string id="lEHtUGed" text="Diocosos" />
-    <string id="leKleLYK" text="Can pick spears or weapons from ground when mounted." />
+    <string id="leKleLYK" text="You can pick up spears or weapons from the ground while mounted." />
     <string id="LEoZ2DV5" text="a good eye and a steady hand." />
     <string id="LEsuGM8a" text="Let no one - not even your family - come between us!" />
     <string id="lF41sN5r" text="You see the glint of mischief on {?CHILD.GENDER}her{?}his{\?} smiling face. Any sweet left unattended in the kitchen for even a few minutes is quickly stolen." />
@@ -2516,18 +2508,18 @@
     <string id="Lgmisw4L" text="Limits the degree to which lords and merchants can lend to their tenants and employees and then demand repayment, or seize their assets or their freedom. Effectively bans serfdom." />
     <string id="LgSTrjuk" text="Gambler" />
     <string id="lGUmdW9n" text="So be it. I shall put your courage to the test!" />
-    <string id="lgV3IXwY" text="Increase your headshot damage bonus by 30% with bows." />
+    <string id="lgV3IXwY" text="Increases your headshot damage bonus by 30% with bows." />
     <string id="lgvtLEDA" text="Melchea" />
     <string id="lHaaE9pO" text="{ROMANCE_PERSUADE_ATTEMPT_3}" />
     <string id="lhnuawq3" text="You know very well that in politics oaths are easily made, and just as easily broken." />
     <string id="LiaRnWJZ" text="You can now use all bows on horseback." />
     <string id="LIjN3rYD" text="Tier 5+ clans lose 1 influence per day and the party size of their leaders is increased by 40" />
     <string id="Lj5Lghww" text="What? No..." />
-    <string id="Lj6SwJYF" text="Ranged troops under your command increase their movement speed by 10%." />
+    <string id="Lj6SwJYF" text="Ranged troops under your command have their their movement speed increased by 5%." />
     <string id="ljduhdzj" text="Sharpen the Tip" />
     <string id="LjiYq9cH" text="I am sorry. I am not sure that I could ever love you.)" />
     <string id="ljKoJX9P" text="Bandit units in your party consume 50% less food." />
-    <string id="LjMR6OuD" text="Decrease mounted accuracy penalties by 15% for ranged troops in your formation." />
+    <string id="LjMR6OuD" text="Decreases accuracy penalty by 15% for mounted ranged troops in your formation." />
     <string id="Ljs9ahMk" text="I know your intentions. I will not let you steal from those poor villagers!" />
     <string id="LJsckbyF" text="{?PLAYER_CHILD}Your{?}This{\?} child spends hours exploring the edges of the estate, following animal tracks and looking for edible plants." />
     <string id="LjUhEJxz" text="Caravan of {OWNER.NAME}" />
@@ -2536,7 +2528,7 @@
     <string id="lKoaSWLf" text="{DUEL_RESULT}" />
     <string id="lKWflUid" text="While you are waiting in {DEFENDER}, {ATTACKER} started an attack on it." />
     <string id="Ll1EJHXF" text="Manage castle" />
-    <string id="ll4s461C" text="You get +3 extra arrows per quiver." />
+    <string id="ll4s461C" text="You get 3 extra arrows per quiver." />
     <string id="lLaIzlr4" text="Increase campaign map mangonel and trebuchet accuracy by 10%." />
     <string id="lLJh7WAT" text="You worked in the marketplace, selling trinkets and drinks to busy shoppers." />
     <string id="lMIi4CXO" text="Sturgian Snow Agility" />
@@ -2554,7 +2546,7 @@
     <string id="LPBVTiV6" text="a strip of bacon" />
     <string id="LpdAa1NY" text="Tier 5+ clans gain 0.5 influence per day, influence cost of inviting lower tier clans to army are increased by 20%" />
     <string id="LpfQYLQo" text="What? That's straight-up theft. I guarantee you {QUEST_GIVER.LINK} will hear about this!" />
-    <string id="LpGt1ekS" text="While on foot your weapon handling is increased by 10%." />
+    <string id="LpGt1ekS" text="While on foot, your weapon handling is increased by 10%." />
     <string id="LpH8SYFL" text="Your family were the trusted kinfolk of a Battanian chieftain, and sat at his table in his great hall. Your father assisted his chief in running the affairs of the clan and trained with the traditional weapons of the Battanian elite, the two-handed sword or falx and the bow." />
     <string id="lPuk6bao" text="Hope" />
     <string id="LPxEDIk7" text="Foragers" />
@@ -2567,7 +2559,7 @@
     <string id="lsBuV9W7" text="You are waiting in the village." />
     <string id="lsddqaAx" text="did some honest work." />
     <string id="LsDRCPp0" text="Your clan member {MOTHER.NAME} has given birth to {DELIVERED_CHILDREN}." />
-    <string id="lslBxgaw" text="Troops in your party increase their bolt stack size by +2." />
+    <string id="lslBxgaw" text="Crossbow equipped troops in your party gain 2 extra bolts per quiver." />
     <string id="lSZKnnay" text="You can escape from battles by leaving 50% less soldiers behind." />
     <string id="ltbU06Fi" text="become a crack shot." />
     <string id="LtDqAAk4" text="I consider {CURRENT_LIEGE.LINK} to be an upright ruler. {NEW_LIEGE.LINK} is not." />
@@ -2578,13 +2570,14 @@
     <string id="LU3lcIwl" text="Mounted troops in your formation gain +10% charge damage." />
     <string id="luDtfSN7" text="Elite Reserves" />
     <string id="luguToag" text="Bow equipped troops in your formation gain +20 Archery skill." />
+    <string id="LUNcUV2I" text="Ransom Offer" />
     <string id="LUro3Sqr" text="While spending time with {?PLAYER_CHILD}your{?}the{\?} child, you notice that {?CHILD.GENDER}she{?}he{\?} shows real ability in {RANDOM_OUTCOME}." />
     <string id="LUTwOksA" text="When you hit an enemy in the head with a polearm you deal 50% more damage." />
     <string id="Lv2pbg8c" text="Camp Building" />
     <string id="LVeZLsbg" text="Healthy Citizens" />
     <string id="LvNTjCtQ" text="We need more time." />
     <string id="lvttCRi8" text="Plunder the village, then raze it." />
-    <string id="LVwh7Eba" text="Foot troops in your formation gain +30% speed damage bonus." />
+    <string id="LVwh7Eba" text="Foot troops in your formation gain 30% speed damage bonus." />
     <string id="lWAmQK5a" text="You can hold your aim 50% longer without losing accuracy." />
     <string id="lwLhrGWV" text="{HERO.FIRSTNAME} Flatcakes" />
     <string id="lWvuM5aj" text="{GIFT_NUMBER} pieces of {JEWELRY} have been added to your inventory." />
@@ -2609,13 +2602,12 @@
     <string id="m3EkYCA6" text="Perhaps if you see how much I love you, you could come to love me over time." />
     <string id="m3JX1IFv" text="You have 10% increased sight range during day time." />
     <string id="m41vdhSR" text="{QUEST_TARGET.LINK} is no longer alive. It might not be your fault that you didn't get the herd to {?QUEST_TARGET.GENDER}her{?}him{\?} in time, but many people will consider this breach of trust." />
-    <string id="m4KacGv9" text="Increase your movement speed by 10%." />
+    <string id="m4KacGv9" text="Increases your movement speed by 3%." />
     <string id="m4kr4RXD" text="{?CHILD.GENDER}her{?}his{\?} strength." />
     <string id="M4Q32HvX" text="Prisoners are 20% less likely to escape from towns." />
     <string id="M560TDza" text="{ISSUE_OWNER.LINK}, the {?ISSUE_OWNER.GENDER}lady{?}lord{\?} of {QUEST_SETTLEMENT}, told you that {?ISSUE_OWNER.GENDER}she{?}he{\?} needs more troops in {?ISSUE_OWNER.GENDER}her{?}his{\?} garrison. You asked your companion to deploy {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} troops to {QUEST_SETTLEMENT}'s garrison." />
     <string id="M5eUjgQl" text="Cured" />
     <string id="M5iR1e5h" text="You have arrived at your fief of {SETTLEMENT_LINK}. {PROSPERITY_INFO}" />
-    <string id="m5UIU0Du" text="20" />
     <string id="m6OVl6Dg" text="{RULER.NAME} has expelled the {CLAN} clan from the {KINGDOM}, with {?RULER.GENDER}her{?}his{\?} council evenly split on the matter." />
     <string id="m6uSOtE4" text="You don't have {GOLD_NEEDED_FOR_ALTERNATIVE_SOLUTION} denars." />
     <string id="m6W0Iq1v" text="You prepare to set off for a grand adventure in Calradia! Here is your character. Click finish if you are ready, or go back to make changes." />
@@ -2632,7 +2624,6 @@
     <string id="MaK0r9as" text="{HERO.FIRSTNAME} the Cudgel" />
     <string id="MalIalPA" text="I will not listen to such matters while I'm in an army." />
     <string id="maptrack" text="Track" />
-    <string id="MaXA5HJi" text="You received a message from {ISSUE_GIVER.LINK}. 'It was a pleasure doing business with you and your folks.'" />
     <string id="maXW8tps" text="You failed to capture and deliver the prisoner in time." />
     <string id="mb25Ue3f" text="Grazing Rights" />
     <string id="MbRZSiuq" text="Arrow Deflection" />
@@ -2678,16 +2669,16 @@
     <string id="Mk6dZBQa" text="skirmishes from a distance." />
     <string id="Mk9k8Sec" text="As always, it is a delight to speak to you." />
     <string id="MKbLhn9d" text="I'm glad we caught up to you in time." />
-    <string id="MkbmHsAH" text="Decrease your charge damage taken by 50%." />
+    <string id="MkbmHsAH" text="Decreases your charge damage taken by 50%." />
     <string id="MKBWG06O" text="{QUEST_GIVER.LINK} had died and your agreement with {?QUEST_GIVER.GENDER}her{?}him{\?} was canceled. You can no longer deliver the {MOUNT_TYPE} to {?QUEST_GIVER.GENDER}her{?}him{\?}." />
     <string id="MM0ARhGh" text="Master of Warcraft" />
     <string id="MmQt0TD3" text="This is not we want, but it's more than nothing. " />
     <string id="mMU3H6HZ" text="Arena" />
-    <string id="MmWzufrk" text="Increase character battle movement speed by 3%." />
+    <string id="MmWzufrk" text="Increase character's movement speed by 2%." />
     <string id="Mn4bI9Jg" text="What are you doing? Are you another one of {QUEST_GIVER.NAME}'s lackeys? Do you think you can hunt me like an animal.[ib:closed][rf:angry]" />
     <string id="mn5tQhyp" text="Counter Offensive" />
     <string id="MNuEtdvb" text="Increases garrison limit in the governed settlements by 30." />
-    <string id="MoHbMLEa" text="Tier 2+ troops are recruited 20% cheaper." />
+    <string id="MoHbMLEa" text="Tier 2+ troops are 20% cheaper to recruit." />
     <string id="MOITVVNu" text="Aiming with your bow is 25% faster." />
     <string id="moQchgM4" text="5% movement speed bonus during night time." />
     <string id="mP3uFbcq" text="you led a successful manhunt." />
@@ -2695,7 +2686,7 @@
     <string id="MpdPpIEY" text="leads a patrol." />
     <string id="mPPWRjCZ" text="Flexible Fighter" />
     <string id="MqCH7R4A" text="Security" />
-    <string id="mQYqKCIK" text="Your throwing axes deals 3x damage to shields." />
+    <string id="mQYqKCIK" text="Your throwing axes deal triple damage to shields." />
     <string id="mr7SgjAq" text="Yes... {QUEST_GIVER.LINK} sent word to us. We are expecting the {RAW_MATERIALS} that {?QUEST_GIVER.GENDER}she{?}he{\?} had." />
     <string id="MRJ06SU7" text="{HERO.FIRSTNAME} the Thorn" />
     <string id="mrjz1ka4" text="And in your lost baggage you had: {LOST_BAGGAGE}." />
@@ -2708,7 +2699,7 @@
     <string id="mSvfxXVW" text="No morale penalty from having single type of food." />
     <string id="Mt1cSesD" text="My {?PLAYER.GENDER}lady{?}lord{\?} also instructed me to express {?QUEST_GIVER.GENDER}her{?}his{\?} gratitude for your services, and admiration for your skill." />
     <string id="MTbOGRCF" text="You don't have enough men!" />
-    <string id="mTjktBP6" text="Increase crossbow damage against mounts by 40%." />
+    <string id="mTjktBP6" text="Increases crossbow damage against mounts by 40%." />
     <string id="mTuIMcLA" text="All right. I will bring {SELECTED_AMOUNT} units of {SELECTED_GOOD} to you." />
     <string id="MTVhHmbb" text="{ISSUE_GIVER.LINK} told you that a group of deserters have been raiding their village regularly. You asked your companion {COMPANION.LINK} to take {TROOP_COUNT} of your experienced men. They will stay with {ISSUE_GIVER.LINK} and defend the people of {ISSUE_SETTLEMENT}." />
     <string id="mU45Th70" text="We're off to hunt them now." />
@@ -2727,10 +2718,10 @@
     <string id="mWLA9sfT" text="I don't want to break the law. You can take the goods." />
     <string id="MWvzJSH1" text="A shift in the tax system that put more emphasis on property and less on the head tax charged to everyone could collect more from wealthy landowners." />
     <string id="MX7toYav" text="{CHILD.NAME} joined a hunting pursuit in pursuit of a pack of wolves who had been ravaging the local livestock. {?CHILD.GENDER}She{?}He{\?} tracked and took down one of the beasts with an arrow." />
-    <string id="mXDS8YR0" text="Every skill point after 200 grants you 0.5% damage increase with bows." />
+    <string id="mXDS8YR0" text="Each skill point above 200 grants you 0.5% damage increase with bows." />
     <string id="MXGtQ6YV" text="I hear {BANDIT_NAME} have moved into the old {HIDEOUT_NAME} near here. Travellers better watch themselves." />
     <string id="MXLcZPaO" text="Village Needs Draught Animals " />
-    <string id="mxpRb5pd" text="Increase your mount armor by 20%." />
+    <string id="mxpRb5pd" text="Increases your mount's armor by 20%." />
     <string id="MYeCnHTb" text="You asked {COMPANION.LINK} to deliver at least {WANTED_PRISONER_AMOUNT} prisoners to {ISSUE_GIVER.LINK} in {SETTLEMENT}. They should rejoin your party in {RETURN_DAYS} days." />
     <string id="myM5wdFI" text="20% hearth increase in the villages you govern." />
     <string id="myuzMhOn" text="Clay Pits" />
@@ -2755,7 +2746,7 @@
     <string id="N6QTvjMf" text="Prisoners" />
     <string id="N6UeziT8" text="Start ({COST}{GOLD_ICON})" />
     <string id="N70ovtjV" text="You will stay in {SETTLEMENT} for a while." />
-    <string id="N8UfRVVH" text="Decrease mounted accuracy penalties by 20% while using a throwing weapon." />
+    <string id="N8UfRVVH" text="Decreases mounted accuracy penalties by 20% while using a throwing weapon." />
     <string id="n99VA8KP" text="You'll never take us alive![if:idle_angry][rb:very_negative]" />
     <string id="N9lA0KwA" text="Troops under the formation you control deal 5% more melee damage." />
     <string id="n9qR84YI" text="{PRISONER.NAME} has escaped from {SETTLEMENT}." />
@@ -2776,7 +2767,7 @@
     <string id="NC2VGafO" text="They skin their beasts in the woods, then go into the village after midnight to stash the hides. The villagers are terrified of them, I believe. If you go into the village late at night, you should be able to track them down." />
     <string id="nc9KELFA" text="trade goods" />
     <string id="NCC4VUOc" text="{ISSUE_GIVER.LINK} wants you to get rid of the poachers who once worked for {?ISSUEGIVER.GENDER}her{?}him{\?} but are now out of control." />
-    <string id="NCJCEVkp" text="Increase your charge damage by 20%." />
+    <string id="NCJCEVkp" text="Increases your charge damage by 20%." />
     <string id="NcQZz4N2" text="This is my last warning! It would be better for both sides if you don't resist.[ib:closed]" />
     <string id="nctTI5mv" text="I have every reason to believe you'll win the tournament." />
     <string id="ncvB4XRL" text="You could join me." />
@@ -2792,7 +2783,7 @@
     <string id="NhAMSaWU" text="Herd" />
     <string id="NhDEwaab" text="Well, if you know how to fight... Yes, we could use help. A group of deserters is camped out near here. They come every few weeks, demanding food and money. They've killed two villagers who resisted them. We asked our {?LORD.GENDER}mistress{?}lord{\?}, {LORD.NAME}, for help but {?LORD.GENDER}her{?}his{\?} men never get here in time." />
     <string id="NhHzgs5e" text="When, after some time your forces regroup, you take a quick tally of your troops only to see you have lost: {CASUALTIES}." />
-    <string id="NhQrsc1A" text="Can reload any crossbow on horseback." />
+    <string id="NhQrsc1A" text="You can reload any crossbow on horseback." />
     <string id="NIFRbl76" text="Increase tariff revenue 5%." />
     <string id="nixINYwE" text="Yes of course. It was a pleasure doing business with you." />
     <string id="NJa55XTF" text="You have 30% increased sight range during night time." />
@@ -2817,15 +2808,16 @@
     <string id="nNUZOwhb" text="Redeye {HERO.FIRSTNAME}" />
     <string id="No04urXt" text="{CLAN} tier is increased to {TIER_LEVEL}" />
     <string id="nOfSqRnI" text="at the town watch's training ground." />
-    <string id="nOjfjiUc" text="Double the interrupt threshold when the character is reloading his crossbow." />
+    <string id="nOjfjiUc" text="Doubles the interrupt threshold while you are reloading your crossbow." />
     <string id="noXFy09m" text="Troops wages are decreased by 25% while in a siege camp." />
     <string id="nOZerIfl" text="Quick Adjustments" />
     <string id="nP7KOISK" text="Local landowners have the right to collect tolls on commerce." />
     <string id="Np94rYMz" text="Two handed weapon speed: +{a0} %" />
-    <string id="NPoClaRb" text="You gain +1 health for every athletics skill over 250." />
+    <string id="NPoClaRb" text="Each skill point above 250 grants you +1 hit point." />
     <string id="npuC7IBM" text="{HERO.FIRSTNAME} the Dyer" />
-    <string id="nq0qLQ1x" text="You lost the fight against bounty hunters and failed to rescue the {QUEST_GIVER.LINK}'s men. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. " />
-    <string id="nQ0uWQsv" text="Increase your mount hitpoints by 20%." />
+    <string id="nq0qLQ1x" text="You lost the fight against bounty hunters and failed to rescue the {QUEST_GIVER.LINK}'s men. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. &quot;I appreciate your effort but it wasn't good enough...&quot;" />
+    <string id="nQ0uWQsv" text="Increases your mount's hit points by 20%." />
+    <string id="nQkbC68q" text="A courier from {CLAN_NAME} brings an offer of {GOLD_AMOUNT}{GOLD_ICON} for the freedom of {CAPTIVE_HERO.NAME}." />
     <string id="nQoAsBZY" text="When you enter the town my men will take the weapons from you. Good luck." />
     <string id="NQOQb0C9" text="'And many thousand bodies lay a-rotting in the sun \n But things like that must be you know for kingdoms to be won'" />
     <string id="nQStXojH" text="If {?CURRENT_LIEGE.GENDER}she{?}he{\?} ever violated his oath to you , it absolves you of your duty to {?CURRENT_LIEGE.GENDER}her{?}him{\?}." />
@@ -2865,11 +2857,11 @@
     <string id="Ny2i62w5" text="{TARGET_HERO} died and your agreement with {ISSUE_OWNER.LINK} has been canceled." />
     <string id="nyatGUkU" text="socialized with other engineers." />
     <string id="NYHeygaj" text="Deft Hands" />
-    <string id="nyN4Kwa9" text="Increase the rate of learning new part designs when smithing by 100%." />
+    <string id="nyN4Kwa9" text="Doubles the chance of learning new crafting parts through smithing." />
     <string id="nysBXpEO" text="camels" />
     <string id="nZaeTlj8" text="Exchange Troops" />
     <string id="nZbaYvVx" text="Stash" />
-    <string id="nZK2r5Gn" text="Cavalry troop volunteering rate in the towns your clan govern increased by 30%." />
+    <string id="nZK2r5Gn" text="Cavalry troop volunteering rate is increased by 30% in the towns your clan govern." />
     <string id="o0qwDa0q" text="Your relation increased by {RELATION_VALUE} with nearby notables." />
     <string id="o1pZHZOF" text="{ATTACK_TEXT}!" />
     <string id="O4cknzhW" text="Irrigation" />
@@ -2906,7 +2898,7 @@
     <string id="Oe5Tf7OZ" text="My foes may not fear my sword, but they should fear my cunning." />
     <string id="Of7XnP5c" text="Vote for the new owner of {SETTLEMENT_NAME}" />
     <string id="oFsPkOpe" text="Camels" />
-    <string id="Og8QMFeC" text="Increases your throwing weapons drawing speed by 20%." />
+    <string id="Og8QMFeC" text="Increases your drawing speed with throwing weapons by 20%." />
     <string id="OgkSLkFi" text="There is nobody in the lord's hall." />
     <string id="ogsh3V6G" text="{QUEST_GIVER.LINK}, a merchant from {QUEST_SETTLEMENT}, has told you about the hideout of some bandits who have recently been attacking local caravans and villagers. You told {?QUEST_GIVER.GENDER}her{?}him{\?} that you will take care of the situation yourself. {QUEST_GIVER.LINK} also marked the location of the hideout on your map." />
     <string id="OhI7N6ap" text="If it's a fight you want, then a fight you'll get!" />
@@ -2966,13 +2958,12 @@
     <string id="Oy5dH7gZ" text="Elea" />
     <string id="oYJCP3mt" text="You've failed to stop the deserters. The deserters ravaged the village and left." />
     <string id="oYJz4V0s" text="Governed settlements have increased militia recruitment by 0.5 per day." />
-    <string id="oYUAuLO7" text="You have sworn not to attack." />
     <string id="Oz8Aj6uB" text="Troops in your party gain 5% more experience after each battle." />
     <string id="OZk856at" text="Increase loot amount by 1% for every skill point over 200." />
     <string id="OzyrsZZK" text="You fought your way through the attackers to escape from the settlement. When, after some time your forces regroup, you take a quick tally only to see you have lost the following: {CASUALTIES}.{OTHER_CASUALTIES}" />
     <string id="p0hcyZdp" text="Zenon" />
     <string id="P0Zm6daz" text="Cavalry troops in the formation you are leading have their melee damage increased by 5%." />
-    <string id="p12tSfCC" text="Rangers Swiftness" />
+    <string id="p12tSfCC" text="Ranger's Swiftness" />
     <string id="p1buAbOQ" text="The harvest has been poor, and rats have eaten much of our stores. We can eat less and tighten are belts, but if we don't have seed grain left over to plant, we'll starve next year." />
     <string id="p1eNH4BK" text="When stationary for a while (1 hour) increase sight range by 25%." />
     <string id="p1Y3EU5O" text="Train Militia" />
@@ -2980,8 +2971,9 @@
     <string id="p2rTaKo8" text="You have no claim to the throne. Even in the unlikely case that others follow you, another usurper will just rise up to defeat you." />
     <string id="P2VNGJDa" text="Extortion by Deserters at {SETTLEMENT}" />
     <string id="p2WPU1CU" text="Very good then. Now I know whom I slay." />
-    <string id="p3Aa9Fr9" text="2% movement speed bonus for steppes and plains." />
+    <string id="p3Aa9Fr9" text="2% movement speed bonus on steppes and plains." />
     <string id="P407baEa" text="I think you would need to rise considerably in the world before I could consider such a thing..." />
+    <string id="p5OHK0Lh" text="You decided to issue a decree banning the merchants' price-fixing arrangement." />
     <string id="p5Wo8rNb" text="won a duel." />
     <string id="p71X2Z5d" text="50% chance to recover a mount from lost cavalry after battles." />
     <string id="p78FaTqe" text="What I said about our wages being paid on time..." />
@@ -3047,7 +3039,7 @@
     <string id="PIukmFYA" text="You decided not to get involved and left the village. You have failed to help {QUEST_GIVER.LINK} as promised." />
     <string id="pJBz7hhl" text="Gather your men, we have another job to do!" />
     <string id="pjCp7PlB" text="Every unique project in settlement provides a %1 bonus to prosperity gain." />
-    <string id="pJcsJaW2" text="1.5x zoom in with bows." />
+    <string id="pJcsJaW2" text="You can zoom in 50% more with bows." />
     <string id="pjjnackd" text="Increases your damage with two handed weapons by 30% against shields." />
     <string id="PJMbfSPJ" text="You have {NUMBER} new prisoners to recruit." />
     <string id="PKhcPbBX" text="Your family were part of a nomadic clan, crisscrossing the wastes between wadi beds and wells to feed their herds of goats and camels on the scraggly scrubs of the Nahasa." />
@@ -3058,7 +3050,7 @@
     <string id="plx8kkxa" text="Pelicos" />
     <string id="plYfFg4A" text="learned how a victory is won." />
     <string id="PMio7set" text="Marital Status" />
-    <string id="Pml3haCM" text="Pierce damage of crafted weapons increased by 2%." />
+    <string id="Pml3haCM" text="Thrust damage of crafted weapons is increased by 2%." />
     <string id="pmsItOBR" text="Tariff income is 10% higher." />
     <string id="PMSSAVgi" text="Increases your prisoner limit by 10." />
     <string id="Pnc8ToV1" text="Just participate in a future tournament in this realm, and say you dedicate your victories to me. {TOURNAMENT_ROUND_GOAL}" />
@@ -3083,7 +3075,7 @@
     <string id="pRbKbPK3" text="Vadrios" />
     <string id="prcBBqMR" text="{HIDEOUT_DESCRIPTION} You see armed men moving about. As you listen quietly, you hear scraps of conversation about raids, ransoms, and the best places to waylay travellers." />
     <string id="PrzguaEq" text="Thank you. I appreciate your people's help." />
-    <string id="pS7bgCl0" text="Ranged troops gain 5% more XP after a battle." />
+    <string id="pS7bgCl0" text="Ranged troops gain 5% more xp after battles." />
     <string id="PSmDvbGM" text="Gain 0.1% interest per day on gold you have. It's capped at maximum 1000 per day." />
     <string id="PstO2f5I" text="Granary" />
     <string id="Pt2n5Cez" text="20% chance to avoid persuasion critical failure." />
@@ -3093,7 +3085,7 @@
     <string id="PTYKFbqf" text="Governed settlement gains +0.5 prosperity per day." />
     <string id="PUjDWe5j" text="Culture" />
     <string id="pUrSIed8" text="You have failed to escort the caravan to its destination." />
-    <string id="pV7DLTAu" text="I am sorry my {?QUEST_GIVER.GENDER}lady{?}lord{\?}. I cannot deliver the {MOUNT_TYPE} you have requested." />
+    <string id="pV7DLTAu" text="I am sorry, my {?QUEST_GIVER.GENDER}lady{?}lord{\?}. I cannot deliver the {MOUNT_TYPE} you requested." />
     <string id="PV7RHgUl" text="Company of Trouble" />
     <string id="pVkchhqX" text="{VICTIM.NAME} was lost." />
     <string id="pvkl6pZh" text="You cannot take troops." />
@@ -3116,7 +3108,7 @@
     <string id="PyVqDLBu" text="Your parents didn't give you much money, but they did leave just enough for you to secure a loan against a larger amount to build a small workshop. You paid back what you borrowed, and sold your enterprise for a profit." />
     <string id="PZ2itbRR" text="Gain +10 more influence by winning tournaments." />
     <string id="pZm7HRDG" text="Don't worry I have no intention to attack." />
-    <string id="PzqAt7W5" text="Infantry troops in your formation deal 10% more ranged damage with throwing weapons." />
+    <string id="PzqAt7W5" text="Infantry troops in your formation deal 10% more damage with their throwing weapons." />
     <string id="q0RY0dQG" text="We need to talk business." />
     <string id="q186AQHt" text="Phadon" />
     <string id="q2aed7tv" text="Train troops for {ISSUE_OWNER.NAME}" />
@@ -3147,7 +3139,7 @@
     <string id="QbwNmxrn" text="You told {?CHILD.GENDER}her{?}him{\?} that skill and brains are all very well, but in many situations there is no substitute for sheer brute might." />
     <string id="qBx8UbUt" text="Arenicos' Mules" />
     <string id="qcaaJLhx" text="Mercenary Contract" />
-    <string id="qCCLpjAa" text="Troops under your command deals 50% more damage to shields with throwing weapons." />
+    <string id="qCCLpjAa" text="Troops under your command deal 50% more damage to shields with throwing weapons." />
     <string id="QcECvqaN" text="Infantry troops in the formation you are leading have their damage increased by 15% against shields." />
     <string id="qcl3YTPh" text="Visit the tavern" />
     <string id="QCuxL92I" text="Good day, {?PLAYER.GENDER}madam{?}sir{\?}. How can I help you?" />
@@ -3160,6 +3152,7 @@
     <string id="QEhapwtN" text="I own a mine near here. Normally I can find willing villagers to work it, but these days they've been demanding higher and higher wages. Fine. They're out of a job, but I still need to work the mine. If you could perhaps find me some prisoners..." />
     <string id="qeiVFn9s" text="{CLAN_NAME} joined kingdom {NEW_FACTION_NAME}" />
     <string id="qEOXka0Q" text="+0.5 Loyalty per day to settlements that have the same culture as their owner clan\nSettlement militia production is increased by 1\n-0.5 Loyalty per day to settlements with a different culture than its owner clan" />
+    <string id="qeRRWMfU" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} fell during the fighting. {?ARMY_LEADER.GENDER}Her{?}His{\?} vengeful troops sweep through the city taking whatever loot they like and setting fire to the rest." />
     <string id="qezuzVuY" text="{HERO.FIRSTNAME} the Goat" />
     <string id="qfClYYjK" text="Artisans can't sell their products in {ISSUE_GIVER_SETTLEMENT}" />
     <string id="qfjRGjM4" text="Your scouts started to gather information about {SETTLEMENT}." />
@@ -3169,7 +3162,7 @@
     <string id="QGIAbglw" text="Obron" />
     <string id="QGigAhFW" text="You have married with {YOUNG_HERO.LINK} who is the young noble you agreed to be his tutor. {QUEST_GIVER.LINK} has canceled your tutor agreement and wished you a long lasting marriage." />
     <string id="qgIMB69a" text="Double relationship gain by resolved issues with merchants." />
-    <string id="QGj8zQIc" text="The hand of {MARRIAGE_CANDIDATE.LINK}" />
+    <string id="QGj8zQIc" text="The hand of {MARRIAGE_CANDIDATE.NAME}" />
     <string id="QGX317PD" text="+2 xp per day to all troops in party." />
     <string id="QH3shVzb" text="My people can bring you your laborers." />
     <string id="QH77Weyq" text="Bulls Eye" />
@@ -3225,9 +3218,9 @@
     <string id="QqKNxmeF" text="Tradeyard Foreman" />
     <string id="qqW5n5Ox" text="Milos" />
     <string id="qqzJTfo0" text="Barter line goes here." />
-    <string id="qR3gQrLi" text="Splendid. We'll need to keep moving around, though, so it might be tricky to find us. My fellow nobles  will usually know where to find me though, if you ask them." />
+    <string id="qR3gQrLi" text="Splendid. We'll need to keep moving around, though, so it might be tricky to find us. My fellow nobles will usually know where to find me though, if you ask them." />
     <string id="qR6HqHgo" text="Declaration of War" />
-    <string id="QR80Vhdk" text="Increase your waiting hit points regeneration by 10%." />
+    <string id="QR80Vhdk" text="Increases your hit point regeneration by 10% while waiting in settlements." />
     <string id="qR9bEE6g" text="A building which provides the means required for the manufacture or repair of buildings. Improves project development speed. Also stonemasons reinforce the walls." />
     <string id="QRJQ9Wgv" text="{PRISONER_LORD.LINK_AND_FACTION} has been taken prisoner by the {CAPTOR_FACTION}." />
     <string id="QRwaQIbm" text="Is in Kingdom" />
@@ -3267,7 +3260,6 @@
     <string id="R1MaIgOb" text="Militia Effect" />
     <string id="R1W5Il2d" text="You can take your grievances to your lord, or to whoever sold the land. The law says a buyer has rights, and you need to clear out." />
     <string id="R21SLyGK" text="Excellent. You are a brave and loyal warrior. You have my thanks." />
-    <string id="r2XC8nbZ" text="{YOUTH_INTRO}" />
     <string id="r2y3n7dR" text="Visited Settlements" />
     <string id="r46NWboa" text="I'm going to market too. What kind of products do you have?" />
     <string id="r4pLtP5V" text="You're right. We agreed on this price. Thank you for your efforts." />
@@ -3307,7 +3299,7 @@
     <string id="RDKNUawJ" text="Troops in your formation gain 5% accuracy with bows." />
     <string id="redwEIlW" text="Quartermaster" />
     <string id="REFJzAAt" text="Losses to siege bombardment has a 50% chance of getting wounded instead of getting killed." />
-    <string id="retWZcQ0" text="Your attacks with crossbows ignore 10% of enemies' armor." />
+    <string id="retWZcQ0" text="Your attacks with crossbows ignore 10% of enemy's armor." />
     <string id="REWGj2ge" text="a rising new clan" />
     <string id="rFbAjSWM" text="Gorigos" />
     <string id="rFESkhK0" text="{HERO.FIRSTNAME} the Slicer" />
@@ -3315,6 +3307,7 @@
     <string id="rfkrddb9" text="Recover 10 hp lost after each offensive battle." />
     <string id="rFriAZcL" text="Can you really pay me {BASE_REWARD_X_2}{GOLD_ICON} for your freedom?" />
     <string id="rfyalLyY" text="What can I say? It's a beautiful world, but filled with so much suffering." />
+    <string id="rgb6vdon" text="Running speed increased by {a0} %" />
     <string id="rGuYLmez" text="Ascyron" />
     <string id="RGZWdKDx" text="Ah. It makes me so glad to hear you say that!" />
     <string id="Rh0DlvvE" text="I'm glad you see it that way. Go on. Continue your training." />
@@ -3335,7 +3328,7 @@
     <string id="rkuAgPSA" text="On the Edge" />
     <string id="RKVNvimC" text="herded the sheep." />
     <string id="Rl1AHKSp" text="Royal Privilege" />
-    <string id="rl4fgGfh" text="Increase campaign speed by 2%." />
+    <string id="rl4fgGfh" text="Increases your party speed by 2%." />
     <string id="RL8z99Dt" text="Force notables to give you recruits" />
     <string id="rlAec9CM" text="Very well. Keep safe." />
     <string id="RliyRJKl" text="Provides battle training for citizens and recruit them into militia. Increases daily militia recruitment." />
@@ -3349,7 +3342,7 @@
     <string id="rmMcwSn8" text="You helped your family handle their business affairs, going down to the marketplace to make purchases and oversee the arrival of caravans." />
     <string id="RmW8Wf83" text="\nParty Gold Gain : {PARTY_GOLD_GAIN}" />
     <string id="rmydcPP3" text="Party Size:" />
-    <string id="rNDRyFP4" text="You cleared the hideout and rescued the {QUEST_GIVER.LINK}'s associates. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. " />
+    <string id="rNDRyFP4" text="You cleared the hideout and rescued the {QUEST_GIVER.LINK}'s associates. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. &quot;Thank you for rescuing my men. I'll remember this.&quot;" />
     <string id="RNT5hMVb" text="Goods From Market" />
     <string id="RO3Zv0K4" text="\nRelation with Settlement Owner : {OWNER.LINK} : {RELATION_CHANGE}" />
     <string id="rO704KOG" text="There is no one with the authority to talk to you." />
@@ -3375,9 +3368,8 @@
     <string id="RSQbOjub" text="Request a meeting with someone." />
     <string id="RssJTUpL" text="Berserker" />
     <string id="Rt2w61N8" text="Don't get involved in this. We've grazed our herds on these hillsides since our fathers' fathers' time. We don't care if one rich bastard gave a couple of bags of silver to another rich bastard. We don't care about title deeds or courts of law or any of that. Custom is custom, and we're not going anywhere!" />
-    <string id="rtC3FGvJ" text="{DEFECTION_PERSUADE_ATTEMPT_4}" />
     <string id="rTFaZCdY" text="Forest" />
-    <string id="rtfoywJl" text="Declare war on {KINGDOM_NAME}" />
+    <string id="rtfoywJl" text="Declare war on the {KINGDOM_NAME}" />
     <string id="rtP6vnmj" text="I'm not sure we're compatible." />
     <string id="rtpD3FK6" text="Peerage" />
     <string id="rtqD9cnu" text="Yeah, it's a rough world, but there are lots of opportunities to be seized right now if you're not afraid to get your hands a bit dirty." />
@@ -3406,11 +3398,10 @@
     <string id="RxjuaDum" text="I am glad of that. Don't make me wait too long. Some men say they will pay a debt, and you never see them again." />
     <string id="RXo3edjn" text="Good Lodging" />
     <string id="RxqCiO7F" text="competes in tournaments." />
-    <string id="rxSz5dY1" text="{SEND_TROOPS_TEXT}" />
     <string id="RxuM5RzJ" text="Cheat: Raid Nearby Village" />
     <string id="Ry2GmpAD" text="You need to be more valorous" />
     <string id="RyfFWmDs" text="No Rest for the Wicked" />
-    <string id="rYHlksFs" text="Troops under your formation gain 20% bonus crossbow damage against mounts." />
+    <string id="rYHlksFs" text="Crossbow equipped troops in your formation deal 20% more damage against mounts." />
     <string id="RYnwJEhO" text="{POLICY_NAME}" />
     <string id="RyorjCXF" text="Galon" />
     <string id="rYt43AWk" text="{QUEST_GIVER.LINK} accepted your offer to buy the products from an average price. You can now sell those for profits without any obligations to {?QUEST_GIVER.GENDER}her{?}him{\?}." />
@@ -3419,6 +3410,7 @@
     <string id="rZkQfBxt" text="You asked one of the local merchants to take the young {?CHILD.GENDER}woman{?}man{\?} along with one of his caravans and make {?CHILD.GENDER}her{?}him{\?} learn the secrets of the trade." />
     <string id="S0LSg98G" text="10% less influence needed to boost army cohesion." />
     <string id="S0NeQdLp" text="You had an agreement with {QUEST_GIVER.NAME}. Your word is your bond, no matter which side of the law you're on." />
+    <string id="s1ERZ4ZR" text="You must be the king" />
     <string id="s2btPjJf" text="Who the hell are you? If you live in this village, you'd better rustle up some silver and wine. Look lively, eh?" />
     <string id="s2lKb22C" text="{ARMY} has been disbanded since other parties has left the army." />
     <string id="s3Fna6wY" text="I've always seen myself as someone who sides with the weak of this realm. I don't want to find myself at odds with you." />
@@ -3429,7 +3421,7 @@
     <string id="S60sDU3j" text="Very good! Here is your money. Thank you." />
     <string id="s7idfhBO" text="I am terribly sorry. We are not really compatible with each other." />
     <string id="s8PNllPN" text="you saved your city quarter from a fire." />
-    <string id="S8Z1lYcq" text="You cause 20% more battle morale penalty with range kills while mounted." />
+    <string id="S8Z1lYcq" text="You cause 20% more battle morale penalty with ranged kills while mounted." />
     <string id="s8z5Ugvm" text="The clan should be expelled" />
     <string id="s9oED1IR" text="Skirmisher" />
     <string id="sA2OrT6l" text="Unburdened" />
@@ -3458,10 +3450,10 @@
     <string id="seEyGLMz" text="Go deep into {ENEMY} territory, to {SETTLEMENT_1}, {SETTLEMENT_2} and {SETTLEMENT_3}. I want to know every detail about them, what sort of fortifications they have, whether the walls are well-manned or undergarrisoned, and any other enemy forces in the vicinity." />
     <string id="SF244Jxx" text="as a noble's ward." />
     <string id="SfKrjKuO" text="Thrown weapon accuracy: +{a0} %" />
-    <string id="sFoPPLaX" text="Throwing weapons ignore 30% of enemy armor." />
+    <string id="sFoPPLaX" text="Throwing weapons ignore 30% of enemy's armor." />
     <string id="sFqoxkwO" text="Your towns' bound villages' clay / iron / cotton / silver production is increased by 20%" />
     <string id="sfW7oT9e" text="Artisan can't sell products" />
-    <string id="sgpEjTkv" text="Increase your melee damage while mounted by 5%." />
+    <string id="sgpEjTkv" text="Increases your mounted melee damage by 5%." />
     <string id="SgtTaqG0" text="That's a mistake that I think you'll regret, sooner rather than later." />
     <string id="SGVW6NXR" text="assisted the smith." />
     <string id="Shal1Prg" text="You have fallen. The bandits quickly search your body for every coin they can find, then vanish into the night. They have left you alive, if only barely. Luckily some passing townspeople find you lying by the side of the road, and recognize you as something other than a simple beggar. They carry you to the nearest inn and dress your wounds." />
@@ -3497,11 +3489,12 @@
     <string id="snSBfQkV" text="Feats" />
     <string id="SOHgkGKy" text="Your workshops gather trade rumors." />
     <string id="SoTUisL3" text="Deltisos" />
-    <string id="SP5n2GOz" text="Troops in your formation deal 8% more damage against shields with throwing weapons." />
+    <string id="SP5n2GOz" text="Troops in your formation deal 8% more damage with throwing weapons against shields." />
     <string id="SP7I61x2" text="Perhaps we can talk more when we meet again." />
     <string id="sP9ohQTs" text="Forget it" />
     <string id="spbYlf0y" text="Faster siege engine production +{a0}%" />
     <string id="sPEZq0Yk" text="What's sauce for the goose is sauce for the gander. We've done business for years like this and we're not just going to change things because one party complains." />
+    <string id="SpIn5pr4" text="After listening to the town merchants, you decided to keep the restrictions on the sale of goods. Your decision made the merchants happy but disappointed the {QUEST_GIVER.LINK}" />
     <string id="spj8bYVo" text="Good! I'll mark the hideout for you on a map." />
     <string id="SpJqhEEh" text="Bards" />
     <string id="sPmQz21k" text="Enemy" />
@@ -3548,8 +3541,8 @@
     <string id="t0UGXPV4" text="I'm interested in trading. What kind of products do you have?" />
     <string id="t154GeM2" text="{SETTLEMENT} was raided. Your agreement with {QUEST_GIVER.LINK} is canceled." />
     <string id="t1OpnZph" text="Jeremos" />
-    <string id="t2dcmd1L" text="Increase your maneuver by 10%." />
-    <string id="T3UdjMXf" text="Increase crafting stamina recovery rate by 50%." />
+    <string id="t2dcmd1L" text="Increases your maneuvering by 10%." />
+    <string id="T3UdjMXf" text="Increases crafting stamina recovery rate by 50%." />
     <string id="T3vJp4PG" text="Whoever grasps how prices work can pluck silver out of thin air." />
     <string id="T3x9hVg9" text="{HERO.FIRSTNAME} of the Chalice" />
     <string id="t4kOTpwY" text="Increase battle morale by 10 during siege assaults and defense." />
@@ -3572,7 +3565,7 @@
     <string id="taKIDPxj" text="Embassies carry gifts and attract bandits. Fighting them off made the trip much more exciting than {?CHILD.GENDER}she{?}he{\?} had expected." />
     <string id="TAlERbfz" text="Increase the armor provided by civillian body armors by 10." />
     <string id="TaouqUu7" text="{HERO.FIRSTNAME} of the Steps" />
-    <string id="taTbOAte" text="Polearm attacks that deal damage over 25% of your opponent's hit points has 25% chance to dismount enemy cavalry." />
+    <string id="taTbOAte" text="Polearm attacks that deal damage over 25% of enemy cavalry's hit points has 25% chance to dismount them." />
     <string id="TaucWWCB" text="Keep at Bay" />
     <string id="TauRjAud" text="{NAME} of the {FACTION}" />
     <string id="taz5cAtw" text="You failed to train the {YOUNG_HERO.LINK} enough as {QUEST_GIVER.LINK} expected. {?QUEST_GIVER.GENDER}She{?}He{\?} is disappointed." />
@@ -3614,7 +3607,7 @@
     <string id="tiTFeYkB" text="Promoter" />
     <string id="Tj8bGW4b" text="If a man and a woman respect each other, politics should not divide them." />
     <string id="TjAQbTab" text="Well, yes, we are looking for a suitable marriage for { OTHER_CLAN_NOMINEE.LINK}." />
-    <string id="tJc5mZua" text="Your Companion has successfully delivered the {MOUNT_TYPE} {QUEST_GIVER.LINK} requested. You received {QUEST_REWARD} gold in return for your service." />
+    <string id="tJc5mZua" text="Your companion has successfully delivered the {MOUNT_TYPE} {QUEST_GIVER.LINK} requested. You received {QUEST_REWARD} gold in return for your service." />
     <string id="TJKi43Hv" text="{HERO.FIRSTNAME} of the Scroll" />
     <string id="tJqWNH2H" text="Increase recruitment slot by 1 when recruiting from merchant notables." />
     <string id="tjudHtDB" text="Effects the power of issue owner in the settlement." />
@@ -3665,7 +3658,7 @@
     <string id="TUDAvcTR" text="{?CHARACTER.GENDER}She{?}He{\?} was assassinated in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}" />
     <string id="TuIyqMWG" text="The artisans and the merchants are at each other's throats right now. I bet {QUEST_GIVER.NAME} is planning something." />
     <string id="tuv1O7ig" text="Salt the Earth" />
-    <string id="tVhDLrGY" text="Troops under your command has double interrupt threshold while reloading crossbows." />
+    <string id="tVhDLrGY" text="Troops under your command have their interrupt threshold doubled while reloading their crossbows." />
     <string id="tvoN5ynt" text="Know-How" />
     <string id="TVRbkuhC" text="{HERO.FIRSTNAME} of the Trident" />
     <string id="Tw2FaO0m" text="Land Tax" />
@@ -3673,6 +3666,7 @@
     <string id="tw5y78XY" text="Increase equipped crossbow damage by 3." />
     <string id="TWaxzej6" text="Party consumes 10% less food." />
     <string id="tWDyWroN" text="Amnon" />
+    <string id="tWZ4a8Ih" text="Your criminal action towards {SETTLEMENT} has angered {QUEST_GIVER.LINK} and {?QUEST_GIVER.GENDER}she{?}he{\?} broke the agreement you had." />
     <string id="TWZ4abt5" text="I'll keep wandering about, as I've done before. I can make a living. No need to worry." />
     <string id="TX48zCzF" text="{HERO.FIRSTNAME} the Carpenter" />
     <string id="tx7iJMnc" text="{HERO.FIRSTNAME} the Silkvendor" />
@@ -3705,7 +3699,7 @@
     <string id="u1lTJoPO" text="Nemos" />
     <string id="u1Pkt4HC" text="Raiders" />
     <string id="U2buPiec" text="Logistician" />
-    <string id="U32R2S5O" text="Increase the morale of ranged troops at the start of the battle by 10%." />
+    <string id="U32R2S5O" text="Increases the morale of ranged troops at the start of the battle by 10%." />
     <string id="U3cgqyUE" text="Rogue Extraordinaire" />
     <string id="u3eGQRn8" text="I am not entirely comfortable discussing this with you." />
     <string id="U3LdMEXb" text="Debts" />
@@ -3724,6 +3718,7 @@
     <string id="U9z7rvX5" text="Respectfully, you're making a big mistake and I think you're going to regret it." />
     <string id="U9zFz8Et" text="The {SIEGE_ENGINE} of {SIEGED_SETTLEMENT_NAME} has been cracked." />
     <string id="Ua6CNLBZ" text="Village" />
+    <string id="uaMmmhRV" text="You must conclude your current encounter" />
     <string id="uANbQUxg" text="Donkeys Swiftness" />
     <string id="UaSddsa2" text="My decision is final." />
     <string id="UAXaL9ro" text="Leadfoot {HERO.FIRSTNAME}" />
@@ -3751,7 +3746,6 @@
     <string id="uEV6kKdU" text="You have collected all the supplies that the army commander requested. Return to army and deliver the supplies" />
     <string id="UFce0iyy" text="The caravan survived the battle without your help. You failed to keep your promise to {QUEST_GIVER.LINK}." />
     <string id="ufciD08A" text="Increase your handling of swingable polearms by 15%." />
-    <string id="uG2Alcat" text="Game Difficulty" />
     <string id="UGda4FDZ" text="{CHILD.NAME} found work with an artisan for a season, keeping {?CHILD.GENDER}her{?}his{\?} high birth a secret." />
     <string id="UgfmaQgx" text="Leave {DEFENDER}" />
     <string id="ugHO6Sa6" text="I need more {MOUNT_TYPE}, specifically, we need {MOUNT_COUNT} and they need to be {MOUNT_NAME}s, because we know how to use them and how they fit our needs.." />
@@ -3761,7 +3755,7 @@
     <string id="uHJltZ5D" text="Self Made Man" />
     <string id="uHY7NqZf" text="I can't do this. I am releasing {TARGET_HERO.NAME}. Tell your master that {TARGET_HERO.NAME} is no longer a prisoner." />
     <string id="uhYprSnG" text="I will go to the hideout myself and ambush the bandits." />
-    <string id="UIuKnT2h" text="Settlement you govern gain +1 militia per day." />
+    <string id="UIuKnT2h" text="Governed settlement gains +1 militia per day." />
     <string id="uixuohBp" text="Settlement Projects" />
     <string id="UIyhmGKC" text="You have handed over the prisoner {TARGET_HERO.LINK} to {ISSUE_OWNER.LINK}'s agent, who handed you {BASE_REWARD}{GOLD_ICON} denars as promised. He also says; {ISSUE_OWNER.LINK} is grateful for your service and sends {?ISSUE_OWNER.GENDER}her{?}his{\?} regards" />
     <string id="uJceH1Dv" text="a Sunor sausage" />
@@ -3769,15 +3763,16 @@
     <string id="UjL7jVYF" text="Morale" />
     <string id="uJNvbag5" text="The walls of {SETTLEMENT} has been cracked." />
     <string id="UjS8JnH5" text="Splendid. I will never forget your service, my friend." />
-    <string id="ujSlI1fl" text="Every skill point after 200 grants you 0.5% damage increase with crossbows." />
+    <string id="ujSlI1fl" text="Each skill point above 200 grants you 0.5% damage increase with crossbows." />
     <string id="UJYaonYM" text="Loyalty and Honor" />
     <string id="uKc4le8Q" text="Patrols" />
     <string id="UKTjwBxk" text="Please be quick about it!" />
     <string id="ulFmGvtj" text="an interest in people." />
-    <string id="ulgd9Veb" text="Increase carry capacity of pack animals by 20%." />
+    <string id="ulgd9Veb" text="Increases carry capacity of pack animals by 20%." />
     <string id="uLiRasv1" text="Maybe you could take them in your party for a while, until they get a bit of experience?" />
     <string id="uLjRHv9p" text="Nadea" />
     <string id="uLmNh3RQ" text="Increase simulation damage by 1% for every skill level over 200." />
+    <string id="ULtzLvXi" text="{DEFAULT_TEXT}Before {?ARMY_LEADER.GENDER}she{?}he{\?} fell, {ARMY_LEADER.LINK} gave orders that mercy should be shown to the people of {SETTLEMENT}." />
     <string id="ULVc7QuF" text="Troops in your formation gain 2% increased movement speed in snowy and forest terrain battlefields." />
     <string id="ULWYVuVw" text="I'm still looking for your goods." />
     <string id="uM4i676z" text="Your troops deal 5% increased damage with crossbows." />
@@ -3786,13 +3781,13 @@
     <string id="UnjmmLFm" text="{CLAN_NAME} Noble Clan" />
     <string id="uNls3bOP" text="Track information level: {a0}" />
     <string id="UnQFawna" text="Enter the dungeon" />
-    <string id="UNVAkOY4" text="Cut damage of crafted weapons increased by 2%." />
+    <string id="UNVAkOY4" text="Swing damage of crafted weapons is increased by 2%." />
     <string id="uO99raT7" text="Snotnose {HERO.FIRSTNAME}" />
     <string id="UOE7ejgq" text="Here is all I've got. Let's settle up and finish this business." />
     <string id="UojHRjdG" text="Access to clean water provides room for growth with healthy citizens and a clean infrastructure. Increases daily Prosperity change." />
     <string id="Uoy2tTZJ" text="Very well. But perhaps you will reconsider later." />
     <string id="UP0pMGDR" text="There are enough bandits around here already. I don't need more on retainer." />
-    <string id="UP6rkdbg" text="Infantry troops in your formation gain 5% movement speed during battles." />
+    <string id="UP6rkdbg" text="Infantry troops in your formation gain 3% movement speed during battles." />
     <string id="UPaP0B2L" text="Alchyla" />
     <string id="UpgqdJC0" text="a trip to your realm's court." />
     <string id="upK62aLR" text="allowing lords tolls on roads running through their lands" />
@@ -3823,13 +3818,13 @@
     <string id="uw2kKrQk" text="{EXP_VALUE} Skill {?IS_PLURAL_SKILL}Levels{?}Level{\?} and {FOCUS_VALUE} Focus {?IS_PLURAL_FOCUS}Points{?}Point{\?} to {SKILL_ONE}{NEWLINE}{ATTR_VALUE} Attribute {?IS_PLURAL_ATR}Points{?}Point{\?} to {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}" />
     <string id="uW38UtSH" text="Eupitor" />
     <string id="UwEbBanm" text="These are the laws of our town. The artisans don't complain when the laws require us to buy tools from them." />
-    <string id="uwjjqEob" text="{QUEST_GIVER.LINK}, a gang leader from {QUEST_GIVER_SETTLEMENT}, has offered you to sell {STOLEN_GOOD_AMOUNT} units of stolen {STOLEN_GOOD} for half the normal price. {?QUESTGIVER.GENDER}She{?}He{\?} says once you go to another town, selling them won't be an issue. You agreed to buy." />
+    <string id="uwjjqEob" text="{QUEST_GIVER.LINK}, a gang leader from {QUEST_GIVER_SETTLEMENT}, has offered you to sell {STOLEN_GOOD_AMOUNT} units of stolen {STOLEN_GOOD} for half the normal price. {?QUEST_GIVER.GENDER}She{?}He{\?} says once you go to another town, selling them won't be an issue. You agreed to buy." />
     <string id="uwmfgcM3" text="We need {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}units{?}unit{\?} of {._}{ITEM} in {NUMBER_OF_DAYS} days. The problem is village is short on denars so we can make the payment in kind - with {NUMBER_OF_EXCHANGE_ITEM} {?NUMBER_OF_EXCHANGE_ITEM&gt;1}units{?}unit{\?} of {._}{EXCHANGE_ITEM}. What do you say?" />
     <string id="uwmHjy7z" text="You cannot pillage a settlement that has your faction culture.\n" />
     <string id="UwPs3wmj" text="My liege {NEW_LIEGE.NAME} would welcome your support. Join us!" />
     <string id="UWzQsHA2" text="{SETTLEMENT_LINK} is governed by {LORD.LINK}, {FACTION_OFFICIAL} of the {FACTION_TERM}. {PROSPERITY_INFO} {MORALE_INFO}" />
     <string id="UxAl9iyi" text="Personal" />
-    <string id="UXaVb1Jt" text="Garrison maintenance cost decreased by 15%." />
+    <string id="UXaVb1Jt" text="Garrison maintenance costs are decreased by 15%." />
     <string id="UYdvhdDl" text="When cargo went missing, the young {?CHILD.GENDER}woman{?}man{\?} made the inquiries at the local black market that were necessary to get it back." />
     <string id="uyTmrmCW" text="{HERO.FIRSTNAME} of the Reeds" />
     <string id="UZ0mPm8b" text="Each notable yields 0.1 influence per day to the settlement's owner clan\nTax from fortifications 5% decreased" />
@@ -3844,6 +3839,7 @@
     <string id="v3xdiFfD" text="Make Peace With {KINGDOM_NAME}" />
     <string id="v48N6h1t" text="Urban artisans" />
     <string id="V4bgbS26" text="Town projects that is related with sanitation and health(e.g aquaduct/market place/granary) also give bonus prosperity increase." />
+    <string id="v5tPWFFu" text="Then, what is the purpose of this?" />
     <string id="V6dV2K1r" text="15% less influence required per party to call to your army." />
     <string id="v75k1FoT" text="Not yet. We need to make more preparations." />
     <string id="V7qF7uas" text="I should lead our people, not {CURRENT_LIEGE.NAME}." />
@@ -3886,8 +3882,8 @@
     <string id="VHdyQYKI" text="Decrease the sacrificed troop number when trying to get away +{a0} %" />
     <string id="Vi5Ylvr1" text="{LORD.NAME} is gathering army near {SETTLEMENT}" />
     <string id="vI8qJ85a" text="Tier 3+ Troops under your command ignore retreat due to low morale." />
-    <string id="viBrI7T1" text="Immediately add 1 focus point to one handed and two handed." />
-    <string id="vixwTVbE" text="Increase your maximum hitpoints by 5." />
+    <string id="viBrI7T1" text="Immediately adds 1 focus point to one handed and two handed skills." />
+    <string id="vixwTVbE" text="Increases your maximum hit points by 5." />
     <string id="VJEM0IcV" text="Let's discuss the details then." />
     <string id="VJoCtAvz" text="I gave an oath to my liege." />
     <string id="VJYEoOAc" text="Well... You have a point. Go on. We won't bother you any more." />
@@ -3922,7 +3918,7 @@
     <string id="vp0FClX1" text="{HERO.FIRSTNAME} the Cargomaster" />
     <string id="Vp8Pwou8" text="Horde Leader" />
     <string id="vPbx5vJQ" text="50% Better chance of success with disguise missions." />
-    <string id="vPc4hyYy" text="Bow equipped troops in your formation take 5% less damage by ranged attacks." />
+    <string id="vPc4hyYy" text="Bow equipped troops in your formation take 5% less damage from projectiles." />
     <string id="VpGjkNrF" text="I want everything." />
     <string id="vpGuPeAH" text="Increases your damage by 2% with polearms while mounted." />
     <string id="VpLzd69e" text="Escort Merchant Caravan" />
@@ -3939,7 +3935,7 @@
     <string id="vTnSa9rr" text="You are no longer allied with {QUEST_GIVER.LINK}'s faction. Your agreement with {QUEST_GIVER.LINK} was terminated." />
     <string id="VtSg9OYK" text="I've heard good things about you. They say that you are an accomplished warrior. Some also say an accomplished commander. I have a proposal for you. There is a young lord from my clan. He is an aspiring warrior and I must say he quite admires you. He wants to learn from you. What do you say? Are you willing to take him under your wings for a while? Let's say {QUEST_DURATION} days?" />
     <string id="Vttb0P15" text="We're just harmless nomads..." />
-    <string id="VtTMWJja" text="Reduces reload time by 25%." />
+    <string id="VtTMWJja" text="Reduces your crossbow reload time by 25%." />
     <string id="VTzvlEV8" text="Sparring with total strangers, including some who would happily break {?CHILD.GENDER}her{?}his{\?} teeth if {?CHILD.GENDER}she{?}he{\?} let them, was a new and valuable experience for {CHILD.NAME}." />
     <string id="vtZYmAaR" text="I feel good knowing that you're looking after my caravan. Safe journeys, my friend!" />
     <string id="VUjaLmIH" text="Relax. We have permission. Let us pass. " />
@@ -3956,7 +3952,7 @@
     <string id="vw2Q9jJH" text="There's this old ruin, a place that offers a good view of the roads, and is yet hard to reach. Needless to say, it attracts bandits. A new gang has moved in and they have been giving hell to the caravans and travellers passing by." />
     <string id="vW6kBki9" text="Your clan is now at war with {QUEST_GIVER.LINK}'s realm. Your agreement with {QUEST_GIVER.LINK} is canceled." />
     <string id="vWGQNcu5" text="Veteran's Respect" />
-    <string id="VWPbNJrY" text="2x zoom in with crossbows." />
+    <string id="VWPbNJrY" text="You can zoom in 100% more with crossbows." />
     <string id="vWxioznX" text="Your towns' bound villages' grain / olives / fish / date production is increased by 20%" />
     <string id="vXCg3OYx" text="So, have you brought them?" />
     <string id="VXKGD0ta" text="I want to use your forge." />
@@ -4004,6 +4000,7 @@
     <string id="Wa0Rp59Q" text="Increases your damage with two handed weapons by 50% against mounts." />
     <string id="WAbqnair" text="Two handed weapon attacks that deal damage over 25% of your opponent's hit points have 30% chance to knock them down." />
     <string id="wAhXFoNH" text="You'll have to fight us first![rf:idle_angry][ib:aggressive]" />
+    <string id="WaUuhxwv" text="Weight penalty reduced by: {a0} %" />
     <string id="wBBidWVw" text="What have we here? You can't enter the town with so many weapons. Hand them over! You can retrieve them when you leave." />
     <string id="WBCt4M0J" text="Increase max granary food storage capacity by 100." />
     <string id="WbHfGCbd" text="you survived a siege." />
@@ -4012,8 +4009,8 @@
     <string id="wbLqHvjE" text="Zerosica" />
     <string id="Wbm4XGB6" text="You have {NUMBER} new troops to upgrade." />
     <string id="WchH8bS2" text="Your family were middle-ranking members of a Battanian clan, who tilled their own land. Your father fought with the kern, the main body of his people's warriors, joining in the screaming charges for which the Battanians were famous." />
-    <string id="WczAmdQL" text="Increase your stagger damage threshold by 50% while mounted." />
-    <string id="wD1k2wuW" text="Reduce accuracy penalty by moving by 30%." />
+    <string id="WczAmdQL" text="Increases your stagger damage threshold by 50% while mounted." />
+    <string id="wD1k2wuW" text="Decreases your bow accuracy loss due to movement by 30%." />
     <string id="wD1YDmmg" text="{PARTY_NAME} has enlisted in {ARMY_NAME}." />
     <string id="WD6soDM1" text="It was a minor skirmish but a clear victory nonetheless. {CHILD.NAME} wasn't just there when the commander came up with the winning strategy but also took part in executing it." />
     <string id="WdIGdHuL" text="Besiege the town." />
@@ -4035,16 +4032,16 @@
     <string id="wgX2nL5Z" text="{SETTLEMENT} is no longer in control of enemy. There is no need to scout that settlement." />
     <string id="wI393cla" text="Preventive Medicine" />
     <string id="WIb9VvEM" text="Collected Troops" />
-    <string id="Wifppt09" text="Increase settlement tariff gain by 5%." />
+    <string id="Wifppt09" text="Increases settlement tariff gain by 5%." />
     <string id="WiJZC36N" text="Ranged troops in your party have 25% chance of having +1 ammunition for throwing weapons." />
     <string id="WJ7SnBgN" text="Effects settlement's garrison." />
     <string id="WJSapWab" text="{?CHILD.GENDER}She{?}He{\?} had a chance to fight in a few minor skirmishes without getting seriously injured." />
     <string id="WKIqnKtu" text="{QUEST_TARGET.LINK} has died and your agreement with {QUEST_GIVER.LINK} has been canceled. Your service is no longer needed to solve the issue." />
     <string id="WL1zcgYx" text="{?CHILD.GENDER}She{?}He{\?} travelled on foot in the company of other pilgrims, often relying on the kindness of strangers for food and shelter." />
-    <string id="wlhJGG0q" text="{PRISONER_LORD.LINK_AND_FACTION} has been freed because of peace declaration." />
+    <string id="wlhJGG0q" text="{PRISONER_LORD.LINK_AND_FACTION} has been freed because of a peace declaration." />
     <string id="wlKtDR2z" text="Thank you, {?PLAYER.GENDER}my lady{?}sir{\?}." />
     <string id="wM77S68a" text="What's there to discuss?" />
-    <string id="Wmq47pvL" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} had to show mercy to the people of {SETTLEMENT} who were originally descendants of {FACTION}. You can hear disgruntled murmuring among the troops, who have been denied their customary right of pillage." />
+    <string id="Wmq47pvL" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} had to show mercy to the people of {SETTLEMENT} who were originally descendants of {FACTION}." />
     <string id="wmZYHGb9" text="I brought {HERD_AMOUNT} head of {HERD_TYPE} as we agreed." />
     <string id="WNKkdpN3" text="{CLAN_NAME} left kingdom {OLD_FACTION_NAME}." />
     <string id="WO3EaqB3" text="How can I help you?" />
@@ -4095,7 +4092,8 @@
     <string id="wxDbPiNH" text="Well, you have the reputation of being able to manage ruffians. Maybe you can take them off my hands, find some other lord who has more need of them and more denars to pay them. I've paid their contract for a few months. I can give you a small reward and if you can find a buyer, you can transfer the rest of the contract to him and pocket the down payment." />
     <string id="WXDcmG0f" text="Increases militia recruitment in governed settlements by 0.5." />
     <string id="WXPGv7Si" text="Your couch lance attacks deal triple damage against shields." />
-    <string id="WYPotR6p" text="Increase morale of range troops in your party at the beginning of battle by 10%." />
+    <string id="wynCFpsT" text="This is a wise decision, my {?PLAYER.GENDER}lady{?}lord{\?}. Thank you." />
+    <string id="WYPotR6p" text="Increases morale of range troops in your party at the beginning of battle by 10%." />
     <string id="WYvnWcXQ" text="Like all village children you helped out in the fields. You also..." />
     <string id="WyXs70nc" text="Increases your damage with two handed weapons by 20% when you have less than half hit points." />
     <string id="WyZ2UtFF" text="Your family had no taste for the authority of the boyars. They made their living deep in the woods, slashing and burning fields which they tended for a year or two before moving on. They hunted and trapped fox, hare, ermine, and other fur-bearing animals." />
@@ -4114,7 +4112,7 @@
     <string id="x3TO0gkN" text="Is there any progress on the task I gave you?" />
     <string id="X4ITSQOl" text="Which of your people can help us?" />
     <string id="x5POJVWw" text="Stop serving {FACTION}" />
-    <string id="x6AYjN9a" text="You take 10% less damage from ranged attacks." />
+    <string id="x6AYjN9a" text="You take 10% less damage from projectiles." />
     <string id="x7k87vj3" text="What can I bring you, {?PLAYER.GENDER}madam{?}sir{\?}? Would you like to taste our local speciality {DRINK} with {FOOD}?" />
     <string id="x9bwAED1" text="I'm looking for someone with a bit more, shall we say, renown..." />
     <string id="xa10anae" text="About the information I'd wanted... Did you get it yet?" />
@@ -4131,7 +4129,7 @@
     <string id="XaZyU3Cn" text="{AGGRESSOR_RULER.NAME} of the {AGGRESSOR_KINGDOM} chose not to go to war with the {KINGDOM} despite the wishes of {?AGGRESSOR_RULER.GENDER}her{?}his{\?} council." />
     <string id="XB1HSxLX" text="For kingdom decisions, Tier 4+ clan choices have double effect\nInfluence cost of the ruler overriding the popular decision outcome is doubled" />
     <string id="xBaL3RM4" text="Well, as you know we're not farmers. Weapons... We need weapons. My men are used to fighting with the {NEEDED_TYPE}, so I need {NEEDED_AMOUNT} of those. Don't worry about the quality. Think you can do that?" />
-    <string id="xbal9bvg" text="Increase your Vigor Attribute by 1." />
+    <string id="xbal9bvg" text="Increases your Vigor Attribute by 1." />
     <string id="XbphYvnU" text="Very well. I believe in doing things according to the old ways. Before our men meet, let's you and I fight in honorable single combat. Draw your sword." />
     <string id="XbQFAKUz" text="{PRISONER_LORD.LINK_AND_FACTION} has died while being held captive by the {CAPTURER_FACTION}." />
     <string id="xbVCRbUu" text="You hunted {CURRENT_COUNT}/{TOTAL_COUNT} gang of brigands." />
@@ -4174,7 +4172,7 @@
     <string id="XixNAaD5" text="Improved Tools" />
     <string id="xJ2uDcob" text="Settlement loyalty is increased by 2 per day\nSettlement production is reduced by 5%" />
     <string id="XjbPBIct" text="Increase troop wounded recovery ratio by 20% while in an army." />
-    <string id="xjtibL4J" text="Foot troops in your formation take 50% decreased charge damage." />
+    <string id="xjtibL4J" text="Foot troops in your formation take 50% less charge damage." />
     <string id="xKVBAL3m" text=" Campaign Issue" />
     <string id="xKXcqRJI" text="you invested some money in land." />
     <string id="XKxeaF0I" text="Dalidos" />
@@ -4185,7 +4183,7 @@
     <string id="xlm8oYhM" text="Your men reported that some of the goods were stolen from the baggage train." />
     <string id="XLswis9W" text="I will lend you one of my best lieutenants and {TROOP_COUNT} of my men. " />
     <string id="xM5aawCj" text="Swift Swing" />
-    <string id="xM97H0oR" text="Vote for declaring war on {KINGDOM_NAME}" />
+    <string id="xM97H0oR" text="Vote for declaring war on the {KINGDOM_NAME}" />
     <string id="XMaeSoRq" text="never let down {?CHILD.GENDER}her{?}his{\?} guard." />
     <string id="XmGjTZz0" text="{?QUEST_GIVER.GENDER}Lady{?}Lord{\?} Needs A Tutor" />
     <string id="xMpCWjg0" text="Shield bashes now deal 50% more damage and stun your enemies for longer." />
@@ -4194,12 +4192,12 @@
     <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} was the father of {PLAYER.LINK}. He was slain when raiders attacked the inn at which his family was staying." />
     <string id="XN7BX0qP" text="Max usable bow difficulty: {a0}" />
     <string id="xnDWqYKW" text="Hunter" />
-    <string id="XNsTQlgr" text="Troops in your formation you gain +20 to their Throwing skills." />
+    <string id="XNsTQlgr" text="Troops in your formation has +20 Throwing skill." />
     <string id="xNyKVMHx" text="{JOIN_SIEGE_TEXT} You decide to..." />
     <string id="XO3SOlZx" text="Simulation advantage: +{a0} %" />
     <string id="xoARIHde" text="In Best Light" />
     <string id="xORjDTal" text="you invested some money in a workshop." />
-    <string id="xORKx4wb" text="Troops in your formation using crossbows ignores 5% of enemies armor." />
+    <string id="xORKx4wb" text="Crossbow equipped troops in your formation ignore 5% of enemy's armor." />
     <string id="xoTWC8Sm" text="Project Bonus" />
     <string id="XOv5B84a" text="Yes, my {?QUEST_GIVER.GENDER}lady{?}lord{\?}. I raided {RAIDED_VILLAGE_COUNT} villages as you commanded." />
     <string id="xpGoduJq" text="Deadly Purpose" />
@@ -4209,7 +4207,7 @@
     <string id="XpREJNHD" text="Fishers" />
     <string id="xpRKA34Q" text="Increases loyalty of settlement by 1 per day." />
     <string id="xpsQyPaV" text="Direction to Bandits" />
-    <string id="xPt71fIC" text="Troops under your command increase their projectile speed increased by 10%." />
+    <string id="xPt71fIC" text="Troops under your command have their projectile speed increased by 10%." />
     <string id="xPuSASof" text="{FACILITATOR.NAME} paid a ransom and freed you from captivity." />
     <string id="xQ0aBavD" text="Back off, stranger, unless you want trouble." />
     <string id="Xqba1Obq" text="Nomads" />
@@ -4224,9 +4222,10 @@
     <string id="XTmpkNNg" text="socializes with other engineers." />
     <string id="XTt6gZ7h" text="Do make haste, if you can. As long as those bandits are up there, no traveller is safe!" />
     <string id="xTtHdTsS" text="Poison {HERO.FIRSTNAME}" />
-    <string id="xTUSAw9v" text="Your attacks with bows ignore 10% of enemies armor." />
+    <string id="xTUSAw9v" text="Your attacks with bows ignore 10% of enemy's armor." />
     <string id="xudfzjgJ" text="Little {HERO.FIRSTNAME}" />
     <string id="XvC1eLR1" text="Or, if you will not be able to acquire the goods yourself, you can perhaps assign one of your trusted companions to the task. Somewhat with a good understanding of trade and a score of troops could do it easily enough. " />
+    <string id="xvCzjcjU" text="You failed to deliver {REQUESTED_ANIMAL_AMOUNT} {?PLURAL}{SELECTED_ANIMAL}{.s}{?}{SELECTED_ANIMAL}{\?} to {QUEST_GIVER.LINK} in time." />
     <string id="xvOUF9Kg" text="Mounted troops in your formation gain +5 armor." />
     <string id="xVSOKf0p" text="Chara" />
     <string id="xvYDbEUa" text="All right. Go on." />
@@ -4244,6 +4243,7 @@
     <string id="XYRZIPD8" text="guiding the caravan." />
     <string id="XzbpZji3" text="Increases your damage with bows by 8%." />
     <string id="XZFQ1Jf6" text="Go to the keep" />
+    <string id="XzFSWBMG" text="Mercenary troops' wage and upgrade cost are decreased by 25%." />
     <string id="xZIBKK0v" text="Ransom your prisoners ({RANSOM_AMOUNT}{GOLD_ICON})" />
     <string id="XzK4niIb" text="I'll find an employer soon." />
     <string id="XZOtTuxA" text="Promises" />
@@ -4252,7 +4252,7 @@
     <string id="XZxIpCQH" text="Phorys" />
     <string id="Y07OcP1T" text="Horse speed: +{a0}" />
     <string id="Y20AQIvo" text="{PRISONER.NAME} has been captured by {CAPTOR_NAME}!" />
-    <string id="Y2a6yycL" text="Decrease your bow accuracy loss due to rotating by 50%." />
+    <string id="Y2a6yycL" text="Decreases your bow accuracy loss due to rotating by 50%." />
     <string id="y2aLOwOs" text="Effects the influence of clan." />
     <string id="y3cP8Etv" text="Quest Canceled: {QUEST_TITLE}" />
     <string id="Y3lGJT8H" text="{PARTY} Won't attack {FACTION} for {DURATION} {?DURATION&gt;1}days{?}day{\?}." />
@@ -4264,6 +4264,7 @@
     <string id="y6j1bJTH" text="You were apprenticed to the local smith. You learned how to heat and forge metal, hammering for hours at a time until your muscles ached." />
     <string id="Y7tozytM" text="Hello, {?PLAYER.GENDER}madam{?}sir{\?}. You have the bearing of a warrior. Do have a minute? We may have interests in common." />
     <string id="Y8jAaICu" text="One day {?PLAYER_CHILD}your{?}the{\?} child asks you which of your skills was most useful to you. You thought for a while, and answered..." />
+    <string id="Y94H6XnK" text="Accept" />
     <string id="Y9LNbRho" text="Thank you. I will put your men to good use." />
     <string id="y9RcWMbQ" text="a local rivalry" />
     <string id="Yac7bSU3" text="Tell me about what you do again." />
@@ -4285,8 +4286,8 @@
     <string id="ybXgaKEv" text="a glass of local wine" />
     <string id="ybzBF59f" text="Break out of {SETTLEMENT}." />
     <string id="YbzHpFiu" text="She expects you to win the tournament." />
-    <string id="YbZYXRqt" text="Asked you to follow a caravan that he sent out as bait to destroy a particularly large and dangerous group of bandits. You ordered {COMPANION.LINK} and {TROOP_COUNT} of your men to follow the caravan from a safe distance and join in the fight once it is attacked. You expect them to return in {RETURN_DAYS} days with the news of success and {REWARD_GOLD}{GOLD_ICON}." />
-    <string id="yC8X2qwQ" text="2.5% Bonus speed when party morale higher than 75" />
+    <string id="YbZYXRqt" text="{QUEST_GIVER.LINK} asked you to follow a caravan that he sent out as bait to destroy a particularly large and dangerous group of bandits. You ordered {COMPANION.LINK} and {TROOP_COUNT} of your men to follow the caravan from a safe distance and join in the fight once it is attacked. You expect them to return in {RETURN_DAYS} days with the news of success and {REWARD_GOLD}{GOLD_ICON}." />
+    <string id="yC8X2qwQ" text="2.5% movement speed bonus when party morale is higher than 75." />
     <string id="yc9rGlzb" text="Ready to deliver {?PLURAL}{SELECTED_ANIMAL}{.s}{?}{SELECTED_ANIMAL}{\?}:" />
     <string id="YCC0hPuC" text="Ah, no. Slavers are rare these days. It used to be that, when the Empire and its neighbors made war upon each other, the defeated were usually taken as slaves. That helped pay for the war, you see! But today, for better or for worse, that is not practical. What with the frontiers broken and raiders crossing this way and that, there are far too many opportunities for captives to escape. But that does not mean that war cannot be profitable! Indeed it still can!" />
     <string id="yccVH4KD" text="Thank you for listening to the voice of reason." />
@@ -4312,7 +4313,7 @@
     <string id="yi07dBks" text="Khuzait Cavalry Bonus" />
     <string id="yINoTyMv" text="Still working on it. Check back in a few days." />
     <string id="yJ0XRD9g" text="Eventually it was time for {?PLAYER_CHILD}your{?}the{\?} child to travel far from home. You sent the young {?CHILD.GENDER}woman{?}man{\?} away..." />
-    <string id="yjAHh66a" text="You managed to return more than half of the troops {QUEST_GIVER} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. {newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for returning my men to me. The losses they suffered are somewhat higher than I thought. I can only hope you did what you could to honor our agreement and try to keep them alive.”" />
+    <string id="yjAHh66a" text="You managed to return more than half of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. {newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for returning my men to me. The losses they suffered are somewhat higher than I thought. I can only hope you did what you could to honor our agreement and try to keep them alive.”" />
     <string id="YJJwR5PB" text="pieces of armour" />
     <string id="YjoXyFDX" text="Owner Culture" />
     <string id="YjsRb88D" text="That's your right, my {?PLAYER.GENDER}lady{?}lord{\?}. But if you can't get the support of the merchants here when you next need it, well, don't say no one said anything." />
@@ -4324,7 +4325,7 @@
     <string id="yKz5e5H4" text="Yes. I have the goods right here. I brought {REQUESTED_AMOUNT} units of {RAW_MATERIALS} as we agreed." />
     <string id="YkZKXsIn" text="Main party wages" />
     <string id="YKzuGc54" text="You were big, and other children looked to have you around in any scrap with children from a neighboring village. You pushed a plough and throw an axe like an adult." />
-    <string id="yL192BsB" text="Shield on back has a 75% chance of stopping ranged damage completely." />
+    <string id="yL192BsB" text="Shield on your back has a 75% chance of blocking projectile damage from behind." />
     <string id="YLjksPbk" text="You're a kind {?PLAYER.GENDER}woman, madam{?}man, sir{\?}. You understand what poor folk like us are up against." />
     <string id="yLuzvTtd" text="You had promised to deliver {MOUNT_COUNT} {MOUNT_NAME}{.s} to {QUEST_GIVER.LINK}. But you've failed to complete this task. {QUEST_GIVER.LINK} was displeased." />
     <string id="ymt7Ol6x" text="{?CHILD.GENDER}She{?}He{\?} seems to have limitless energy, continuing with games long after all the other children have taken a break." />
@@ -4414,7 +4415,7 @@
     <string id="z5cLVzC8" text="It's well known that you and {CURRENT_LIEGE.NAME} loathe each other." />
     <string id="Z5kqbeyu" text="Greetings, once again. Is there anything else?" />
     <string id="z6vJlozm" text="I am sorry. I don't believe you have the means to support a family.)" />
-    <string id="z7b7s4cN" text="10% sight range bonus while in steppes and plains." />
+    <string id="z7b7s4cN" text="10% sight range bonus while on steppes and plains." />
     <string id="z7eyVsPQ" text="Troops in your formation gain 4% damage against bandit troops." />
     <string id="z8LbFyNA" text="Dogface {HERO.FIRSTNAME}" />
     <string id="Z8ntYx0Y" text="Flax Field" />
@@ -4438,12 +4439,11 @@
     <string id="zCQaPTOK" text="Mercenary" />
     <string id="ZDNI6n9s" text="Salvo" />
     <string id="zE3sKAb2" text="{HERO.FIRSTNAME} the Turner" />
-    <string id="zEIe1ROP" text="Slightly increase your persuasion chance." />
+    <string id="zEIe1ROP" text="Slightly increases your persuasion chance." />
     <string id="zeKvSEpN" text="Continue the siege" />
     <string id="zEoHYEUS" text="Wait here for some time" />
     <string id="ZEvChv7b" text="Your captors take you to {TOWN_NAME}. You are thrown into the dungeon there..." />
     <string id="ZFlIT1tH" text="Ganimynos" />
-    <string id="zFpCM7ai" text="You approved the decree permitting artisans to behave like merchants." />
     <string id="zfPQlDbQ" text="What I said about our food..." />
     <string id="ZfRmHMJJ" text="{QUEST_TARGET.LINK} has lost the struggle against {?QUEST_TARGET.GENDER}her{?}his{\?} rivals and decided to left the realm. Your agreement with {QUEST_GIVER.LINK} has been canceled and your service is no longer needed to solve the issue." />
     <string id="ZFtyxzT5" text="Mighty Pull" />
@@ -4454,7 +4454,7 @@
     <string id="zgzDwZKZ" text="Courtship from clan parties" />
     <string id="zh3Wf6bu" text="You are now at war with {QUEST_GIVER.LINK}'s faction. Quest is canceled." />
     <string id="ZhlpuMxb" text="Magistrates" />
-    <string id="ZHPpzEdM" text="Governed settlements bound villages have better chance to produce tier 2 horses." />
+    <string id="ZHPpzEdM" text="Governed settlement's bound villages have better chance to produce Tier 2 horses." />
     <string id="ZhpT2qVh" text="You have just learned that you are with child." />
     <string id="ziA4catk" text="Very good." />
     <string id="zIjg3mad" text="I need someone who has some gold to spend..." />
@@ -4478,7 +4478,7 @@
     <string id="ZMTkq5TG" text="Nobles and other landowners have exclusive rights to hunt in forests." />
     <string id="ZMxAGDKU" text="Cavalry Tactics" />
     <string id="ZmxbIXsp" text="I am sorry you feel that way. We can speak later." />
-    <string id="ZMYTashc" text="Increase the morale of your party at the start of the battle by +5." />
+    <string id="ZMYTashc" text="Increases the morale of your party at the start of the battle by 5." />
     <string id="znaDexg2" text="Construction speed is increased by 10%." />
     <string id="Znft0z5W" text="Trade penalty within villages of your faction is decreased by 10%." />
     <string id="ZNfWXliN" text="I will be honest, my lady. You are but a common adventurer, and by marrying you I give up a chance to forge an alliance with a family of real influence and power." />
@@ -4491,9 +4491,10 @@
     <string id="ZPj0ZAO7" text="Yeah? What do you want with us?" />
     <string id="zpqP5LsC" text="I'll go right away." />
     <string id="ZPv3uCOb" text="{FACTION_LEADER} proposes disavowing the policy of {POLICY_NAME}. You can pick your stance regarding this decision." />
-    <string id="zQ2Ir1yM" text="If you start battle mounted you have +2 ammunition for throwing weapons." />
+    <string id="zQ2Ir1yM" text="When you start a battle mounted, you have +2 ammunition for throwing weapons." />
     <string id="ZQa7tXdK" text="You are somewhat outnumbered. Even if I agree with you, it would be wise of me to wait." />
     <string id="zqapPfSK" text="No.. No." />
+    <string id="ZqJ92UN4" text="A courier with a ransom offer for the freedom of {CAPTIVE_HERO.NAME} has arrived" />
     <string id="ZqRMPC7F" text="20% decrease in sell price penalty for food trade goods." />
     <string id="zR356YDY" text="I have to say, they seem more like bandits than soldiers." />
     <string id="ZR4RJdYS" text="Hmm, that sounds interesting..." />

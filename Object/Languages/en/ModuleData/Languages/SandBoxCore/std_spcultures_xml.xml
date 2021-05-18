@@ -12,6 +12,7 @@
     <string id="0B27RrYJ" text="Battania" />
     <string id="0CQgia2a" text="Culharn" />
     <string id="0DgWpr8b" text="Dengul" />
+    <string id="0dHy2430" text="Echalera" />
     <string id="0MJi7mre" text="Hyscasia" />
     <string id="0OFMT7AO" text="Rothard" />
     <string id="0VZ5sROI" text="Okhon" />
@@ -40,8 +41,10 @@
     <string id="2s7Tb4NC" text="Fionara" />
     <string id="2Sn4uK35" text="Orgunda" />
     <string id="2uKoNaSG" text="Denos" />
+    <string id="2YbgWjTK" text="Emyna" />
     <string id="38o99yqa" text="Borcha" />
     <string id="3apHdqU7" text="Ingchit" />
+    <string id="3bIc2X2l" text="Vaminesa" />
     <string id="3ipKaDWU" text="Natti" />
     <string id="3LHG5Efi" text="Ayasa" />
     <string id="3LMFx9dL" text="Friduna" />
@@ -75,6 +78,7 @@
     <string id="5QHosdnk" text="Sudais" />
     <string id="5QLjWfGN" text="Sicard" />
     <string id="5vo7WX5W" text="Amul" />
+    <string id="5VZ0GF6Y" text="Zalisa" />
     <string id="5VzWRMTn" text="Artimendros" />
     <string id="5yFy4U4i" text="Morynon" />
     <string id="5YsDdW9s" text="Sorgard" />
@@ -118,6 +122,7 @@
     <string id="8UGqSVH5" text="Nathun" />
     <string id="8YhNZHtC" text="Fenton" />
     <string id="915frsPd" text="Corena" />
+    <string id="93hivVp6" text="Donysa" />
     <string id="9AOFkQBo" text="Elta" />
     <string id="9aPxu1EB" text="Tinab" />
     <string id="9cDw6vPF" text="Cadomenos" />
@@ -153,6 +158,7 @@
     <string id="agn93v7y" text="Yorig" />
     <string id="aH2ncPbK" text="Zalasos" />
     <string id="am2UnbAK" text="Menor" />
+    <string id="amlzciqP" text="Ucasios" />
     <string id="AMmJVlrt" text="Kyraslava" />
     <string id="Ao69q2aY" text="Pera" />
     <string id="aqd6QHES" text="Janab" />
@@ -220,6 +226,7 @@
     <string id="cL1lO5iP" text="Ergeon" />
     <string id="CoYOwpLP" text="Davan" />
     <string id="cpkNaEmz" text="Vaton" />
+    <string id="cqSaKXzl" text="Matha" />
     <string id="CSizDomP" text="Ospak" />
     <string id="CuocGtTq" text="Lestharos" />
     <string id="cv1QgU1H" text="Pazhel" />
@@ -240,6 +247,7 @@
     <string id="DiB4ukeK" text="Elysos" />
     <string id="DiGVNCZ1" text="Thorgud" />
     <string id="DkXPe3A3" text="Nevig" />
+    <string id="dLOlnl8m" text="Palysira" />
     <string id="DO1lhJIo" text="Tala" />
     <string id="dP5A3wwT" text="Boscoric" />
     <string id="Du2Xg6rp" text="Gertlind" />
@@ -248,12 +256,14 @@
     <string id="DYdI0faN" text="Stracanasthes" />
     <string id="DygS1Bef" text="Bani Mushala" />
     <string id="E1NWbOR8" text="Buchul" />
+    <string id="e4jAHUX0" text="Tymata" />
     <string id="E4WhEvu7" text="Sotherys" />
     <string id="e52LPp57" text="Udris" />
     <string id="e6csp4ha" text="Steppe Bandits" />
     <string id="e6goEM5b" text="Valdym" />
     <string id="eAro6IVf" text="Shalar" />
     <string id="eCCuztOS" text="Moera" />
+    <string id="ecJRFHyY" text="Gisetha" />
     <string id="ed3sErKY" text="Ilgai" />
     <string id="EGatdCLg" text="Alena" />
     <string id="egCbjHDT" text="Semnon" />
@@ -309,6 +319,7 @@
     <string id="GeJobcre" text="Sinor" />
     <string id="gG1O5V1n" text="Olianar" />
     <string id="GK18UxoX" text="Hur" />
+    <string id="gmD9mgR1" text="Synira" />
     <string id="GqEEIYay" text="Tilzad" />
     <string id="gqJUdECJ" text="Daellian" />
     <string id="gSHrv734" text="Sorgar" />
@@ -322,6 +333,7 @@
     <string id="GZXVCS5B" text="Melind" />
     <string id="H1OFdfEe" text="Isna" />
     <string id="h6dabKXz" text="Reissen" />
+    <string id="h8DsXm7X" text="Achena" />
     <string id="hBuBpxjb" text="Kaidi" />
     <string id="HcmkBkYp" text="Vigother" />
     <string id="HCXHcBzT" text="Mattis" />
@@ -332,6 +344,7 @@
     <string id="HMCZ2w9t" text="Anaheid" />
     <string id="Ho6zsGTI" text="Sachanion" />
     <string id="HPrHkie6" text="Phenigos" />
+    <string id="hreO0wwb" text="Nerhea" />
     <string id="HSlPLC4m" text="Ira" />
     <string id="htJuLron" text="Varag" />
     <string id="hTw3MjbR" text="Ecard" />
@@ -383,6 +396,7 @@
     <string id="jKviMpbP" text="Calradian" />
     <string id="jMPWSzAi" text="Loen" />
     <string id="jqaPJbpP" text="Urgil" />
+    <string id="JQdqGaaB" text="Isibala" />
     <string id="JR1LKjIc" text="Khalisa" />
     <string id="Jr84qoAW" text="Ethenbold" />
     <string id="jVPr0ZzB" text="Achyr" />
@@ -402,6 +416,7 @@
     <string id="kkUQObZn" text="Desert Bandits" />
     <string id="kL0ldFLG" text="Pekko" />
     <string id="KmzQabkH" text="Hivan" />
+    <string id="KPQqENbd" text="Carinila" />
     <string id="krMVSoId" text="Bawthan" />
     <string id="KsBoNHW5" text="Calatild" />
     <string id="KSsRA8xm" text="Munim" />
@@ -431,6 +446,7 @@
     <string id="LP7yYoGQ" text="Caribos" />
     <string id="lpbIXNdK" text="Suratoving" />
     <string id="LpLL0m3O" text="Arlech" />
+    <string id="LX1YS9DW" text="Lasilea" />
     <string id="LZ2nBcdv" text="Lis" />
     <string id="M1ORaYny" text="Pol" />
     <string id="M9CWBbMe" text="Rhanos" />
@@ -544,6 +560,7 @@
     <string id="QjJAbaoT" text="Apys" />
     <string id="qJprzW1N" text="Airit" />
     <string id="QJq4VAU7" text="Mesui" />
+    <string id="qMJ7UZvk" text="Surena" />
     <string id="QNtdUfis" text="Vemioros" />
     <string id="qqW5n5Ox" text="Milos" />
     <string id="QR3aNalC" text="Imirza" />
@@ -667,6 +684,7 @@
     <string id="UtfVuNN0" text="Vivein" />
     <string id="uW38UtSH" text="Eupitor" />
     <string id="uwalgjVy" text="Bani Dhamin" />
+    <string id="uYbmhjI6" text="Rhamira" />
     <string id="UYqwbjTP" text="Iskanoving" />
     <string id="V1QLbhRl" text="Sora" />
     <string id="V3QHxJb1" text="Polmarc" />
@@ -695,7 +713,6 @@
     <string id="VYWtQe8r" text="Varmond" />
     <string id="vz038vX7" text="Achita" />
     <string id="VzhbUL60" text="Vendelia" />
-    <string id="w*" text="Ucasios" />
     <string id="w1a9E7a9" text="Fiasyn" />
     <string id="W1uwgvAQ" text="Arion" />
     <string id="W1yur1cf" text="Khachin" />
@@ -774,10 +791,12 @@
     <string id="yToKqfa3" text="Shumsan" />
     <string id="YUoydtNS" text="Yana" />
     <string id="yUuM8a0j" text="Boranoving" />
+    <string id="YVVCaQE5" text="Thera" />
     <string id="ywlfoIUX" text="Merteon" />
     <string id="YwQbvO9O" text="Lulya" />
     <string id="YwwaCRSr" text="Barisha" />
     <string id="Z261F0mj" text="Hamezan" />
+    <string id="z2KE7glc" text="Thylea" />
     <string id="z2Oqk8aq" text="Maregoving" />
     <string id="z3rmbOSO" text="Gavyn" />
     <string id="z5llJ2C0" text="Norogur" />

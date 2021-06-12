@@ -118,7 +118,7 @@
     <string id="UKTXefOD" text="I heard that you have pledged allegiance to {?GENDER}the lady{?}lord{\?} {FIRST_NAME}. Fight hard against our foes, respect your betters, and don't cross me, and we'll get along fine." />
     <string id="VcXpFIrT" text="Remember how we whipped {DEFEATED_PARTY_LEADER}, and made of his men a feast for the crows? That's a sweet memory." />
     <string id="VSyOVMge" text="Rather than brand you a traitor, I will assume that you were too base and foolish to recognize that it was MY caravan you were attacking and not an enemies." />
-    <string id="vxkoCCuc" text="I hear you'll be joining us in the service of {FIRST_NAME}" />
+    <string id="vxkoCCuc" text="I hear you'll be joining us in the service of {FIRST_NAME}." />
     <string id="W3F2HgTN" text="I hear you took the fortress of {SETTLEMENT_NAME}. A blow well struck!" />
     <string id="WobMdST8" text="I remember when we last met. Your side put up a good fight." />
     <string id="WROObSl4" text="{SIDE1TROOP} insulted {SIDE2TROOP}." />

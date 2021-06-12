@@ -4,6 +4,8 @@
     <tag language="English" />
   </tags>
   <strings>
-    <string id="rightstickabbreviated" text="RS" />
+    <string id="ph6rtI5J" text="Xbox platform initialization failed: {FAILREASON}" />
+    <string id="Qb30URMY" text="User login failed: {FAILREASON}" />
+    <string id="yWJcwCHf" text="Could not retrieve Xbox Title Id" />
   </strings>
 </base>

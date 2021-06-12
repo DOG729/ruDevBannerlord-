@@ -4,6 +4,7 @@
     <tag language="English" />
   </tags>
   <strings>
-    <string id="rightstickabbreviated" text="RS" />
+    <string id="uunRVBPN" text="Steam is not running." />
+    <string id="XSU8Bbbb" text="Invalid Steam session." />
   </strings>
 </base>

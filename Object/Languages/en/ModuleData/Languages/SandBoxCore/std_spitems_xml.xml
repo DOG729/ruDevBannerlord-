@@ -78,6 +78,7 @@
     <string id="4HcrY0S2" text="Fur Rimmed Leather Gloves" />
     <string id="4jmcs2Xm" text="Tournament Bolts" />
     <string id="4KYF5iCd" text="Layered Leather Tunic" />
+    <string id="4KZekKff" text="Tied Boots" />
     <string id="4n6n3KL7" text="Desert Headdress" />
     <string id="4OaVIYuD" text="Spatha With Narrow Fuller" />
     <string id="4pqIsPhp" text="Padded Short Coat" />
@@ -173,6 +174,7 @@
     <string id="Ai7qIb9I" text="Small Heater Shield" />
     <string id="AIu3kKvz" text="Saddle Horse" />
     <string id="aJLikenm" text="Infantryman Gambeson" />
+    <string id="AK0lNDmN" text="Jeweled Plumed Battle Crown" />
     <string id="ALbtxxyC" text="Cavalry Lamellar Armor" />
     <string id="aM2EPdXj" text="Red Tabard over Mail Hauberk" />
     <string id="AMIdBVZb" text="Fine Steel Spatha" />
@@ -319,7 +321,7 @@
     <string id="dVekhkIU" text="Fur Coat over Tunic" />
     <string id="DvGueBrU" text="Linen{@Plural}rolls of linen{\@}" />
     <string id="dWr3nuBq" text="Reinforced Ironrimmed Kite Shield" />
-    <string id="E3XTFDXt" text="Googled Helmet over Leather" />
+    <string id="E3XTFDXt" text="Goggled Helmet over Leather" />
     <string id="E47Zj3Og" text="Warlord Helmet with Feather" />
     <string id="e4lKZhgv" text="Roughtied Leather Bracers" />
     <string id="E7miRMw1" text="Heavy Recurve Bow" />
@@ -336,11 +338,13 @@
     <string id="efW2XbK8" text="Emir Helmet" />
     <string id="EgrNdBct" text="Jagged Throwing Spear" />
     <string id="EjoS05rb" text="Woodland Fur Cape" />
+    <string id="Ejx5lXjk" text="Sturgian Chaser" />
     <string id="ekUvh8Em" text="Tapered Two-Hander" />
     <string id="ELsDFwAD" text="Wine{@Plural}amphorae of wine{\@}" />
     <string id="elTXYb9f" text="Falx Knife" />
     <string id="eND6ECxg" text="Cataphract Lance" />
     <string id="EO7pCu1b" text="Noble Bow" />
+    <string id="EOplBvKz" text="Imperial Plumed Helmet" />
     <string id="EPaqJLSg" text="Crowned Helmet" />
     <string id="ErIW1dWA" text="Decorated Steel Cap" />
     <string id="ErOLa263" text="Torch" />
@@ -373,6 +377,7 @@
     <string id="FoiXMKbX" text="Brass Lamellar Shoulder Pieces" />
     <string id="FOJHPU5N" text="Half Apron" />
     <string id="FOx5vZSJ" text="Armored Bearskin" />
+    <string id="FptcHNb9" text="Wrapped Boots" />
     <string id="fptsl0Qn" text="Kilt over Plated Leather" />
     <string id="FQdTo5ay" text="Scale Shoulder Guards" />
     <string id="FQHaFsyQ" text="Backsword" />
@@ -538,6 +543,7 @@
     <string id="k9bmPuTB" text="Heavy Cavalry Lance" />
     <string id="KanKBHcS" text="Infantry Axe" />
     <string id="Kba6rxWK" text="Sparring Scimitar" />
+    <string id="KbW3IFOd" text="Two Pronged Brass Crown" />
     <string id="KdbHrcQx" text="Short Tunic" />
     <string id="KFGfTXqE" text="Sumpter Horse" />
     <string id="Kgnm0FkE" text="Leather Shoes" />
@@ -597,6 +603,7 @@
     <string id="M0n609ut" text="Mail Shoulder Pieces" />
     <string id="M2wvaObX" text="Spatha" />
     <string id="m3Nv9rt2" text="Plumed Nomad Helmet" />
+    <string id="M75Ybg6r" text="Sparring Throwing Axe" />
     <string id="MamotK0a" text="Padded Vambraces" />
     <string id="Mb0CuONB" text="Bearded Axe" />
     <string id="Mb1hQRyT" text="Desert Oval Shield" />
@@ -640,7 +647,7 @@
     <string id="ndfDy5B8" text="Tied Head Wrapping" />
     <string id="NEupkuqV" text="Desert Headscarf" />
     <string id="NFvuDpwG" text="Fortified Kite Shield" />
-    <string id="NhDpFjF0" text="Reinforced Closed Googled Helmet" />
+    <string id="NhDpFjF0" text="Reinforced Closed Goggled Helmet" />
     <string id="nk87G8z9" text="Bronze Roundkettle over Mail" />
     <string id="NkV2c6YX" text="Stacked Steppe Arrows" />
     <string id="NMSEAA4A" text="Dress with Fur" />
@@ -676,7 +683,7 @@
     <string id="OJIRIm4j" text="Simple Cloth Tunic" />
     <string id="oJKXjRJ3" text="Highland Scale Armor over Cloth" />
     <string id="olamAwhb" text="Nasal Helmet over Cloth Headwrap" />
-    <string id="OLkncAaD" text="Closed Mail Googled Helmet" />
+    <string id="OLkncAaD" text="Closed Mail Goggled Helmet" />
     <string id="OLTUHPaD" text="Fine Steel Paramerion" />
     <string id="OM9achAa" text="Reinforced Oaken Kite Shield" />
     <string id="omLMiX89" text="Stitched Leather over Mail" />
@@ -819,7 +826,6 @@
     <string id="smKogclC" text="Sackcloth Tunic" />
     <string id="SsCM14Xu" text="Sleeved Heavy Tunic" />
     <string id="steppebowitem" text="Steppe Bow" />
-    <string id="sturgianhunterhorse" text="Sturgian Hunter" />
     <string id="SugbcP3D" text="Female Rural Head Wrap" />
     <string id="SUSbUAEl" text="Practice Bow" />
     <string id="SV1pTR2P" text="Padded Coif" />
@@ -872,6 +878,7 @@
     <string id="U0bVXSVs" text="Wrapped Cap" />
     <string id="U0zBG3F9" text="Scale Pauldrons" />
     <string id="U4n0uSlg" text="Tight Head Scarf" />
+    <string id="u5eafobF" text="Imperial Jeweled Band" />
     <string id="U8QfF3Gw" text="Long Woolen Tunic" />
     <string id="UC2XfY7V" text="Cloth Hood" />
     <string id="udQSdRXR" text="Jeweled Crown" />
@@ -923,6 +930,7 @@
     <string id="Vj4ZBxm5" text="Reinforced Plate Barding" />
     <string id="VkRIefyW" text="Luxury Scale Armor" />
     <string id="vmz4vfu5" text="Hooked Javelin" />
+    <string id="Vnhtxx41" text="Imperial Crown" />
     <string id="vo9kYKNQ" text="Lamellar Shoulder Pieces" />
     <string id="VP74qdJ3" text="Courser Lance" />
     <string id="vPAHwC3X" text="Stolen Goods" />
@@ -1045,6 +1053,7 @@
     <string id="yMi4ijgI" text="Nomad Padded Hood" />
     <string id="YmoddWwb" text="Sparring Seax" />
     <string id="YPUDAJDH" text="Harpoon" />
+    <string id="YQ9ybgmj" text="Sparring Glaive" />
     <string id="YqhOxb1Z" text="Plumed Lamellar Helmet" />
     <string id="yQTBY9ie" text="Jewelry{@Plural}items of jewelry{\@}" />
     <string id="YrAVxmFn" text="Highland Broadsword" />
@@ -1060,7 +1069,7 @@
     <string id="z8d2uyY1" text="Segmented Cevelliere over Laced Coif" />
     <string id="Z9RlnXrD" text="Fur Skirt" />
     <string id="zAvb7WKe" text="Segmented Skullcap over Padded Coif" />
-    <string id="zBRB0P5M" text="Closed Decorated Googled Helmet" />
+    <string id="zBRB0P5M" text="Closed Decorated Goggled Helmet" />
     <string id="zbsajPMp" text="Voulge" />
     <string id="ZbsGBv10" text="Hog" />
     <string id="zBUT90xQ" text="Thamaskene Steel Kaskara" />

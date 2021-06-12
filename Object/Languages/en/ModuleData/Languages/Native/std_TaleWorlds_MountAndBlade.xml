@@ -7,6 +7,7 @@
     <string id="0B27RrYJ" text="Battania" />
     <string id="1cnJtNTt" text="({KEY}) Pull" />
     <string id="1CPdu9K0" text="Stone" />
+    <string id="1nKa4pQX" text="Rest of the game content has been downloaded." />
     <string id="3PP01vFv" text="Keep away from that weapon." />
     <string id="4FVIuqsl" text="{ALIVE}/{TOTAL}" />
     <string id="4Skg9QhO" text="Trebuchet" />
@@ -14,11 +15,15 @@
     <string id="5wx4BF5h" text="({KEY}) Rotate" />
     <string id="5zGsfiMM" text="{TRAINING_TYPE}" />
     <string id="6wZUG0ev" text="Gate" />
+    <string id="8OkPHu4f" text="No" />
     <string id="abbALYlp" text="Ballista" />
+    <string id="aeouhelq" text="Yes" />
     <string id="aseraifaction" text="Aserai" />
     <string id="aXjlMBiE" text="Siege Tower" />
+    <string id="BFhMw4bl" text="Rest of the game content has been downloaded. Do you want to return to the main menu?" />
     <string id="bNYm3K6b" text="({KEY}) Pick Up" />
     <string id="bWi4aMO9" text="Arrow Barrel" />
+    <string id="CaSafuAH" text="Content Download Complete" />
     <string id="EgTUzWUz" text="Name Can't Be Empty!" />
     <string id="empirefaction" text="Empire" />
     <string id="F9AQxCax" text="Fork" />
@@ -48,5 +53,6 @@
     <string id="TJj71hPO" text="({KEY}) Close" />
     <string id="wY1qP2qj" text="({KEY}) Select" />
     <string id="XvSRoOzM" text="Recently Played Players" />
+    <string id="yS7PvrTD" text="OK" />
   </strings>
 </base>

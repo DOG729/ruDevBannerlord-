@@ -58,7 +58,6 @@
     <string id="BgqZWbga" text="Знати не понравится ваше решение отречься от своей клятвы. Вы уверены, что хотите покинуть Королевство?"/>
     <string id="BifGz0h4" text="Патрулирует"/>
     <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}"/>
-    <string id="BrY8itaf" text="Отправленные на выполнение поручений члены отряда будут отображаться здесь. Они не занимают место в вашем собственном отряде."/>
     <string id="C2qpwFq5" text="Владелец земель {SETTLEMENTS}"/>
     <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Дней{?}День{\?} (%{PERCENTAGE})"/>
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Длина: "/>
@@ -79,7 +78,6 @@
     <string id="EQHq3bHM" text="Направляется в {TARGET_PARTY}"/>
     <string id="ErnykQEH" text="Выходы"/>
     <string id="eTw2aNV5" text="+"/>
-    <string id="EuGCNdHG" text="Покинуть"/>
     <string id="exnL6SS7" text="Нападает на {TARGET_SETTLEMENT}"/>
     <string id="EZxQHBF4" text="Вы можете изменить тип продукции в этой мастерской за {AMOUNT} динаров."/>
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Цены в других городах"/>
@@ -145,7 +143,6 @@
     <string id="McJjNM50" text="Стоимость: {UPGRADE_COST}"/>
     <string id="mDFhzEMC" text="Максимальное здоровье"/>
     <string id="mg7id9om" text="Количество расходных материалов"/>
-    <string id="mGUSMpTX" text="Склад"/>
     <string id="mp68RYnD" text="Ограничение На Размер Отряда"/>
     <string id="MqCH7R4A" text="Безопасность"/>
     <string id="N63XYX2r" text="Поддержка"/>
@@ -241,7 +238,6 @@
     <string id="WiNRdfsm" text="Выполнить"/>
     <string id="Wir2xZIg" text="Вы не умеете ковать некоторые из выбранных элементов."/>
     <string id="WN7cYIXM" text="Вы должны быть частью королевства"/>
-    <string id="WttsvMTW" text="Восстание в {SETTLEMENT}"/>
     <string id="XAL3t1bs" text="Направляется к точке"/>
     <string id="XCz81XYm" text="Входы"/>
     <string id="XIioBPi0" text="Никаких изменений"/>
@@ -284,18 +280,14 @@
     <string id="hn9TPqhK" text="Ранг оружия"/>
     <string id="kftE5nvv" text="Защита лошади"/>
     <string id="kx7q8ybD" text="Защита рук"/>
-    <string id="lGWb26Lj" text="Этот герой занят заданием."/>
     <string id="Mfbc4rQR" text="Урон от натиска"/>
     <string id="myMbtwXi" text="Бонус к морали"/>
     <string id="O3dhjtOS" text="Шлем"/>
     <string id="rg7OuWS2" text="Маневрировать"/>
     <string id="s31DnnAf" text="Урон"/>
-    <string id="S9tmCkHz" text="Этот герой очищает зону"/>
-    <string id="sa2TQu1G" text="Этот герой занят проблемой"/>
     <string id="sqdzHOPe" text="Класс"/>
     <string id="twtbH1zv" text="Количество в стопке"/>
     <string id="US7UmBbt" text="Ранг брони"/>
-    <string id="XzggyCPW" text="Этот герой занят"/>
     <string id="ZcybPatO" text="Длина"/>
     <string id="ZUgoQ1Ws" text="Тип"/>
     <string id="QSPrSsHv" text="Нет сбруи!"/>
@@ -305,9 +297,7 @@
     <string id="9huJZblF" text="Простой начался"/>
     <string id="9i0wnjJK" text="L-II : {BONUS}"/>
     <string id="c6BtCIrX" text="{DAYS} дней назад"/>
-    <string id="cJmI2poS" text="Информация"/>
     <string id="DXczLzml" text="Состояние"/>
-    <string id="F6GhrriD" text="Создать Королевство"/>
     <string id="g4XqKGUr" text="В отряде уже есть участник с этой ролью."/>
     <string id="IbqRyrKo" text="Это определит начальную активную политику Королевства. Выберите максимум 4 политики."/>
     <string id="mHXujEVw" text="Выберите активную политику вашего королевства"/>
@@ -344,36 +334,111 @@
     <string id="rwKBR4NE" text="Среднее количество дней до того, как закончится еда"/>
     <string id="Y7qbwrWE" text="Навыки {HERO_NAME}"/>
     <string id="zrhr4rDA" text="Вы уверены, что хотите распустить эту армию? Это приведет к ухудшению отношений."/>
-    <string id="1JlzQIXE" text="Disabled"/>
     <string id="1UbocG5B" text="Откажитесь от своих прав и обязанностей в этой вотчине, вернув ее королевству."/>
     <string id="eIGFuGOx" text="Give Settlement"/>
     <string id="G2h0V10w" text="Подарите это поселение клану в своем королевстве."/>
-    <string id="rkubGa4K" text="Are you sure want to give this settlement back to your kingdom?"/>
-    <string id="rOKAvjtT" text="Gift Settlement"/>
-    <string id="sffGeQ1g" text="Gift"/>
-    <string id="U3ksQXD3" text="Give Away"/>
-    <string id="68IlDbA2" text="You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop."/>
-    <string id="Bcs9s2tC" text="Right Click to Remove"/>
-    <string id="Ck9HT8fQ" text="Summary"/>
-    <string id="F0a7hyp0" text="Risk of rebellion"/>
-    <string id="flxDkoMh" text="Stage Complete"/>
-    <string id="hOVPiG3z" text="Recently rebelled"/>
-    <string id="m1Yynagz" text="Page {NUMBER}"/>
-    <string id="NxEy5Nbt" text="High risk of rebellion"/>
-    <string id="Rvr1bcu8" text="Next"/>
-    <string id="WXAaWZVf" text="Previous"/>
-    <string id="0TauthlH" text="Never (%{PERCENTAGE})"/>
-    <string id="8eYtra7T" text="Determine the game difficulty"/>
-    <string id="fz2kQjFS" text="Choose your character's culture:"/>
-    <string id="GwA9oUBC" text="Your skill focus determines the rate your skill increases with practice"/>
-    <string id="K6GYskvJ" text="Culture:"/>
-    <string id="lkJfq1ap" text="Owned settlements remain under your control but nobles will dislike this dishonorable act and the kingdom will declare war on you."/>
-    <string id="MaHMOzL2" text="Character Culture"/>
-    <string id="mHVmrwRQ" text="Enter your name"/>
-    <string id="PUjDWe5j" text="Culture"/>
-    <string id="raD9MK3O" text="Difficulty"/>
-    <string id="txjiykNa" text="Review"/>
-    <string id="wMiLUTNY" text="Are you sure you want to smelt this weapon? It is locked in the inventory."/>
-    <string id="ZjaSde0X" text="Owned settlements are returned to the kingdom. This will avert a war and nobles will dislike you less for abandoning your fealty."/>
+    <string id="rkubGa4K" text="Вы уверены, что хотите вернуть это поселение вашей фракции?"/>
+    <string id="rOKAvjtT" text="Подарить феод"/>
+    <string id="sffGeQ1g" text="Подарить"/>
+    <string id="U3ksQXD3" text="Отдать"/>
+    <string id="68IlDbA2" text="Вам нужен перк {PERK_NAME}, чтобы повышать бандитские войска до регулярных."/>
+    <string id="Bcs9s2tC" text="Правый клик для удаления"/>
+    <string id="Ck9HT8fQ" text="Результат обучения"/>
+    <string id="F0a7hyp0" text="Риск восстания"/>
+    <string id="flxDkoMh" text="Этап завершён"/>
+    <string id="hOVPiG3z" text="Недавно восстал"/>
+    <string id="m1Yynagz" text="Страница {NUMBER}"/>
+    <string id="NxEy5Nbt" text="Высокий риск восстания"/>
+    <string id="Rvr1bcu8" text="Следующий"/>
+    <string id="WXAaWZVf" text="Предыдущий"/>
+    <string id="0TauthlH" text="Никогда (%{PERCENTAGE})"/>
+    <string id="8eYtra7T" text="Определите сложность игры"/>
+    <string id="fz2kQjFS" text="В Кальрадии много культур, но какой же культуры будете вы? Может..."/>
+    <string id="GwA9oUBC" text="Сосредоточенность на ваших навыках определяет скорость повышения ваших навыков с практикой"/>
+    <string id="K6GYskvJ" text="Культура:"/>
+    <string id="lkJfq1ap" text="Ваши поселения остаются под вашим контролем, но знатным не понравится этот позорный поступок, и фракция объявит вам войну."/>
+    <string id="MaHMOzL2" text="Культура персонажа"/>
+    <string id="mHVmrwRQ" text="Введите ваше имя"/>
+    <string id="PUjDWe5j" text="Культура"/>
+    <string id="raD9MK3O" text="Сложность"/>
+    <string id="txjiykNa" text="Рассмотрение"/>
+    <string id="wMiLUTNY" text="Вы уверены, что хотите переплавить это оружие? Оно заблокировано."/>
+    <string id="ZjaSde0X" text="Ваши поселения будут переданы фракции. Это предотвратит войну, и знатные будут меньше недолюбливать вас за отказ от верности."/>
+    <string id="1qm74K2t" text="Успешные грабежи фракции {FACTION}"/>
+    <string id="4NaOKslb" text="-"/>
+    <string id="4vZLpzPi" text="+1 Известности / День"/>
+    <string id="5tbWdY1j" text="Аватар"/>
+    <string id="6bx9IhpD" text="Повышения"/>
+    <string id="8BJDQe6o" text="Захваченные пленные фракцией {FACTION}"/>
+    <string id="a8NoW1Q2" text="Вы уверены, что хотите отменить изменения?"/>
+    <string id="b8CqpGHx" text="Набор пленных"/>
+    <string id="bC2jevlu" text="Клиент недоволен."/>
+    <string id="BlidMNGT" text="Отношения"/>
+    <string id="btoiLePb" text="{HERO} ({PLACE})"/>
+    <string id="cc1d7mkq" text="Ранг"/>
+    <string id="cedvCZ73" text="Нет города, принадлежащего фракции {FACTION}"/>
+    <string id="CGVK6l8I" text="Преимущества чемпиона"/>
+    <string id="CK68QXen" text="Нет пленных, захваченных фракцией {FACTION}"/>
+    <string id="CTtjSwRb" text="Полдень"/>
+    <string id="dB6cFDmz" text="/"/>
+    <string id="DMxJJWxt" text="Нанять"/>
+    <string id="dOa7frHR" text="Показывать только открытые части"/>
+    <string id="dVqowrRz" text=" - {STAT} {REQUIREMENT}"/>
+    <string id="eTxcYvRr" text="Замки, завоёванные фракцией {FACTION}"/>
+    <string id="fAxjyMt5" text="Ночь"/>
+    <string id="FWHvvZFq" text="«Это именно то, что мне было нужно. Вот ваши деньги, вы их заработали.»"/>
+    <string id="Gd6zuUwh" text="Свободное создание"/>
+    <string id="gENb9SSW" text="Вечер"/>
+    <string id="GP3jpU0X" text="Влияние периодически конвертируется в золото для кланов наёмников"/>
+    <string id="gTbE6t9I" text="Следующие требования не выполняются:"/>
+    <string id="guxNZZWh" text="возможных"/>
+    <string id="huqEEfGD" text="Нет успешных грабежей для фракции {FACTION}"/>
+    <string id="IgoxNz2H" text="Повышение войск"/>
+    <string id="iTau5cxh" text="Среднее"/>
+    <string id="J2gvnexb" text="После полудня"/>
+    <string id="J5u0uOKc" text="Бежит от преследования. Отряд который преследует: {TARGET_PARTY}"/>
+    <string id="jaaQijQs" text="Возраст"/>
+    <string id="lC5xsoSh" text="Неограниченное"/>
+    <string id="MkVTRqAw" text="Заказы ({ORDER_COUNT})"/>
+    <string id="mSPyh91Q" text="Города, завоёванные фракцией {FACTION}"/>
+    <string id="MT4b8H9h" text="Неизвестно"/>
+    <string id="MT5A04X8" text=" - Тип урона от замаха не совпадает. Должно быть: {TYPE}"/>
+    <string id="nKQmaSDO" text="Нет замка, завоёванного фракцией {FACTION}"/>
+    <string id="Nn49hU2W" text="Клиент удовлетворён."/>
+    <string id="NRpbagbZ" text="Бежит к {TARGET_PARTY}"/>
+    <string id="NZynd8vT" text="«Это оружие ничего не стоит. Я не дам вам ни монеты!»"/>
+    <string id="o79dIa3L" text="Города принадлежащие фракции {FACTION}"/>
+    <string id="ODEnkg0o" text="Сила клана"/>
+    <string id="OGbskMfz" text="Открытых частей:"/>
+    <string id="oJmRg2ms" text="Очень богато"/>
+    <string id="oM2Ta1di" text="Нажмите «{CONSOLE_KEY_NAME}» для сброса камеры"/>
+    <string id="opU0Nr2G" text="Прогресс для разблокировки новой части"/>
+    <string id="opVqBNLh" text="Эффект"/>
+    <string id="pnFgwLYG" text="Текущее жалование"/>
+    <string id="Q0j1umAt" text="Требование: {REQUIREMENT_NAME}"/>
+    <string id="Q1KwpZYu" text="Использование оружия не соответствует требованиям"/>
+    <string id="qdoJOH0j" text="Жалование отряда"/>
+    <string id="raCa7QXj" text="«Это даже лучше, чем то, что мне было нужно. Вот ваши деньги, и я добавляю немного за ваши усилия.»"/>
+    <string id="sFiU3Ss2" text="Нажмите, чтобы сбросить камеру"/>
+    <string id="SixPXaNh" text="Очень плохо"/>
+    <string id="SK8G9QpE" text="Стоимость"/>
+    <string id="sWWxrafa" text="Лимит жалования"/>
+    <string id="Syha8biz" text="Заказ не может быть выполнен"/>
+    <string id="tTLvo8sM" text="Ранг клана"/>
+    <string id="Tx9Mynbt" text=" - Тип колющего урона не соответствует. Должно быть: {TYPE}"/>
+    <string id="UbRqC0Yz" text="Богато"/>
+    <string id="udPWHmOm" text="Сложность:"/>
+    <string id="UY79LYHf" text="Бедно"/>
+    <string id="vIPrZCZ1" text="Вы можете отказаться от лидерства с экрана фракции."/>
+    <string id="w0slxNAl" text="Если предел ниже, чем текущее жалование, то отряд не будет набирать войска, пока жалование не будет снижено до предела. Если лимит превышает текущее жалование, то отряд продолжит набор."/>
+    <string id="wU76OPxM" text="«Это хуже, чем то, что мне нужно. Я снижаю цену на {AMOUNT} золотых.»"/>
+    <string id="WySAapWO" text="Неограниченно"/>
+    <string id="wZGj3qO1" text="Выберите, что будет создано"/>
+    <string id="X3gcUz7C" text="Утро"/>
+    <string id="z3Xg0IaG" text="Замки принадлежащие фракции {FACTION}"/>
+    <string id="Zemk86FK" text="Нет города, завоёванного фракцией {FACTION}"/>
+    <string id="zFDoDbNj" text="Количество"/>
+    <string id="ZIn8W5ZG" text="Стоимость"/>
+    <string id="ZZmlYrgL" text="Нет замка, принадлежащего фракции {FACTION}"/>
   </strings>
 </base>

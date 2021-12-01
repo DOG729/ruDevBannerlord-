@@ -1661,86 +1661,86 @@
     <string id="NqtTPVzn" text="Атрибуты"/>
     <string id="Z8LeI4ho" text="Телохранители"/>
     <string id="1XE7yeaP" text="After this prisoner gains {CONFORMITY_AMOUNT} conformity, one more prisoner will be available for recruitment."/>
-    <string id="8c8NDpAd" text="{HERO.NAME} has gained {TRAIT_NAME} trait."/>
-    <string id="bdJtVxQp" text="You will {?PAY_OR_GET}gain{?}lose{\?} {TRADE_AMOUNT}{INFLUENCE_ICON}"/>
-    <string id="haRRjDmy" text="You will use {TRADE_AMOUNT} {?IS_PLURAL}horses{?}horse{\?} for upgrades."/>
-    <string id="hVZo7xdk" text="Castles"/>
-    <string id="PvrRFwHM" text="You will {?PAY_OR_GET}gain{?}lose{\?} {TRADE_AMOUNT}{MORALE_ICON}"/>
-    <string id="07b4Wy0h" text="Choose Cavalry"/>
-    <string id="0FssY1wG" text="You can see portraits of Important NPCs on the top bar.{newline}{newline}Press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on their portrait and choose talk from the menu."/>
-    <string id="0LgxcCbL" text="Order {NUMBER}"/>
-    <string id="2Ja8KYVg" text="Offensive"/>
-    <string id="4M8h8ufy" text="Not Usable With Two Hands"/>
-    <string id="5XFDdsHf" text="Abdicate Leadership"/>
+    <string id="8c8NDpAd" text="{HERO.NAME} получает черту характера «{TRAIT_NAME}»."/>
+    <string id="bdJtVxQp" text="Вы {?PAY_OR_GET}приобретете{?}потеряете{\?} {TRADE_AMOUNT}{INFLUENCE_ICON}"/>
+    <string id="haRRjDmy" text="Для улучшения нужно: {TRADE_AMOUNT} {?IS_PLURAL}лошадей{?}лошадь{\?}."/>
+    <string id="hVZo7xdk" text="Замки"/>
+    <string id="PvrRFwHM" text="Вы {?PAY_OR_GET}приобретете{?}потеряете{\?} {TRADE_AMOUNT}{MORALE_ICON}"/>
+    <string id="07b4Wy0h" text="Кавалерия"/>
+    <string id="0FssY1wG" text="На верхней панели вы можете увидеть портреты важных НИП.{newline}{newline}Чтобы начать разговор, наведите курсор на портрет, нажмите {CONSOLE_ACTION_KEY} и выберите пункт «Поговорить»."/>
+    <string id="0LgxcCbL" text="Приказ {NUMBER}"/>
+    <string id="2Ja8KYVg" text="Агрессия"/>
+    <string id="4M8h8ufy" text="Невозможно держать двумя руками"/>
+    <string id="5XFDdsHf" text="Отказаться от лидерства"/>
     <string id="7aYV4L9z" text="+{NUMBER}"/>
-    <string id="7W79uw0y" text="Back To Default"/>
-    <string id="8rzcgCO5" text="Sort By"/>
-    <string id="aIwUX5EF" text="Press &quot;{CONSOLE_KEY_NAME}&quot; to continue"/>
+    <string id="7W79uw0y" text="По умолчанию"/>
+    <string id="8rzcgCO5" text="Сортировка"/>
+    <string id="aIwUX5EF" text="Нажмите {CONSOLE_KEY_NAME}, чтобы продолжить"/>
     <string id="ap1wEfdW" text="V"/>
-    <string id="BixmxJPX" text="Your vassals will be more inclined to take offensive actions against this enemy such as raids and sieges."/>
-    <string id="CoXEjcu9" text="Can Couchable"/>
-    <string id="cXnQaNfe" text="There is no effect on decision making."/>
-    <string id="dIOOcbqU" text="Press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the talk button to start conversation."/>
-    <string id="Dj64aJKQ" text="Billhook"/>
-    <string id="DkaNhxpg" text="Are you sure you want to abdicate leadership?{?WILL_DESTROY}{newline}There are no other clans to take leadership. Your kingdom will be destroyed.{?}{\?}"/>
-    <string id="EL7lZLXN" text="Can Knockdown"/>
-    <string id="EuGCNdHG" text="Leave Kingdom"/>
-    <string id="F6GhrriD" text="Create Kingdom"/>
-    <string id="fQ2MAgD4" text="Some of your soldiers now have enough experience for an upgrade.{newline}{newline}This will be indicated by a small indicator over the party screen button.{newline}{newline}To review and upgrade your troops press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on this button."/>
-    <string id="fUNa6FAo" text="During battles, holding down &quot;{MISSION_INDICATORS_KEY}&quot; shows markers on enemy and allied formations."/>
-    <string id="g6J4Oe6z" text="Clan name needs to be between {MIN} - {MAX} characters."/>
-    <string id="GfpRqcWN" text="Choose Archers"/>
-    <string id="HKrCB1Pa" text="Can Crush Through"/>
-    <string id="Hlusn1gG" text="Clan name has invalid characters."/>
-    <string id="hroWCoqV" text="Support for enacting"/>
-    <string id="iffbWGBa" text="Aunt"/>
-    <string id="j2OaZPQz" text="Your troops will gain {XP_AMOUNT} experience for donating weapons and/or armor depending on your perks. They can gain maximum of {XP_DONATION_LIMIT} experience."/>
-    <string id="jAISxqxR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} defending a siege weapon."/>
-    <string id="JbN0RwM2" text="You lost {INFLUENCE} influence for abandoning a defensive siege of your kingdom."/>
-    <string id="JD7OlpIl" text="You can press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the &quot;+&quot; button to add 10 cohesion. Be aware that boosting it costs some influence."/>
-    <string id="k1E9DuKi" text="Select All"/>
+    <string id="BixmxJPX" text="Ваши вассалы будут более склонны к агрессивным действиям против этого врага и будут чаще устраивать осады и нападения на поселения."/>
+    <string id="CoXEjcu9" text="Можно брать наперевес"/>
+    <string id="cXnQaNfe" text="Не оказывает влияние на принятие решений."/>
+    <string id="dIOOcbqU" text="Чтобы начать беседу, наведите курсор на кнопку разговора и нажмите {CONSOLE_ACTION_KEY}."/>
+    <string id="Dj64aJKQ" text="{.MI}Секач"/>
+    <string id="DkaNhxpg" text="Вы уверены, что хотите отказаться от лидерства?{?WILL_DESTROY}{newline}Поскольку других кланов, претендующих на лидерство, нет, ваше королевство будет уничтожено.{?}{\?}"/>
+    <string id="EL7lZLXN" text="Можно сбивать на землю"/>
+    <string id="EuGCNdHG" text="Покинуть"/>
+    <string id="F6GhrriD" text="Создать корол-во"/>
+    <string id="fQ2MAgD4" text="Некоторые из ваших воинов получили достаточно опыта для улучшения.{newline}{newline}Вы увидите небольшой значок, сигнализирующий об этом, над кнопкой меню отряда.{newline}{newline}Чтобы улучшить ваших людей, наведите курсор на эту кнопку и нажмите {CONSOLE_ACTION_KEY}."/>
+    <string id="fUNa6FAo" text="Если во время битвы удерживать {MISSION_INDICATORS_KEY}, вы увидите отметки на вражеских и дружественных подразделениях."/>
+    <string id="g6J4Oe6z" text="Название клана должно содержать от {MIN} до {MAX} символов."/>
+    <string id="GfpRqcWN" text="Лучники"/>
+    <string id="HKrCB1Pa" text="Можно прорывать оборону"/>
+    <string id="Hlusn1gG" text="Название клана содержит недопустимые символы."/>
+    <string id="hroWCoqV" text="Поддержка принятия"/>
+    <string id="iffbWGBa" text="Тетя"/>
+    <string id="j2OaZPQz" text="В зависимости от своих умений вы можете дарить войскам оружие или доспехи. За каждый предмет воины получат по {XP_AMOUNT} ед. опыта, однако общая сумма опыта, полученного таким образом, не может превышать {XP_DONATION_LIMIT}."/>
+    <string id="jAISxqxR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} обороняют осадное орудие."/>
+    <string id="JbN0RwM2" text="Отказавшись оборонять от осады поселение своего королевства, вы потеряли влияние ({INFLUENCE})."/>
+    <string id="JD7OlpIl" text="Чтобы повысить сплоченность на 10, наведите курсор на кнопку '+' и нажмите {CONSOLE_ACTION_KEY}. Учтите, что при этом будет потрачено влияние."/>
+    <string id="k1E9DuKi" text="Выбрать все"/>
     <string id="KE9rdUhD" text="- {HERO_NAME}"/>
-    <string id="KTUcgvMZ" text="You will be over troop limit. This can negatively affect your party morale."/>
-    <string id="Kw7awUCK" text="Balanced"/>
-    <string id="L3EE8bmx" text="Nobody in your party has enough {SKILL} skill to complete this order. (Need {AMOUNT} more)"/>
-    <string id="LyMuTRMu" text="You have arrived at {SETTLEMENT} to find it is under attack by {PARTY}. Do you want to join the defense?"/>
-    <string id="M6cWtObI" text="The following heroes can craft this weapon:"/>
-    <string id="Ma0PyWAC" text="Raiding, attacking parties and sieging have a higher weight in decisions. The party will pursue enemies farther."/>
-    <string id="MzxFIyAQ" text="Show kingdom comparison bars"/>
-    <string id="N8YVPdBw" text="You gain a level every time your total skill points total reaches a target value. Leveling up grants focus points to spend.{newline}{newline}If you have free focus points you will see it by a small indicator over the character screen button. Press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the character button to review different skills and choose one to increase focus."/>
-    <string id="NPJRmNAY" text="Can not be crafted."/>
-    <string id="oiFt5bEV" text="Building Bonus"/>
-    <string id="oKl1p2er" text="You can call other lords to your banner. Press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the highlighted army icon on the lower right to do so."/>
-    <string id="oYUAuLO7" text="You have sworn not to attack."/>
-    <string id="PGl6fYqY" text="Choose Horse Archers"/>
-    <string id="PhF8wNaG" text="Can't Use On Horseback"/>
-    <string id="pKtXgb6b" text="You can choose an available perk by pressing &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on its button."/>
-    <string id="qHkTYCy0" text="Your troops will get {XP_AMOUNT} experience."/>
-    <string id="qjMhakoM" text="Notice how your army cohesion has dropped to a low point, and it is more likely that your army will disperse.{newline}You can press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the army management button to boost your cohesion."/>
-    <string id="qKg44yWp" text="Priority"/>
-    <string id="QtXf82OD" text="Weapon should not have Thrust Damage"/>
+    <string id="KTUcgvMZ" text="Вы превысите лимит воинов. Это может плохо повлиять на боевой дух отряда."/>
+    <string id="Kw7awUCK" text="Оборона"/>
+    <string id="L3EE8bmx" text="Никто из вашего отряда не обладает достаточным навыком «{SKILL}» для выполнения этого приказа. (Требуется еще {AMOUNT}.)"/>
+    <string id="LyMuTRMu" text="Вы прибыли в {SETTLEMENT}{.a} и увидели, что это поселение осаждает {._}{PARTY}{.g}. Вы присоединитесь к защитникам?"/>
+    <string id="M6cWtObI" text="Это оружие могут изготовить следующие герои:"/>
+    <string id="Ma0PyWAC" text="Нападения на поселения и отряды, а также осады имеют большее значение при принятии решений. Отряд будет преследовать врагов дальше от поселения."/>
+    <string id="MzxFIyAQ" text="Показать таблички сравнения королевств"/>
+    <string id="N8YVPdBw" text="Вы получаете уровень каждый раз, когда ваш запас очков навыков достигает нужного порога. Повышение уровня дает очки внимания.{newline}{newline}Если у вас есть свободные очки внимания, вы увидите небольшой значок над кнопкой меню персонажа. Чтобы просмотреть навыки и выбрать один из них, наведите курсор на эту кнопку и нажмите {CONSOLE_ACTION_KEY}."/>
+    <string id="NPJRmNAY" text="Изготовление невозможно."/>
+    <string id="oiFt5bEV" text="Бонус постройки"/>
+    <string id="oKl1p2er" text="Вы можете созывать под свои знамена других лордов. Для этого наведите курсор на выделенный значок армии в правом нижнем углу и нажмите {CONSOLE_ACTION_KEY}."/>
+    <string id="oYUAuLO7" text="Вы поклялись не нападать."/>
+    <string id="PGl6fYqY" text="Конные лучники"/>
+    <string id="PhF8wNaG" text="Невозможно использовать при верховой езде"/>
+    <string id="pKtXgb6b" text="Чтобы выбрать одно из доступных умений, наведите курсор на его кнопку и нажмите {CONSOLE_ACTION_KEY}."/>
+    <string id="qHkTYCy0" text="Ваши воины получат {XP_AMOUNT} ед. опыта."/>
+    <string id="qjMhakoM" text="Обратите внимание на то, что сплоченность вашей армии упала до минимума, а значит, воины могут разбежаться в любой момент.{newline}Чтобы повысить сплоченность, наведите курсор на кнопку управления армией и нажмите {CONSOLE_ACTION_KEY}."/>
+    <string id="qKg44yWp" text="Приоритет"/>
+    <string id="QtXf82OD" text="Оружие должно наносить урон при выпаде"/>
     <string id="quantitysign" text="#"/>
-    <string id="qzRbMK8G" text="Your vassals will be more inclined to take defensive actions against this enemy such as responding to enemy raids and sieges."/>
+    <string id="qzRbMK8G" text="Ваши вассалы будут более склонны к действиям оборонительного характера против этого врага и будут чаще реагировать на осады и нападения на поселения."/>
     <string id="ranksign" text="#"/>
-    <string id="RsBO5aOq" text="Weapon should have Swing Damage"/>
-    <string id="S9tmCkHz" text="This hero is clearing a common area."/>
-    <string id="sa2TQu1G" text="This hero is busy with an issue or a quest."/>
-    <string id="So5yubRS" text="Not Usable With One Hand"/>
-    <string id="svnxJA0L" text="{HERO} doesn't have enough {SKILL} skill to craft this weapon."/>
-    <string id="tSbH6mTJ" text="Can't Use With Shields"/>
-    <string id="TZZaO7iI" text="When your skill points reach a required threshold, one or more perks will become available.{newline}{newline}This will be notified by a small indicator over the character screen button.{newline}{newline}Press &quot;{CONSOLE_KEY_NAME}&quot; while the cursor is on the character button to view available perk choices."/>
-    <string id="UaV0JT87" text="This hero can not craft this item."/>
-    <string id="UCo8oT1Q" text="War Strategy"/>
-    <string id="uGahvbVP" text="Defend siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}"/>
-    <string id="UJ01br0b" text="This hero does not have required {SKILL} skill to complete this order."/>
-    <string id="uPZH31zw" text="Uncle"/>
-    <string id="VOYhAyJh" text="Press '{MODIFIER_KEY}' + '{CLICK_KEY}' to follow."/>
-    <string id="XzggyCPW" text="This hero is busy."/>
-    <string id="ymBKDAuj" text="Show recent events in this war"/>
-    <string id="YNND0kc9" text="Hooked Guarded Spears"/>
-    <string id="zBC5cQic" text="Support for abolishing"/>
-    <string id="zfrNMPUf" text="Donation xp"/>
-    <string id="zruLFJDG" text="Defending settlements has a higher weight in decisions. The party will also pursue enemies for a shorter distance."/>
-    <string id="ztP8UKb8" text="Choose Infantry"/>
+    <string id="RsBO5aOq" text="Оружие должно наносить урон от взмаха"/>
+    <string id="S9tmCkHz" text="Этот герой зачищает район."/>
+    <string id="sa2TQu1G" text="Этот герой на задании или занят решением проблемы."/>
+    <string id="So5yubRS" text="Невозможно держать одной рукой"/>
+    <string id="svnxJA0L" text="{HERO} не обладает достаточным навыком «{SKILL}» для изготовления этого оружия."/>
+    <string id="tSbH6mTJ" text="Невозможно использовать вместе со щитом"/>
+    <string id="TZZaO7iI" text="Когда количество очков навыков достигает определенного порога, становится доступным одно или несколько умений.{newline}{newline}Об этом вас оповестит небольшой значок над кнопкой меню персонажа.{newline}{newline}Чтобы просмотреть список доступных умений, наведите курсор на кнопку персонажа и нажмите {CONSOLE_ACTION_KEY}."/>
+    <string id="UaV0JT87" text="Этот герой не может изготовить данный предмет."/>
+    <string id="UCo8oT1Q" text="Военная стратегия"/>
+    <string id="uGahvbVP" text="Защищать осадные орудия{?IS_GENERAL_SIDE}{?} с {SIDE_STRING}{.g} края{\?}"/>
+    <string id="UJ01br0b" text="Этот герой не обладает достаточным навыком «{SKILL}» для выполнения данного приказа."/>
+    <string id="uPZH31zw" text="Дядя"/>
+    <string id="VOYhAyJh" text="Нажмите '{MODIFIER_KEY}' + '{CLICK_KEY}' для следования."/>
+    <string id="XzggyCPW" text="Этот герой занят."/>
+    <string id="ymBKDAuj" text="Показать последние события в этой войне"/>
+    <string id="YNND0kc9" text="Копья с крюками"/>
+    <string id="zBC5cQic" text="Поддержка отказа"/>
+    <string id="zfrNMPUf" text="Опыт за подарок"/>
+    <string id="zruLFJDG" text="Защита поселений имеет большее значение при принятии решений. Отряд не будет преследовать врагов далеко от поселения."/>
+    <string id="ztP8UKb8" text="Пехота"/>
   </strings>
 </base>

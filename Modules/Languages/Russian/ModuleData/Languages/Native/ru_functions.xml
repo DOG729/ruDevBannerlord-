@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Pусский" />
+    <tag language="Русский" />
   </tags>
-   	<functions>
+	<functions>
 		<function functionName="PLURAL" functionBody="{?$0.Plural}{$0.Plural}{?}{$0}{\?}"/>
 		<function functionName="personalPronounNominative" functionBody="{?$0!.FI}она{:?$0!.FA}она{:?$0!.NI}оно{:}он{\?}"/>
 		<function functionName="personalPronounGenitive" functionBody="{?$0!.FI}ее{:?$0!.FA}ее{:}его{\?}"/>
@@ -26,5 +26,6 @@
 		<function functionName="demonstrativeDative" functionBody="{?$0!.FI}этой{:?$0!.FA}этой{:}этому{\?}"/>
 		<function functionName="demonstrativeAccusativePlural" functionBody="{?$0!.MA}этих{:?$0!.FA}этих{:}эти{\?}"/>
 		<function functionName="adjectiveGenderCreator" functionBody="{?$0!.MA}{.MACreator}{:?$0!.MI}{.MICreator}{:?$0!.FA}{.FACreator}{:?$0!.FI}{.FICreator}{:?$0!.NI}{.NICreator}{:}{.NACreator}{\?}"/>
+		<function functionName="IS_PLURAL_WORD_GROUP" functionBody="{?$0!.ajp}1{:?$0!.nnp}1{:?$0!.aj}0{:?$0!.nn}0{:}0{\?}"/>
 	</functions>
 </base>

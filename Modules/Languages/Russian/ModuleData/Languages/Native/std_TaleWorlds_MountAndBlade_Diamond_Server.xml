@@ -10,16 +10,16 @@
     <string id="Rj8RhD7F" text="Ошибка!"/>
     <string id="Tauk2JzA" text="Несовпадение версий игры, Версия сервера: {SERVERVERSION} - Ваша версия: {CLIENTVERSION}."/>
     <string id="xMa4QqvL" text="Сейчас в отряде состоят следующие игроки: {PLAYERS}"/>
-    <string id="b72mIrOl" text="You have to be in a party to create a clan."/>
-    <string id="dHlxVbMw" text="You are already in a clan."/>
-    <string id="K0mSh8Hw" text="Your party does not have enough players to create a clan."/>
-    <string id="KLaW0bOz" text="You have to be in lobby to create a clan."/>
-    <string id="SvHP9TXr" text="Not all players are ready."/>
-    <string id="APQ0kNVj" text="Clan tag is invalid."/>
-    <string id="nlYK3i5a" text="Clan name is invalid."/>
-    <string id="dbLB0tuT" text="Family share is not allowed."/>
-    <string id="X6N9nSn0" text="You are not allowed to login into this server. Please try official public servers."/>
-    <string id="bB5p8KpK" text="Clan sigil is invalid."/>
-    <string id="OfCk5NMA" text="Clan faction is invalid."/>
+    <string id="b72mIrOl" text="Чтобы создать клан, вы должны состоять в отряде."/>
+    <string id="dHlxVbMw" text="Вы уже состоите в клане."/>
+    <string id="K0mSh8Hw" text="В вашем отряде недостаточно игроков для создания клана."/>
+    <string id="KLaW0bOz" text="Чтобы создать клан, вы должны находиться в лобби."/>
+    <string id="SvHP9TXr" text="Не все игроки готовы."/>
+    <string id="APQ0kNVj" text="Недопустимый идентификатор клана."/>
+    <string id="nlYK3i5a" text="Недопустимое название клана."/>
+    <string id="dbLB0tuT" text="Семейный доступ не разрешен."/>
+    <string id="X6N9nSn0" text="У вас нет доступа на этот сервер. Попробуйте воспользоваться одним из официальных публичных серверов."/>
+    <string id="bB5p8KpK" text="Недопустимый герб клана."/>
+    <string id="OfCk5NMA" text="Недопустимая фракция клана."/>
   </strings>
 </base>

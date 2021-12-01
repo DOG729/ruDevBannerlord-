@@ -36,12 +36,12 @@
     <string id="tlsmbvQX" text="Не все игроки готовы присоединиться"/>
     <string id="TR1B2RWB" text="Вы были отсоединены от игры из за использования читов"/>
     <string id="1e12bdjj" text="Снимок экрана сохранен в {PATH}"/>
-    <string id="dismissnotification" text="Dismiss"/>
-    <string id="lxq6SaQn" text="Are you sure want to quit?"/>
-    <string id="VklN5Wm6" text="Photo Mode"/>
-    <string id="aGGq9lJT" text="Change Culture"/>
-    <string id="InUAmnX4" text="You are kicked due to friendly damage"/>
-    <string id="KO2adj2I" text="You need to be in Lobby to join a custom game"/>
-    <string id="Yza0JYJt" text="Change Troop"/>
+    <string id="dismissnotification" text="Пропустить"/>
+    <string id="lxq6SaQn" text="Вы действительно хотите выйти?"/>
+    <string id="VklN5Wm6" text="Фоторежим"/>
+    <string id="aGGq9lJT" text="Сменить народность"/>
+    <string id="InUAmnX4" text="Вас исключили из-за нанесения урона соратникам"/>
+    <string id="KO2adj2I" text="Для присоединения к пользовательской игре нужно войти в лобби"/>
+    <string id="Yza0JYJt" text="Сменить воина"/>
   </strings>
 </base>

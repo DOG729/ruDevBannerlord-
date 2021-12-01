@@ -567,536 +567,536 @@
     <string id="xnoAJwoy" text="Цельный Шлем с Подбитым Тканевым Подшлемником"/>
     <string id="XRaPBg6d" text="Топор с Малым Топорищем"/>
     <string id="xS7m37o7" text="Остроконечная Кипа с Кольчугой"/>
-    <string id="xsu6bPTv" text="Лён"/>
-    <string id="XTGdfqVV" text="Двуручный Тесак "/>
-    <string id="xTyib5ms" text="Широколистное Копьё"/>
-    <string id="XU9WgcIO" text="Усиленная Замшевая Броня"/>
-    <string id="xWFW8jXw" text="Боевой Топор"/>
-    <string id="y3oIzUEp" text="Туника С Подплечниками"/>
-    <string id="YAYhozbN" text="Степной Конь"/>
-    <string id="yCvBx27Z" text="Зазубренное Копьё"/>
-    <string id="Yd4lmlQp" text="Тонкая Каскара из Отличной Стали"/>
-    <string id="YDibTDob" text="Горный Венценосный Шлем"/>
-    <string id="ygfhbfr0" text="Шипастый Шлем"/>
-    <string id="YGQ6UXCo" text="Горный Охотничий Лук"/>
-    <string id="Yh7Dorsr" text="Полосатая Кожаная Упряжь"/>
-    <string id="YLplNGxb" text="Кальрадийская Палица"/>
-    <string id="yMi4ijgI" text="Подбитый Капюшон Кочевника"/>
-    <string id="YPUDAJDH" text="Гарпун"/>
-    <string id="YqhOxb1Z" text="Пернатый Ламеллярный Шлем"/>
-    <string id="yQTBY9ie" text="Ювелирные изделия"/>
-    <string id="YrAVxmFn" text="Горный Палаш"/>
-    <string id="YRYJGzxw" text="Изысканная Адарга"/>
-    <string id="yTWOMSmv" text="Пеньковая Туника"/>
-    <string id="z62uDlbh" text="Северный Круглый Щит"/>
-    <string id="Z6Ak3H6G" text="Джид"/>
-    <string id="z6eTba5h" text="Тяжелый Шлем с Наносником и Подшлемником"/>
-    <string id="z8d2uyY1" text="Сегментированный Цервельер с Койфом"/>
-    <string id="Z9RlnXrD" text="Меховая Юбка"/>
-    <string id="zAvb7WKe" text="Сегментированная Кипа с Подбитым Койфом"/>
-    <string id="zbsajPMp" text="Вульж"/>
-    <string id="ZbsGBv10" text="Кабанчик"/>
-    <string id="zBUT90xQ" text="Тамаская Стальная Каскара"/>
+    <string id="xsu6bPTv" text="{.MI}Лен{@Plural}{.MI}мешки льна{\@}"/>
+    <string id="XTGdfqVV" text="Двуручный{.aj} {.MI}тесак{.nn} "/>
+    <string id="xTyib5ms" text="{.NI}Копье{.nn} с широким наконечником в форме листа"/>
+    <string id="XU9WgcIO" text="Укрепленная{.aj} замшевая{.aj} {.FI}броня{.nn}"/>
+    <string id="xWFW8jXw" text="Боевой{.aj} {.MI}топор{.nn}"/>
+    <string id="y3oIzUEp" text="{.FI}Блуза{.nn} с подплечниками"/>
+    <string id="YAYhozbN" text="Степная{.aj} {.FA}лошадь{.nn}"/>
+    <string id="yCvBx27Z" text="Зазубренное{.aj} {.NI}копье{.nn}"/>
+    <string id="Yd4lmlQp" text="Узкая{.aj} {.FI}каскара{.nn} из качественной стали"/>
+    <string id="YDibTDob" text="Горский{.aj} {.MI}шлем{.nn} с венцом"/>
+    <string id="ygfhbfr0" text="Шипастый{.aj} {.MI}шлем{.nn}"/>
+    <string id="YGQ6UXCo" text="Горный{.aj} {.MI}лук{.nn} охотника"/>
+    <string id="Yh7Dorsr" text="Кожаная{.aj} {.FI}упряжь{.nn} с полосами"/>
+    <string id="YLplNGxb" text="Кальрадская{.aj} {.FI}булава{.nn}"/>
+    <string id="yMi4ijgI" text="{.MI}Капюшон{.nn} кочевника с подкладкой"/>
+    <string id="YPUDAJDH" text="{.MI}Гарпун"/>
+    <string id="YqhOxb1Z" text="Пластинчатый{.aj} {.MI}шлем{.nn} с плюмажем"/>
+    <string id="yQTBY9ie" text="{.FI}Драгоценность{.nn}{@Plural}{.FI}драгоценности{\@}"/>
+    <string id="YrAVxmFn" text="Горский{.aj} {.MI}палаш{.nn}"/>
+    <string id="YRYJGzxw" text="{.FI}Адарга{.nn} с орнаментом"/>
+    <string id="yTWOMSmv" text="Пеньковая{.aj} {.FI}блуза{.nn}"/>
+    <string id="z62uDlbh" text="Круглый{.aj} {.MI}щит{.nn} северян"/>
+    <string id="Z6Ak3H6G" text="{.MI}Джерид"/>
+    <string id="z6eTba5h" text="Тяжелый{.aj} носатый{.aj} {.MI}шлем{.nn} поверх шнурованной ткани"/>
+    <string id="z8d2uyY1" text="Композитный{.aj} {.MI}цервельер{.nn} поверх шнурованного койфа"/>
+    <string id="Z9RlnXrD" text="Меховая{.aj} {.FI}юбка{.nn}"/>
+    <string id="zAvb7WKe" text="Композитный{.aj} круглый{.aj} {.MI}шлем{.nn} поверх мягкого койфа"/>
+    <string id="zbsajPMp" text="{.MI}Вульж"/>
+    <string id="ZbsGBv10" text="{.MI}Кабан"/>
+    <string id="zBUT90xQ" text="{.FI}Каскара{.nn} из тамасской стали"/>
     <string id="Ze9u7Saj" text="Железный Каркасный Шлем с Кольчугой"/>
-    <string id="ZFETxZKP" text="Куфея с Шелковой Лентой"/>
-    <string id="ZFwKlHIJ" text="Лесной Длинный Лук"/>
-    <string id="ZgVVPGTb" text="Виноград"/>
-    <string id="zGXZJFOb" text="Пластинчатый Доспех с Чешуйчатой Юбкой"/>
-    <string id="ZJYVpjuR" text="Верблюжье седло с Тяжелой Кладью"/>
-    <string id="ZLpYFYXo" text="Зубчатое Копьё из Отличной Стали"/>
-    <string id="ZOWdFaUi" text="Остроконечная Кипа с Кольчужным Койфом"/>
-    <string id="ZqTFQeai" text="Кожаная Туника"/>
-    <string id="zQv3w264" text="Полуподбитый Койф"/>
-    <string id="ZRDoABz9" text="Шлем с Меховой Подкладкой И Хвостом"/>
-    <string id="zUFRE9y4" text="Кирка"/>
-    <string id="ZV1bKLUn" text="Шарообразный шлем с Кожаным Ремешком"/>
-    <string id="Zwb65ufG" text="Глина"/>
-    <string id="Zx4h7jDy" text="Броня с Минимальной Защитой"/>
-    <string id="zZ2G7uIO" text="Котелок с Кольчугой"/>
-    <string id="yy7RvQKN" text="Сотрудники Bo"/>
-    <string id="9j9fb5pR" text="Позолоченный шлем с боковинами"/>
-    <string id="89bCqb0Z" text="Турнир по плетеной площади Shield"/>
-    <string id="cDetN1Ao" text="Временный Щит Спарринг Кайта"/>
-    <string id="lW3smDRu" text="Kite Sparring Shield"/>
-    <string id="06Qoh8AO" text="Короткий золотой военный меч"/>
-    <string id="0lNp3f76" text="Гравированная угловая каскара"/>
-    <string id="bohbzGjg" text="Украшенный ятаган с широкой рукояткой"/>
-    <string id="camFHYrN" text="Кожаный доспех с железными пластинами"/>
-    <string id="Cr5ak47X" text="Украшенный Палаш"/>
-    <string id="EezWSI6v" text="Укрепленная броня наемника"/>
-    <string id="hunterhorse" text="Охотник"/>
-    <string id="JzZJpbTB" text="Усиленный Тарджет"/>
-    <string id="MnmUBlbL" text="Малый щит"/>
-    <string id="przGGaVm" text="Бронзовый Усиленный Высокогорный Большой Щит"/>
-    <string id="QA5zGCKf" text="Украшенный полный меч"/>
-    <string id="steppebowitem" text="Степной лук"/>
-    <string id="tpUzcdY6" text="Высокий Старый Меч с Рукоядкой"/>
-    <string id="vsI4M5oq" text="Железный Усиленный Высокогорный Щит"/>
-    <string id="wAcc9SX4" text="Высокогорный Большой Щит"/>
-    <string id="WUasz2kP" text="Высокогорный Прекрасный Двуручный Меч"/>
-    <string id="nTc20R1R" text="Самодельная кувалда"/>
-    <string id="nTjEUF9z" text="Грубый большой круглый щит"/>
-    <string id="QaysED62" text="Туника из свернутой ткани"/>
-    <string id="RddFH0BA" text="Большой круглый щит в железной оправе"/>
-    <string id="k3dvbLDi" text="Седло Энея"/>
-    <string id="vRIpgxhi" text="Выбор Фортуны"/>
-    <string id="XkwOTdVQ" text="Кельтский Мороз"/>
-    <string id="y3CwqUDR" text="Высокогорная Кольчужная Рубаха"/>
-    <string id="duIWCjdD" text="Копье со стальным наконечником"/>
-    <string id="HVcwvRMF" text="Усиленное копье горца"/>
-    <string id="MTB2BunA" text="Укрепленная кольчуга горца поверх тартана"/>
-    <string id="rhWOdhjr" text="Боевое копье горца"/>
-    <string id="vXYlLH6L" text="Длинное копье с тамасским наконечником"/>
-    <string id="hyagO05b" text="Тренировочный тарджет"/>
-    <string id="WbjNNE8Z" text="Укрепленная фианская кольчуга горца"/>
-    <string id="XGytILlt" text="Grapeshot Ammo"/>
-    <string id="ZeU1fvdz" text="Grapeshot Stack"/>
-    <string id="SIdCIRfG" text="Латунные чешуйчатые наплечники"/>
-    <string id="U0zBG3F9" text="Чешуйчатые Наплечники"/>
-    <string id="Vqu67a3b" text="Шёлк-сырец"/>
-    <string id="5dQdBOTa" text="Тренировочный галлогаический топор"/>
-    <string id="APO9YcBv" text="Тренировочный двуручный топор"/>
-    <string id="EbWA5mcO" text="Тренировочный Билль"/>
-    <string id="oJKXjRJ3" text="Чешуйчатая броня горцев поверх ткани"/>
-    <string id="QlvnKQbc" text="Чешуйчатая броня горцев поверх кольчужной брони"/>
-    <string id="0a6Vz7wi" text="Кожанный табард"/>
-    <string id="18ZFPXsO" text="Латные сапоги Хускарла"/>
-    <string id="1BXuUR3s" text="Длинный гамбезон пехотинца"/>
-    <string id="1EhlbySK" text="Короткий плащ"/>
-    <string id="1jX7yxSW" text="Кольчужная рубашка Хускарлов"/>
-    <string id="1WLiLoL5" text="Зеркальный кожаный доспех"/>
-    <string id="1zFYpSSY" text="Fringed Decorated Steel Cap With Cheek Guards"/>
-    <string id="27GO9o9K" text="Iron Plate Pouldrons"/>
-    <string id="2cSOn9qb" text="Поддоспешник поверх кольчуги"/>
-    <string id="2N0ZP2GB" text="Шлем с тюрбаном и капюшоном"/>
-    <string id="2U17pNiY" text="Rural Headdress"/>
-    <string id="3jRX9u5M" text="Neckguard With Bronze Plate Pouldrons"/>
-    <string id="3lauB1HH" text="Бронзовый ламеллярный жилет поверх поддоспешника"/>
-    <string id="3Q2F2BKD" text="Lightweight Padded Coif"/>
-    <string id="3UxfT9Bu" text="Обернутая кожаная шапка"/>
-    <string id="4B2i8oxo" text="Пальто с зеркальным поясом"/>
-    <string id="4cHMe6H2" text="Decorated Hauberk"/>
-    <string id="4eOHPops" text="Прочная чешуйчатая броня"/>
-    <string id="4HcrY0S2" text="Кожаные перчатки с меховой оторочкой"/>
-    <string id="4ryhrb9p" text="Reinforced Harness With Cape"/>
-    <string id="4vB2SPZa" text="Royal Cataphract Helmet"/>
-    <string id="6fA31IxF" text="Heavy Mail Vest"/>
-    <string id="6VW6zVa3" text="Luxury Coat"/>
-    <string id="6XxiMU52" text="Кожаная гербовая накидка поверх кольчуги"/>
-    <string id="7566s7pt" text="Кольчуга пехотинцев поверх обнажённой кожи"/>
-    <string id="79bPUaOK" text="Beduin Common Saddle"/>
-    <string id="7b8Cwogx" text="Стёганка"/>
-    <string id="7CPMZKVY" text="Tartan Dress"/>
-    <string id="7EAEIUIY" text="Тяжёлая кольчуга"/>
-    <string id="7uJkrHeg" text="Aproned Feminine Coat"/>
-    <string id="83qyvGkN" text="Warlords Helmet "/>
-    <string id="8oKVhtth" text="Бригантинская броня с пряжками"/>
-    <string id="8PXbyI2r" text="Rugged Beduin Saddle"/>
-    <string id="9aehD627" text="Роскошная туника"/>
-    <string id="9efOcFRL" text="Loose Head Scarf"/>
-    <string id="9UJfJrZR" text="Spiked Kettle Over Padding"/>
-    <string id="9w40yGlZ" text="Leather Shoulderguard"/>
+    <string id="ZFETxZKP" text="{.FI}Куфия{.nn} с шелковой перевязью"/>
+    <string id="ZFwKlHIJ" text="Длинный{.aj} {.MI}лук{.nn} жителя лесов"/>
+    <string id="ZgVVPGTb" text="{.MI}Виноград{@Plural}{.MI}мешки винограда{\@}"/>
+    <string id="zGXZJFOb" text="Пластинчатая{.aj} {.FI}броня{.nn} с чешуйчатой юбкой"/>
+    <string id="ZJYVpjuR" text="{.NI}Седло{.nn} для верблюда с местом для большого груза"/>
+    <string id="ZLpYFYXo" text="Зазубренное{.aj} метательное{.aj} {.NI}копье{.nn} из качественной стали"/>
+    <string id="ZOWdFaUi" text="Остроконечный{.aj} круглый{.aj} {.MI}шлем{.nn} поверх кольчужного койфа"/>
+    <string id="ZqTFQeai" text="Кожаная{.aj} {.FI}блуза{.nn}"/>
+    <string id="zQv3w264" text="Мягкий{.aj} {.MI}полукойф{.nn}"/>
+    <string id="ZRDoABz9" text="Подбитый{.aj} мехом {.MI}шлем{.nn} с плюмажем"/>
+    <string id="zUFRE9y4" text="{.FI}Кирка"/>
+    <string id="ZV1bKLUn" text="{.MI}Шлем{.nn} с полями на коже"/>
+    <string id="Zwb65ufG" text="{.FI}Глина{@Plural}{.FI}меры глины{\@}"/>
+    <string id="Zx4h7jDy" text="{.MI}Манекен{.nn} с минимальной броней"/>
+    <string id="zZ2G7uIO" text="{.MI}Шлем{.nn} с полями поверх кольчуги"/>
+    <string id="yy7RvQKN" text="{.MI}Посох{.nn} бо"/>
+    <string id="9j9fb5pR" text="Латный{.aj} {.MI}шлем{.nn} с боковой защитой"/>
+    <string id="89bCqb0Z" text="Плетеный{.aj} квадратный{.aj} {.MI}щит{.nn} для турниров"/>
+    <string id="cDetN1Ao" text="Тренировочный{.aj} самодельный{.aj} каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="lW3smDRu" text="Тренировочный{.aj} каплевидный{.aj} {.MI}щит{.nn}"/>
+    <string id="06Qoh8AO" text="{.MI}Золотой{.aj} {.MI}короткий{.aj} {.MI}боевой{.aj} {.MI}меч{.nn} с оплеткой"/>
+    <string id="0lNp3f76" text="{.FI}Гравированный{.aj} {.FI}угловатый{.aj} {.FI}каскара{.nn}"/>
+    <string id="bohbzGjg" text="Украшенный{.aj} {.MI}скимитар{.nn} с широкой рукоятью"/>
+    <string id="camFHYrN" text="Кожаная{.aj} {.FI}броня{.nn} с железными пластинами"/>
+    <string id="Cr5ak47X" text="Украшенный{.aj} {.MI}палаш{.nn}"/>
+    <string id="EezWSI6v" text="Усиленная{.aj} {.FI}броня{.nn} наемника"/>
+    <string id="hunterhorse" text="Охотничья{.aj} {.FA}лошадь{.nn}"/>
+    <string id="JzZJpbTB" text="Укрепленный{.aj} небольшой{.aj} круглый{.aj} {.MI}щит{.nn}"/>
+    <string id="MnmUBlbL" text="Небольшой{.aj} круглый{.aj} {.MI}щит{.nn}"/>
+    <string id="przGGaVm" text="Бронзовый{.aj} укрепленный{.aj} горский{.aj} большой{.aj} {.MI}щит{.nn}"/>
+    <string id="QA5zGCKf" text="Украшенный{.aj} {.MI}меч{.nn} с желобками"/>
+    <string id="steppebowitem" text="Степной{.aj} {.MI}лук{.nn}"/>
+    <string id="tpUzcdY6" text="{.MI}Ильд{.nn} с высокой рукоятью"/>
+    <string id="vsI4M5oq" text="Железный{.aj} укрепленный{.aj} горский{.aj} большой{.aj} {.MI}щит{.nn}"/>
+    <string id="wAcc9SX4" text="Горский{.aj} большой{.aj} {.MI}щит{.nn}"/>
+    <string id="WUasz2kP" text="Качественный{.aj} двуручный{.aj} горский{.aj} {.MI}меч{.nn}"/>
+    <string id="nTc20R1R" text="Самодельная{.aj} {.FI}кувалда{.nn}"/>
+    <string id="nTjEUF9z" text="Грубый{.aj} большой{.aj} круглый{.aj} {.MI}щит{.nn}"/>
+    <string id="QaysED62" text="{.FI}Блуза{.nn} с подвернутой тканью"/>
+    <string id="RddFH0BA" text="Большой{.aj} круглый{.aj} {.MI}щит{.nn} с железной окантовкой"/>
+    <string id="k3dvbLDi" text="{.NI}Седло{.nn} Энея"/>
+    <string id="vRIpgxhi" text="{.MI}Выбор{.nn} Фортуны"/>
+    <string id="XkwOTdVQ" text="Кельтский{.aj} {.MI}мороз{.nn}"/>
+    <string id="y3CwqUDR" text="Горская{.aj} кольчужная{.aj} {.FI}рубашка{.nn}"/>
+    <string id="duIWCjdD" text="{.NI}Копье{.nn} со стальным заостренным наконечником и крюком"/>
+    <string id="HVcwvRMF" text="Горское{.aj} укрепленное{.aj} {.NI}копье{.nn}"/>
+    <string id="MTB2BunA" text="Горская{.aj} укрепленная{.aj} {.FI}кольчуга{.nn} поверх клетчатой ткани"/>
+    <string id="rhWOdhjr" text="Горское{.aj} боевое{.aj} {.NI}копье{.nn}"/>
+    <string id="vXYlLH6L" text="Длинное{.aj} заостренное{.aj} {.NI}копье{.nn} из тамасской стали"/>
+    <string id="hyagO05b" text="Тренировочный{.aj} небольшой{.aj} круглый{.aj} {.MI}щит{.nn}"/>
+    <string id="WbjNNE8Z" text="Горская{.aj} укрепленная{.aj} {.FI}кольчуга{.nn} фиана"/>
+    <string id="XGytILlt" text="{.FI}Картечь"/>
+    <string id="ZeU1fvdz" text="{.MI}Запас{.nn} картечи"/>
+    <string id="SIdCIRfG" text="Медное{.aj} чешуйчатое{.aj} {.NI}оплечье{.nn}"/>
+    <string id="U0zBG3F9" text="Чешуйчатое{.aj} {.NI}оплечье{.nn}"/>
+    <string id="Vqu67a3b" text="{.MI}Шелк-сырец{@Plural}{.MI}тюки шелка{\@}"/>
+    <string id="5dQdBOTa" text="{.MI}Тренировочный{.aj} {.MI}топор{.nn} галогласов"/>
+    <string id="APO9YcBv" text="Тренировочный{.aj} двуручный{.aj} {.MI}топор{.nn}"/>
+    <string id="EbWA5mcO" text="Тренировочный{.aj} {.MI}секач{.nn}"/>
+    <string id="oJKXjRJ3" text="Горская{.aj} чешуйчатая{.aj} {.FI}броня{.nn} поверх ткани"/>
+    <string id="QlvnKQbc" text="Горская{.aj} чешуйчатая{.aj} {.FI}броня{.nn} поверх кольчуги"/>
+    <string id="0a6Vz7wi" text="{.MI}Кожаный{.aj} {.MI}камзол{.nn}"/>
+    <string id="18ZFPXsO" text="{.MI}Латный{.ajp} {.MI}сапоги{.nnp} хускарла"/>
+    <string id="1BXuUR3s" text="{.MI}Длинный{.aj} {.MI}гамбезон{.nn} пешего воина"/>
+    <string id="1EhlbySK" text="{.MI}Короткий{.aj} {.MI}плащ{.nn}"/>
+    <string id="1jX7yxSW" text="{.FI}Кольчужный{.aj} {.FI}рубашка{.nn} хускарла"/>
+    <string id="1WLiLoL5" text="{.FI}Лакированный{.aj} {.FI}кожаный{.aj} {.FI}броня{.nn}"/>
+    <string id="1zFYpSSY" text="{.FI}Украшенный{.aj} {.FI}стальной{.aj} {.FI}шапка{.nn} с оторочкой и нащечниками"/>
+    <string id="27GO9o9K" text="{.NI}Железный{.aj} {.NI}пластинчатый{.aj} {.NI}оплечье{.nn}"/>
+    <string id="2cSOn9qb" text="{.MI}Гамбезон{.nn} поверх кольчуги"/>
+    <string id="2N0ZP2GB" text="{.MI}Шлем{.nn} с тюрбаном и койфом"/>
+    <string id="2U17pNiY" text="{.MI}Деревенский{.aj} {.MI}головной{.aj} {.MI}убор{.nn}"/>
+    <string id="3jRX9u5M" text="{.MI}Ворот{.nn} с бронзовым пластинчатым оплечьем"/>
+    <string id="3lauB1HH" text="{.MI}Бронзовый{.aj} {.MI}пластинчатый{.aj} {.MI}жилет{.nn} поверх гамбезона"/>
+    <string id="3Q2F2BKD" text="{.MI}Облегченный{.aj} {.MI}мягкий{.aj} {.MI}койф{.nn}"/>
+    <string id="3UxfT9Bu" text="{.FI}Кожаный{.aj} {.FI}обмотанный{.aj} {.FI}шапка{.nn}"/>
+    <string id="4B2i8oxo" text="{.FI}Куртка{.nn} с отполированным ремнем"/>
+    <string id="4cHMe6H2" text="{.MI}Украшенный{.aj} {.MI}хауберк{.nn}"/>
+    <string id="4eOHPops" text="{.FI}Грубый{.aj} {.FI}чешуйчатый{.aj} {.FI}броня{.nn}"/>
+    <string id="4HcrY0S2" text="{.FI}Кожаный{.ajp} {.FI}перчатки{.nnp} с меховой оторочкой"/>
+    <string id="4ryhrb9p" text="{.FI}Укрепленный{.aj} {.FI}перевязь{.nn} с накидкой"/>
+    <string id="4vB2SPZa" text="{.MI}Королевский{.aj} {.MI}шлем{.nn} катафрактария"/>
+    <string id="6fA31IxF" text="Тяжелый{.aj} кольчужный{.aj} {.MI}жилет{.nn}"/>
+    <string id="6VW6zVa3" text="Роскошная{.aj} {.FI}куртка{.nn}"/>
+    <string id="6XxiMU52" text="Кожаный{.aj} {.MI}камзол{.nn} поверх кольчуги"/>
+    <string id="7566s7pt" text="Кольчуга пешего воина поверх выделанной кожи"/>
+    <string id="79bPUaOK" text="Простое{.aj} {.NI}седло{.nn} бедуина"/>
+    <string id="7b8Cwogx" text="{.MI}Акетон"/>
+    <string id="7CPMZKVY" text="Клетчатая{.aj} {.FI}одежда{.nn}"/>
+    <string id="7EAEIUIY" text="Тяжелая{.aj} {.FI}кольчуга{.nn}"/>
+    <string id="7uJkrHeg" text="{.FI}Женская{.aj} {.FI}куртка{.nn} с фартуком"/>
+    <string id="83qyvGkN" text="{.MI}Шлем{.nn} полководца "/>
+    <string id="8oKVhtth" text="Бригандина на застежках"/>
+    <string id="8PXbyI2r" text="Грубое{.aj} {.NI}седло{.nn} бедуина"/>
+    <string id="9aehD627" text="Роскошная{.aj} {.FI}блуза{.nn}"/>
+    <string id="9efOcFRL" text="Свободный{.aj} головной{.aj} {.MI}шарф{.nn}"/>
+    <string id="9UJfJrZR" text="Шипастый{.aj} круглый{.aj} {.MI}шлем{.nn} поверх мягкой ткани"/>
+    <string id="9w40yGlZ" text="Кожаные{.ajp} {.MI}наплечники{.nnp}"/>
     <string id="abBMKRAj" text="Decorated Closed Warlord Helmet"/>
-    <string id="ac9xJt2X" text="Heavy Nasalhelm Over Padding"/>
-    <string id="aJLikenm" text="Infantryman's Gambeson"/>
-    <string id="ALbtxxyC" text="Cavalry Lamellar Armor"/>
-    <string id="aM2EPdXj" text="Red Tabard Over Mail Hauberk"/>
-    <string id="amqJbdDV" text="Scale Barding"/>
-    <string id="AoJ4Ztl2" text="Bandit Leather Hood"/>
-    <string id="aOwcs7Un" text="Roundkettle Over Leather"/>
-    <string id="AQIH729X" text="Bronze Nasalhelm Over Leather"/>
-    <string id="aQN4Dlx2" text="Тяжелый акетон"/>
-    <string id="atSRQkCE" text="Heavy Mail Hauberk"/>
-    <string id="atu9tCq8" text="Tailored Dress"/>
-    <string id="b2EDkbhD" text="Обернутые наручи"/>
-    <string id="B58Ocaxw" text="Chained Fur Cloak"/>
-    <string id="b7TdIRac" text="Roundkettle Over Mail"/>
-    <string id="bAidg8fV" text="Украшенная кольчужная рубашка Хускарлов"/>
-    <string id="BbhGL8XT" text="Бригантинский жилет"/>
-    <string id="bdLyEOEu" text="Furred Noble Lancer Helmet With Neckguard"/>
+    <string id="ac9xJt2X" text="Тяжелый{.aj} носатый{.aj} {.MI}шлем{.nn} поверх мягкой ткани"/>
+    <string id="aJLikenm" text="{.MI}Гамбезон{.nn} пешего воина"/>
+    <string id="ALbtxxyC" text="Пластинчатая{.aj} {.FI}броня{.nn} всадника"/>
+    <string id="aM2EPdXj" text="Красный{.aj} {.MI}камзол{.nn} поверх кольчужного хауберка"/>
+    <string id="amqJbdDV" text="Чешуйчатая{.aj} {.FI}броня{.nn}"/>
+    <string id="AoJ4Ztl2" text="Кожаный{.aj} {.MI}капюшон{.nn} бандита"/>
+    <string id="aOwcs7Un" text="Круглый{.aj} {.MI}шлем{.nn} поверх кожи"/>
+    <string id="AQIH729X" text="Железный{.aj} носатый{.aj} {.MI}шлем{.nn} поверх кожи"/>
+    <string id="aQN4Dlx2" text="Тяжелый{.aj} {.MI}акетон{.nn}"/>
+    <string id="atSRQkCE" text="Тяжелый{.aj} кольчужный{.aj} {.MI}хауберк{.nn}"/>
+    <string id="atu9tCq8" text="Сделанная{.aj} на заказ {.FI}одежда{.nn}"/>
+    <string id="b2EDkbhD" text="Ручные{.ajp} {.FI}перевязи{.nnp}"/>
+    <string id="B58Ocaxw" text="Меховой{.aj} {.MI}плащ{.nn} с цепями"/>
+    <string id="b7TdIRac" text="Круглый{.aj} {.MI}шлем{.nn} поверх кольчуги"/>
+    <string id="bAidg8fV" text="Украшенная{.aj} кольчужная{.aj} {.FI}рубашка{.nn} хускарла"/>
+    <string id="BbhGL8XT" text="{.MI}Жилет{.nn}-{.FI}бригандина{.nn}"/>
+    <string id="bdLyEOEu" text="Подбитый{.aj} мехом {.MI}шлем{.nn} знатного ланцера (с воротом)"/>
     <string id="bDWgG7Jc" text="Латунные наручи"/>
-    <string id="bKBa7ahF" text="Длинная простая роба"/>
-    <string id="bLgnonyc" text="Simple Peasant Robe"/>
-    <string id="BryUh6yQ" text="Стальная шапка"/>
-    <string id="bXVSSptk" text="Heavy Cavalry Helmet"/>
-    <string id="ByxdPJzA" text="Меховая шапка с ушками"/>
-    <string id="c7wcTevc" text="Leather Armor Over Heavy Cloth"/>
-    <string id="C8bVbM65" text="Туника с кожаным жилетом"/>
-    <string id="C8nk7NEf" text="Thick Fur Hood"/>
-    <string id="CAO0bycV" text="Тяжёлая туника"/>
-    <string id="CBUdkmIw" text="Цветной кафтан"/>
-    <string id="CcWpkREW" text="Толстая кольчужная рубашка с широким поясом"/>
-    <string id="cEhDJAQp" text="Поддоспешник пехотинца с юбками"/>
-    <string id="Cg7vqdPQ" text="Iron Nasalhelm Over Coif"/>
-    <string id="CHxRDUN1" text="Rugged Fur Saddle"/>
-    <string id="cjH1WFwy" text="Шапка с меховой оторочкой"/>
-    <string id="cjhhuTZD" text="Ламеллярный доспех из обработанной кожи"/>
-    <string id="CLTk2CMs" text="Поддоспешник пехотинца с ремнями"/>
-    <string id="cMdtLfGB" text="Одеяния с кисточками"/>
-    <string id="cQ6IsHSL" text="Iron Nasalhelm Over Padding"/>
-    <string id="CqMQXzUd" text="Infantryman's Rough Gambeson"/>
+    <string id="bKBa7ahF" text="Длинное{.aj} простое{.aj} {.NI}одеяние{.nn}"/>
+    <string id="bLgnonyc" text="Простое{.aj} крестьянское{.aj} {.NI}одеяние{.nn}"/>
+    <string id="BryUh6yQ" text="Стальная{.aj} {.FI}шапка{.nn}"/>
+    <string id="bXVSSptk" text="{.MI}Шлем{.nn} тяжелого всадника"/>
+    <string id="ByxdPJzA" text="Меховая{.aj} {.FI}шапка-ушанка{.nn}"/>
+    <string id="c7wcTevc" text="Кожаная{.aj} {.FI}броня{.nn} поверх плотной ткани"/>
+    <string id="C8bVbM65" text="{.FI}Блуза{.nn} с кожаным жилетом"/>
+    <string id="C8nk7NEf" text="Толстый{.aj} меховой{.aj} {.MI}капюшон{.nn}"/>
+    <string id="CAO0bycV" text="Тяжелая{.aj} {.FI}блуза{.nn}"/>
+    <string id="CBUdkmIw" text="Окрашенный{.aj} {.MI}кафтан{.nn}"/>
+    <string id="CcWpkREW" text="Тяжелая{.aj} кольчужная{.aj} {.FI}рубашка{.nn} с широким поясом"/>
+    <string id="cEhDJAQp" text="{.MI}Гамбезон{.nn} пешего воина с юбками"/>
+    <string id="Cg7vqdPQ" text="Железный{.aj} носатый{.aj} {.MI}шлем{.nn} поверх койфа"/>
+    <string id="CHxRDUN1" text="Грубое{.aj} меховое{.aj} {.FI}седло{.nn}"/>
+    <string id="cjH1WFwy" text="{.FI}Шапка{.nn} с меховой оторочкой"/>
+    <string id="cjhhuTZD" text="Пластинчатая{.aj} {.FI}броня{.nn} с подкладом из обработанной кожи"/>
+    <string id="CLTk2CMs" text="{.MI}Гамбезон{.nn} пешего воина с ремешками"/>
+    <string id="cMdtLfGB" text="{.NI}Одеяние{.nn} с кисточками"/>
+    <string id="cQ6IsHSL" text="Железный{.aj} носатый{.aj} {.MI}шлем{.nn} поверх мягкой ткани"/>
+    <string id="CqMQXzUd" text="Грубый{.aj} {.MI}гамбезон{.nn} пешего воина"/>
     <string id="CVj2Bn7E" text="Decorated Mailed Nasal Helmet"/>
-    <string id="CZvGrvzY" text="Heavy Mail Shirt"/>
-    <string id="D358wBWJ" text="Heavy Lamellar Over Hauberk"/>
-    <string id="DbavaIis" text="Iron Nasalhelm Over Mail"/>
-    <string id="DbEzJcbD" text="Lamellar Pauldrons"/>
-    <string id="DeawBxbx" text="Spiked Kettle Over Mail"/>
-    <string id="DMciP5z3" text="Tartan Long Dress"/>
-    <string id="dpAdyd6M" text="Lords Helmet With Metal Strips"/>
-    <string id="ds1nrqNv" text="Cataphracts Scale Barding"/>
-    <string id="DUp0MKZQ" text="Cold Weather Dress"/>
-    <string id="E3XTFDXt" text="Googled Helmet Over Leather"/>
-    <string id="E47Zj3Og" text="Warlord Helmet with Feather"/>
-    <string id="ebPu5G8o" text="Mameluke Helmet With Mail"/>
-    <string id="EjoS05rb" text="Woodland Fur Cape"/>
-    <string id="EPaqJLSg" text="Crowned Helmet"/>
+    <string id="CZvGrvzY" text="Тяжелая{.aj} кольчужная{.aj} {.FI}рубашка{.nn}"/>
+    <string id="D358wBWJ" text="Тяжелая{.aj} пластинчатая{.aj} {.FI}броня{.nn} поверх хауберка"/>
+    <string id="DbavaIis" text="Железный{.aj} носатый{.aj} {.MI}шлем{.nn} поверх кольчуги"/>
+    <string id="DbEzJcbD" text="Пластинчатое{.aj} {.NI}оплечье{.nn}"/>
+    <string id="DeawBxbx" text="Шипастый{.aj} круглый{.aj} {.MI}шлем{.nn} поверх кольчуги"/>
+    <string id="DMciP5z3" text="Клетчатая{.aj} длинная{.aj} {.FI}одежда{.nn}"/>
+    <string id="dpAdyd6M" text="{.MI}Шлем{.nn} лорда с металлическими накладками"/>
+    <string id="ds1nrqNv" text="Чешуйчатая{.aj} {.FI}броня{.nn} катафрактария"/>
+    <string id="DUp0MKZQ" text="Утепленная{.aj} {.FI}одежда{.nn}"/>
+    <string id="E3XTFDXt" text="{.MI}Шлем{.nn} со щитком поверх кожи"/>
+    <string id="E47Zj3Og" text="{.MI}Шлем{.nn} полководца с пером"/>
+    <string id="ebPu5G8o" text="{.MI}Шлем{.nn} мамелюка с кольчугой"/>
+    <string id="EjoS05rb" text="Меховой{.aj} {.MI}плащ{.nn} жителя лесов"/>
+    <string id="EPaqJLSg" text="{.MI}Шлем{.nn} с венцом"/>
     <string id="ErIW1dWA" text="Decorated Steel Cap"/>
-    <string id="eRZK8Kbp" text="Rich Dress"/>
-    <string id="EyQTfFS6" text="Woven Shoulderpad"/>
-    <string id="FDEIHpIN" text="Mirrored Brigandine Armor"/>
-    <string id="FQqaVHq2" text="Foresters Boots"/>
-    <string id="FRWm800F" text="Sloven Leather"/>
-    <string id="fwxHsC1h" text="Short Gambeson Over Tunic"/>
-    <string id="g5BPd0Oc" text="Cloth Coif"/>
-    <string id="G8FQ2exX" text="Plate Reinforced Gloves"/>
-    <string id="gA8mOXrC" text="Plate Pauldrons"/>
+    <string id="eRZK8Kbp" text="Дорогая{.aj} {.FI}одежда{.nn}"/>
+    <string id="EyQTfFS6" text="Плетеные{.ajp} {.MI}наплечники{.nnp}"/>
+    <string id="FDEIHpIN" text="Отполированная{.aj} {.FI}бригандина{.nn}"/>
+    <string id="FQqaVHq2" text="{.MI}Сапоги{.nnp} лесоруба"/>
+    <string id="FRWm800F" text="Грязная{.aj} {.FI}кожа{.nn}"/>
+    <string id="fwxHsC1h" text="Короткий{.aj} {.MI}гамбезон{.nn} поверх блузы"/>
+    <string id="g5BPd0Oc" text="Тканевый{.aj} {.MI}койф{.nn}"/>
+    <string id="G8FQ2exX" text="Укрепленные{.ajp} пластинами {.FI}рукавицы{.nnp}"/>
+    <string id="gA8mOXrC" text="Пластинчатое{.aj} {.NI}оплечье{.nn}"/>
     <string id="GkKQH2Uy" text="Nomad Fur Hat"/>
-    <string id="gSWtpl8a" text="Robe Over Mail Shirt"/>
-    <string id="GTaxqBcv" text="Auxiliary Armor"/>
-    <string id="GzgUzrFY" text="Mail Shirt"/>
-    <string id="h1bcf5zn" text="Shawl"/>
-    <string id="h9PP7EWc" text="Cap With Neck Flap"/>
-    <string id="HBaSQlSJ" text="Fringed Bronze Cap With Cheek Guards"/>
-    <string id="HEFOuVyd" text="Fringed Cloak"/>
-    <string id="HJriXlcb" text="Reinforced Chainmail Barding"/>
-    <string id="HkwJao2z" text="Fringed Steel Cap With Cheek Guards"/>
-    <string id="hRHPPQQP" text="Обернутый Головной Платок"/>
-    <string id="HVJ9ax8Z" text="Steppe Robe"/>
-    <string id="HvjviTTW" text="Steel Cap With Cheek Guards"/>
-    <string id="hXB6gvD2" text="Cured Leather Lamellar Shirt "/>
-    <string id="HXNb6Cqz" text="Luxury Kaftan With Waistband"/>
-    <string id="I0vRCZ7U" text="Scale Warlord Bracers"/>
-    <string id="i6QMSiut" text="Kaftan With Waistband"/>
-    <string id="Ie0EazLn" text="Heavy Lamellar Pouldrons"/>
-    <string id="iOmTEMNm" text="Footmans Padded Coat"/>
-    <string id="IOOTPpYj" text="Fur Rimmed Curved Boots"/>
-    <string id="iquQ9dro" text="Half Mail Barding"/>
-    <string id="ISCtxKub" text="Sea Raider Goggled Helmet"/>
-    <string id="j1pFE61w" text="Woodland Cloth Armor"/>
-    <string id="j2IVY6G6" text="Crude Hide Armor"/>
-    <string id="jimBaHvz" text="Reinforced Leather Armor"/>
-    <string id="JjaUzfDK" text="Warlord Helmet With Cheek Guards"/>
-    <string id="JkxPt29i" text="Chain Mail Horse Armor"/>
-    <string id="Jm3AiUo3" text="Simple Cape"/>
-    <string id="jOjXdwcM" text="Horsemans Boots"/>
-    <string id="jQKVnVNR" text="Bronze Pauldrons "/>
-    <string id="jVK5B86k" text="Fur Boots"/>
-    <string id="K2JbjKLG" text="Simple Kaftan"/>
-    <string id="k4kivaf5" text="Steel Cap With Nose Guard"/>
-    <string id="k71X3WNK" text="Robe Over Mail Hauberk"/>
-    <string id="KdbHrcQx" text="Short Tunic"/>
-    <string id="KoyU5yeY" text="Fringed Decorated Bronze Cap With Cheek Guards"/>
-    <string id="Kr8b1bxY" text="Infantrymans Mail Vest"/>
-    <string id="KVG0Tzaa" text="Reinforced Mirror Armor"/>
-    <string id="KwbnODoT" text="Brigandine Over Hauberk"/>
-    <string id="l5JDrvbW" text="Tartan Tunic"/>
-    <string id="l5PPS5lG" text="Infantrymans Mail Over Leather"/>
-    <string id="lawHibbG" text="Warlord Helmet Over Full Mail"/>
-    <string id="lbVB6KPl" text="Капюшон"/>
-    <string id="LhUhcbzI" text="Beduin Cloth Saddle"/>
-    <string id="LMo6MaQS" text="Cataphracts Lamellar Armor"/>
-    <string id="LoUxaFeE" text="Leather Vambraces"/>
-    <string id="LRbGXEw2" text="Plumed Decorated Mailed Nasal Helmet"/>
-    <string id="LSaIs3DB" text="Leather Armor"/>
-    <string id="luoXhz19" text="Heavy Lamellar Vest"/>
-    <string id="LuSkMxmd" text="Plumed Closed Warlord Helmet"/>
-    <string id="LzlQUcak" text="Reinforced Mail Barding"/>
-    <string id="lZZOQsxc" text="Rough Cavalry Saddle"/>
+    <string id="gSWtpl8a" text="{.NI}Одеяние{.nn} поверх кольчужной рубашки"/>
+    <string id="GTaxqBcv" text="{.FI}Дополнительная{.aj} {.FI}броня{.nn}"/>
+    <string id="GzgUzrFY" text="Кольчужная{.aj} {.FI}рубашка{.nn}"/>
+    <string id="h1bcf5zn" text="{.FI}Шаль"/>
+    <string id="h9PP7EWc" text="{.FI}Шапка{.nn} с назатыльником"/>
+    <string id="HBaSQlSJ" text="Бронзовая{.aj} {.FI}шапка{.nn} с оторочкой и нащечниками"/>
+    <string id="HEFOuVyd" text="{.MI}Плащ{.nn} с оторочкой"/>
+    <string id="HJriXlcb" text="Укрепленная{.aj} {.FI}броня{.nn} цепного плетения"/>
+    <string id="HkwJao2z" text="Стальная{.aj} {.FI}шапка{.nn} с оторочкой и нащечниками"/>
+    <string id="hRHPPQQP" text="Обмотанная{.aj} головная{.aj} {.FI}повязка{.nn}"/>
+    <string id="HVJ9ax8Z" text="Степное{.aj} {.NI}одеяние{.nn}"/>
+    <string id="HvjviTTW" text="Стальная{.aj} {.MI}шапка{.nn} с нащечниками"/>
+    <string id="hXB6gvD2" text="Пластинчатая{.aj} {.FI}рубашка{.nn} с подкладом из обработанной кожи "/>
+    <string id="HXNb6Cqz" text="Роскошный{.aj} {.MI}кафтан{.nn} с поясом"/>
+    <string id="I0vRCZ7U" text="Чешуйчатые{.ajp} {.MI}наручи{.nnp} полководца"/>
+    <string id="i6QMSiut" text="{.MI}Кафтан{.nn} с поясом"/>
+    <string id="Ie0EazLn" text="Тяжелое{.aj} пластинчатое{.aj} {.NI}оплечье{.nn}"/>
+    <string id="iOmTEMNm" text="{.FI}Куртка{.nn} пешего воина с подкладом"/>
+    <string id="IOOTPpYj" text="{.MI}Сапоги{.nnp} с фигурным верхом и меховой оторочкой"/>
+    <string id="iquQ9dro" text="Кольчужная{.aj} {.FI}полуброня{.nn}"/>
+    <string id="ISCtxKub" text="{.MI}Шлем{.nn} пирата со щитком"/>
+    <string id="j1pFE61w" text="Тканевая{.aj} {.FI}броня{.nn} жителя лесов"/>
+    <string id="j2IVY6G6" text="{.FI}Броня{.nn} из грубой шкуры"/>
+    <string id="jimBaHvz" text="Укрепленная{.aj} кожаная{.aj} {.FI}броня{.nn}"/>
+    <string id="JjaUzfDK" text="{.MI}Шлем{.nn} полководца с нащечниками"/>
+    <string id="JkxPt29i" text="Кольчужная{.aj} {.FI}броня{.nn} лошади"/>
+    <string id="Jm3AiUo3" text="Простой{.aj} {.MI}плащ{.nn}"/>
+    <string id="jOjXdwcM" text="{.MI}Сапоги{.nnp} всадника"/>
+    <string id="jQKVnVNR" text="Бронзовое{.aj} {.NI}оплечье{.nn} "/>
+    <string id="jVK5B86k" text="Меховые{.ajp} {.MI}сапоги{.nnp}"/>
+    <string id="K2JbjKLG" text="Простой{.aj} {.MI}кафтан{.nn}"/>
+    <string id="k4kivaf5" text="Стальная{.aj} {.FI}шапка{.nn} с защитой носа"/>
+    <string id="k71X3WNK" text="{.NI}Одеяние{.nn} поверх кольчужного хауберка"/>
+    <string id="KdbHrcQx" text="Короткая{.aj} {.FI}блуза{.nn}"/>
+    <string id="KoyU5yeY" text="Украшенная{.aj} бронзовая{.aj} {.FI}шапка{.nn} с оторочкой и нащечниками"/>
+    <string id="Kr8b1bxY" text="Кольчужный{.aj} {.MI}жилет{.nn} пешего воина"/>
+    <string id="KVG0Tzaa" text="Укрепленная{.aj} отполированная{.aj} {.FI}броня{.nn}"/>
+    <string id="KwbnODoT" text="{.FI}Бригандина{.nn} поверх хауберка"/>
+    <string id="l5JDrvbW" text="Клетчатая{.aj} {.FI}блуза{.nn}"/>
+    <string id="l5PPS5lG" text="{.FI}Кольчуга{.nn} пешего воина поверх кожи"/>
+    <string id="lawHibbG" text="{.MI}Шлем{.nn} полководца поверх закрытой кольчуги"/>
+    <string id="lbVB6KPl" text="{.MI}Капюшон"/>
+    <string id="LhUhcbzI" text="Тканевое{.aj} {.NI}седло{.nn} бедуина"/>
+    <string id="LMo6MaQS" text="Пластинчатая{.aj} {.FI}броня{.nn} катафрактария"/>
+    <string id="LoUxaFeE" text="Кожаные{.ajp} {.MI}наручи{.nnp}"/>
+    <string id="LRbGXEw2" text="Украшенный{.aj} кольчужный{.aj} носатый{.aj} {.MI}шлем{.nn} с плюмажем"/>
+    <string id="LSaIs3DB" text="Кожаная{.aj} {.FI}броня{.nn}"/>
+    <string id="luoXhz19" text="Тяжелый{.aj} пластинчатый{.aj} {.MI}жилет{.nn}"/>
+    <string id="LuSkMxmd" text="Закрытый{.aj} {.MI}шлем{.nn} полководца с плюмажем"/>
+    <string id="LzlQUcak" text="Укрепленная{.aj} кольчужная{.aj} {.FI}броня{.nn}"/>
+    <string id="lZZOQsxc" text="Грубое{.aj} кавалерийское{.aj} {.NI}седло{.nn}"/>
     <string id="mBjxmiLb" text="Bronze Roundkettle Over Leather"/>
-    <string id="MI65uuKB" text="Ring Mail Barding"/>
-    <string id="mT1bvZxM" text="Luxury Townsmans Coat"/>
-    <string id="mU5CY4bz" text="Closed Huscarl Helmet"/>
-    <string id="mvTueU1y" text="Plated Leather Vambraces"/>
-    <string id="MXpeQ7jp" text="Thick Villager Dress"/>
-    <string id="mzc6SKeH" text="Frilled Dress"/>
-    <string id="n1A47HcZ" text="Noble Lancer Helmet"/>
-    <string id="N3SgmNxe" text="Head Scarf"/>
-    <string id="n7c7tnx9" text="Warlord Helmet With Nose Guard"/>
-    <string id="n7e0y95m" text="Cured Studded Leather Armor"/>
-    <string id="NB9bQt6O" text="Spiked Helmet With Open Turban"/>
+    <string id="MI65uuKB" text="Кольчужная{.aj} {.FI}броня{.nn}"/>
+    <string id="mT1bvZxM" text="Роскошная{.aj} {.FI}куртка{.nn} горожанина"/>
+    <string id="mU5CY4bz" text="Закрытый{.aj} {.MI}шлем{.nn} хускарла"/>
+    <string id="mvTueU1y" text="Кожаные{.ajp} пластинчатые{.ajp} {.MI}наручи{.nnp}"/>
+    <string id="MXpeQ7jp" text="Плотная{.aj} {.FI}одежда{.nn} жителя деревни"/>
+    <string id="mzc6SKeH" text="Складчатая{.aj} {.FI}одежда{.nn}"/>
+    <string id="n1A47HcZ" text="{.MI}Шлем{.nn} знатного ланцера"/>
+    <string id="N3SgmNxe" text="Головной{.aj} {.MI}шарф{.nn}"/>
+    <string id="n7c7tnx9" text="{.MI}Шлем{.nn} полководца с защитой носа"/>
+    <string id="n7e0y95m" text="Клепаная{.aj} {.FI}броня{.nn} из обработанной кожи"/>
+    <string id="NB9bQt6O" text="Шипастый{.aj} {.MI}шлем{.nn} с открытым тюрбаном"/>
     <string id="nk87G8z9" text="Bronze Roundkettle Over Mail"/>
-    <string id="NMSEAA4A" text="Dress with Fur"/>
-    <string id="NRB3V6yP" text="Reinforced Half Plate Barding"/>
-    <string id="NTaol1uQ" text="Ring Mail"/>
-    <string id="nZ2MJWhM" text="Tribal Turban"/>
-    <string id="NZjbiEXg" text="Tartan Cloak"/>
-    <string id="oa2XYnHC" text="Female Rural Scarf"/>
-    <string id="OaQE1Frx" text="Steppe Saddle"/>
-    <string id="OJIRIm4j" text="Simple Cloth Tunic"/>
-    <string id="OLkncAaD" text="Closed Mail Googled Helmet"/>
-    <string id="ONaWEKSy" text="Шлем с Наносником с Кожаным Подшлемником"/>
-    <string id="oQSZ0XgP" text="Decorated Thick Tunic"/>
-    <string id="OrMbh1dn" text="Heavy Lancer Helmet"/>
-    <string id="Oub0aVl3" text="Cured Leather Pouldrons"/>
-    <string id="OvlG2Vu1" text="Rough Brigandine"/>
+    <string id="NMSEAA4A" text="Меховая{.aj} {.FI}одежда{.nn}"/>
+    <string id="NRB3V6yP" text="Укрепленная{.aj} пластинчатая{.aj} {.FI}полуброня{.nn}"/>
+    <string id="NTaol1uQ" text="{.FI}Кольчуга"/>
+    <string id="nZ2MJWhM" text="Племенной{.aj} {.MI}тюрбан{.nn}"/>
+    <string id="NZjbiEXg" text="Клетчатый{.aj} {.MI}плащ{.nn}"/>
+    <string id="oa2XYnHC" text="Женский{.aj} деревенский{.aj} {.MI}шарф{.nn}"/>
+    <string id="OaQE1Frx" text="Степное{.aj} {.NI}седло{.nn}"/>
+    <string id="OJIRIm4j" text="Простая{.aj} тканевая{.aj} {.FI}блуза{.nn}"/>
+    <string id="OLkncAaD" text="Закрытый{.aj} кольчужный{.aj} {.MI}шлем{.nn} со щитком"/>
+    <string id="ONaWEKSy" text="Носатый{.aj} {.MI}шлем{.nn} поверх кожи"/>
+    <string id="oQSZ0XgP" text="Украшенная{.aj} плотная{.aj} {.FI}блуза{.nn}"/>
+    <string id="OrMbh1dn" text="{.MI}Шлем{.nn} тяжелого ланцера"/>
+    <string id="Oub0aVl3" text="{.NI}Оплечье{.nn} из обработанной кожи"/>
+    <string id="OvlG2Vu1" text="Грубая{.aj} {.FI}бригандина{.nn}"/>
     <string id="P4qzEu8D" text="Reinforced Neck Guard"/>
-    <string id="P5gAKKC9" text="Sultans Steel Cap"/>
-    <string id="p6NIgRpk" text="Шапка из Грубой Шкуры"/>
-    <string id="P96J2c61" text="Bronze Plate Pouldrons"/>
-    <string id="p9cQARqf" text="Highborn Mail Armor"/>
-    <string id="pbxbCnVy" text="Silken Noble Dress"/>
-    <string id="PeozdF9h" text="Stitched Cured Leather Coat"/>
-    <string id="pGmYxauO" text="Legionary Cape"/>
+    <string id="P5gAKKC9" text="Стальная{.aj} {.FI}шапка{.nn} султана"/>
+    <string id="p6NIgRpk" text="{.FI}Шапка{.nn} из грубой шкуры"/>
+    <string id="P96J2c61" text="Бронзовое{.aj} пластинчатое{.aj} {.NI}оплечье{.nn}"/>
+    <string id="p9cQARqf" text="{.MI}Кольчуга{.nn} высокородного"/>
+    <string id="pbxbCnVy" text="Шелковая{.aj} {.FI}одежда{.nn} знати"/>
+    <string id="PeozdF9h" text="Стеганая{.aj} {.FI}куртка{.nn} из обработанной кожи"/>
+    <string id="pGmYxauO" text="{.FI}Накидка{.nn} легионера"/>
     <string id="PHNZn23Q" text="Brass Lamellar Over Mail"/>
     <string id="PLvTxvaX" text="Brass Lamellar Shoulder Guards"/>
-    <string id="Pqua61u8" text="Ridged Warlord Helmet"/>
-    <string id="PtfbqMeg" text="Brigandine Over Mail"/>
-    <string id="PVWsZleW" text="Helmet With Open Turban "/>
-    <string id="PyeZ22FL" text="Bronze Cap With Cheek Guards"/>
-    <string id="Q19xluDy" text="Reinforced Studded Neckguard"/>
-    <string id="Q50hfNjW" text="Койф из Тонкой Шкуры"/>
-    <string id="QaTkvy56" text="Bronze Scale Vest"/>
-    <string id="Qd0tQLpA" text="Studded Leather Armor"/>
-    <string id="qdMP2qWG" text="Mail Shoulder Reinforcements"/>
-    <string id="QfqwaRZ2" text="Envelope Dress"/>
-    <string id="qH5VV8In" text="Leather Villagers Tunic"/>
-    <string id="qi1lkMqk" text="Feminine Kaftan"/>
-    <string id="QlpyR6uc" text="Lamellar Shoulder Guards"/>
-    <string id="qNNja5IF" text="Lamellar Half Barding"/>
-    <string id="qPm3xaiP" text="Aproned Dress"/>
-    <string id="qrCVMyEk" text="Rough Scale Mail"/>
-    <string id="QtuZSbG9" text="Feathered Spangenhelm Over Coif"/>
-    <string id="qxExIHbx" text="Leather Studdedhelm"/>
-    <string id="Qyg2bJLX" text="Rural Head Wrap"/>
-    <string id="Qywm0F8B" text="Mail Coif With Helmet Padding"/>
-    <string id="QzAvlan7" text="Short Padded Robe"/>
-    <string id="R45H8quo" text="Toga"/>
-    <string id="RDbqA36B" text="Ridged Decorated Bronze Cap With Cheek Guards"/>
-    <string id="RmUJJelp" text="Huscarls Hauberk"/>
+    <string id="Pqua61u8" text="Ребристый{.aj} {.MI}шлем{.nn} полководца"/>
+    <string id="PtfbqMeg" text="{.FI}Бригандина{.nn} поверх кольчуги"/>
+    <string id="PVWsZleW" text="{.MI}Шлем{.nn} с открытым тюрбаном "/>
+    <string id="PyeZ22FL" text="Бронзовая{.aj} {.FI}шапка{.nn} с нащечниками"/>
+    <string id="Q19xluDy" text="Укрепленный{.aj} клепаный{.aj} {.MI}ворот{.nn}"/>
+    <string id="Q50hfNjW" text="{.MI}Койф{.nn} из тонкой шкуры"/>
+    <string id="QaTkvy56" text="Бронзовый{.aj} чешуйчатый{.aj} {.MI}жилет{.nn}"/>
+    <string id="Qd0tQLpA" text="Клепаная{.aj} кожаная{.aj} {.FI}броня{.nn}"/>
+    <string id="qdMP2qWG" text="Кольчужные{.ajp} укрепленные{.ajp} {.MI}наплечники{.nnp}"/>
+    <string id="QfqwaRZ2" text="{.FI}Одежда{.nn} с запахом"/>
+    <string id="qH5VV8In" text="Кожаная{.aj} {.FI}блуза{.nn} жителя деревни"/>
+    <string id="qi1lkMqk" text="Женский{.aj} {.MI}кафтан{.nn}"/>
+    <string id="QlpyR6uc" text="Пластинчатые{.ajp} {.MI}наплечники{.nnp}"/>
+    <string id="qNNja5IF" text="Пластинчатая{.aj} {.FI}полуброня{.nn}"/>
+    <string id="qPm3xaiP" text="{.FI}Одежда{.nn} с фартуком"/>
+    <string id="qrCVMyEk" text="Грубая{.aj} чешуйчатая{.aj} {.FI}кольчуга{.nn}"/>
+    <string id="QtuZSbG9" text="Каркасный шлем с перьями поверх койфа"/>
+    <string id="qxExIHbx" text="Обитый{.aj} кожаный{.aj} {.MI}шлем{.nn}"/>
+    <string id="Qyg2bJLX" text="Деревенская{.aj} головная{.aj} {.FI}повязка{.nn}"/>
+    <string id="Qywm0F8B" text="Кольчужный{.aj} {.MI}койф{.nn} с мягким подшлемником"/>
+    <string id="QzAvlan7" text="Короткое{.aj} {.NI}одеяние{.nn} с подкладом"/>
+    <string id="R45H8quo" text="{.FI}Тога"/>
+    <string id="RDbqA36B" text="Украшенная{.aj} ребристая{.aj} бронзовая{.aj} {.FI}шапка{.nn} с нащечниками"/>
+    <string id="RmUJJelp" text="{.MI}Хауберк{.nn} хускарла"/>
     <string id="ROlomxau" text="Heavy Brass Lamellar Over Mail"/>
-    <string id="rOnXuNM7" text="Woodland Cloak"/>
-    <string id="RraboU6p" text="Wrapped Helmet With Mail Coif"/>
-    <string id="rSEXAMUx" text="Legionary Helm"/>
-    <string id="rUMPiiox" text="Furred Noble Lancer Helmet"/>
-    <string id="RUvI70xS" text="Plaid Dress"/>
-    <string id="S1XL4KJh" text="Luxury Thick Coat"/>
-    <string id="s7siCSsh" text="Legionary Reinforced Studded Harness"/>
-    <string id="sAml91Z3" text="Luxury Brigandine"/>
-    <string id="sbbNL1qF" text="Reinforced Scale Pouldrons"/>
-    <string id="sc2x2QRe" text="Headscarf With Fez"/>
-    <string id="SsCM14Xu" text="Sleeved Heavy Tunic"/>
-    <string id="SugbcP3D" text="Female Rural Head Wrap"/>
-    <string id="SVTa5spB" text="Closed Steel Cap"/>
-    <string id="SxqSJK8h" text="Moccasins"/>
-    <string id="T2POVRtg" text="Auxiliary Armor With Straps"/>
-    <string id="T6ObiB5P" text="Spiked Helmet With Closed Turban "/>
-    <string id="TeIcf3Cd" text="Heavy Lamellar Over Mail Armor"/>
-    <string id="tG1Q8r2u" text="Lancer Lamellar Armor"/>
-    <string id="TS7NjgyH" text="Legionary Studded Harness"/>
-    <string id="tuEQnm2r" text="Villager Short Dress"/>
-    <string id="twbUeZph" text="Iron Legionary Helm Over Cloth"/>
-    <string id="TwuAVsCn" text="Fur Cap"/>
-    <string id="U0bVXSVs" text="Wrapped Cap"/>
-    <string id="UC2XfY7V" text="Cloth Hood"/>
-    <string id="udQSdRXR" text="Jeweled Crown"/>
-    <string id="UJgnqL7F" text="Cataphracts Half Scale Barding"/>
-    <string id="uRqm1nJ7" text="Light Saddle"/>
-    <string id="URZVE5aK" text="Bronze Pauldrons With Neck Guard"/>
-    <string id="UTXWsY1Y" text="Reinforced Leather Pauldrons"/>
-    <string id="uu9rXeYz" text="Roundkettle Over Padding"/>
-    <string id="UuWPfE1x" text="Scaled Boots"/>
+    <string id="rOnXuNM7" text="{.MI}Плащ{.nn} жителя лесов"/>
+    <string id="RraboU6p" text="{.MI}Шлем{.nn}-{.FI}повязка{.nn} с кольчужным койфом"/>
+    <string id="rSEXAMUx" text="{.FI}Шлем{.nn} легионера"/>
+    <string id="rUMPiiox" text="Подбитый{.aj} мехом {.MI}шлем{.nn} знатного ланцера"/>
+    <string id="RUvI70xS" text="Клетчатая{.aj} {.FI}одежда{.nn}"/>
+    <string id="S1XL4KJh" text="Роскошная{.aj} толстая{.aj} {.FI}куртка{.nn}"/>
+    <string id="s7siCSsh" text="Укрепленная{.aj} клепаная{.aj} {.FI}перевязь{.nn} легионера"/>
+    <string id="sAml91Z3" text="Роскошная{.aj} {.FI}бригандина{.nn}"/>
+    <string id="sbbNL1qF" text="Укрепленное{.aj} чешуйчатое{.aj} {.NI}оплечье{.nn}"/>
+    <string id="sc2x2QRe" text="Головной{.aj} {.MI}шарф{.nn} с феской"/>
+    <string id="SsCM14Xu" text="Тяжелая{.aj} {.FI}блуза{.nn} с рукавами"/>
+    <string id="SugbcP3D" text="Женская{.aj} деревенская{.aj} головная{.aj} {.FI}повязка{.nn}"/>
+    <string id="SVTa5spB" text="Закрытая{.aj} стальная{.aj} {.FI}шапка{.nn}"/>
+    <string id="SxqSJK8h" text="{.MI}Мокасины"/>
+    <string id="T2POVRtg" text="{.FI}Дополнительная{.aj} {.FI}броня{.nn} с ремешками"/>
+    <string id="T6ObiB5P" text="Шипастый{.aj} {.MI}шлем{.nn} с закрытым тюрбаном "/>
+    <string id="TeIcf3Cd" text="Тяжелая{.aj} пластинчатая{.aj} {.FI}броня{.nn} поверх кольчуги"/>
+    <string id="tG1Q8r2u" text="Пластинчатая{.aj} {.FI}броня{.nn} ланцера"/>
+    <string id="TS7NjgyH" text="Клепаная{.aj} {.FI}перевязь{.nn} легионера"/>
+    <string id="tuEQnm2r" text="Короткая{.aj} {.FI}одежда{.nn} деревенского жителя"/>
+    <string id="twbUeZph" text="Железный{.aj} {.MI}шлем{.nn} легионера поверх ткани"/>
+    <string id="TwuAVsCn" text="Меховая{.aj} {.FI}шапка{.nn}"/>
+    <string id="U0bVXSVs" text="Обмотанная{.aj} {.FI}шапка{.nn}"/>
+    <string id="UC2XfY7V" text="Тканевый{.aj} {.MI}капюшон{.nn}"/>
+    <string id="udQSdRXR" text="Инкрустированная{.aj} {.MI}корона{.nn}"/>
+    <string id="UJgnqL7F" text="Чешуйчатая{.aj} {.FI}полуброня{.nn} катафрактария"/>
+    <string id="uRqm1nJ7" text="Легкое{.aj} {.NI}седло{.nn}"/>
+    <string id="URZVE5aK" text="Бронзовое{.aj} {.NI}оплечье{.nn} с защитой шеи"/>
+    <string id="UTXWsY1Y" text="Укрепленное{.aj} кожаное{.aj} {.NI}оплечье{.nn}"/>
+    <string id="uu9rXeYz" text="Круглый{.aj} {.MI}шлем{.nn} поверх мягкой ткани"/>
+    <string id="UuWPfE1x" text="Чешуйчатые{.ajp} {.MI}сапоги{.nnp}"/>
     <string id="UVdYqQGj" text="Fringed Decorated Copper Cap With Cheek Guards"/>
-    <string id="uz24W7s4" text="Crowned Plate Helmet"/>
-    <string id="v4THTk5O" text="Kaftan With Leather Belt"/>
-    <string id="V5qbVfWF" text="Palatine Guard Helmet"/>
-    <string id="vCywYDmp" text="Light Padded Armor"/>
-    <string id="vimhFdZp" text="Heavy Nasalhelm Over Leather"/>
-    <string id="Vj4ZBxm5" text="Reinforced Plate Barding"/>
-    <string id="VkRIefyW" text="Luxury Scale Armor"/>
-    <string id="VpxHysbZ" text="Sturdy Leather Boots"/>
-    <string id="VQSdhQE3" text="Heavy Scale Armor Over Mail Hauberk"/>
-    <string id="vRBg9ICF" text="Tartan Shoulder Harness"/>
-    <string id="VYmHTbTY" text="Warlord Helmet Over Mail"/>
-    <string id="w4RuDABQ" text="Coat Of Plates"/>
-    <string id="W58TN2g5" text="Varyag Tunic"/>
-    <string id="W8r7A7qH" text="Half Scaled Barding"/>
-    <string id="WDNKhjca" text="Legionary Padded Straps"/>
-    <string id="wE7RWmIF" text="Boarskin Leather Coat"/>
-    <string id="whiQg21b" text="Luxury Kaftan"/>
-    <string id="wJ4Y9IFc" text="Cavalrymans Mail Shirt"/>
-    <string id="WkYsiU1c" text="Cap With Fur Coif"/>
-    <string id="wLAL9NRB" text="Fian Bracers"/>
-    <string id="WLJOnehi" text="Reinforced Thick Tunic"/>
-    <string id="wQY1oqdK" text="Ridged Decorated Steel Cap With Cheek Guards"/>
-    <string id="wRZ3LExm" text="Bronze Scale Vest Over Gambeson"/>
-    <string id="wvnJzwbU" text="Plated Warlord Helmet"/>
-    <string id="wWqavjat" text="Light Long Padded Armor"/>
-    <string id="x1kf94SW" text="Ridged Helm"/>
-    <string id="x3lcf2Do" text="Luxury Lamellar Vest Over Leather"/>
-    <string id="XCnUaINR" text="Bronze Nasalhelm Over Mail"/>
-    <string id="XiwTesky" text="Silk Kaftan"/>
-    <string id="XkL1Re8b" text="Studded Leather Coat"/>
-    <string id="xlLoyxXT" text="Light Lamellar Armor"/>
-    <string id="XNQPPIaA" text="Infantryman's Gambeson Over Leather Jacket"/>
-    <string id="XNW3zyfZ" text="Warlords Scale Armor"/>
-    <string id="XpzvP7hE" text="Reinforced Lamellar Shoulder Guards"/>
-    <string id="xqE9aycc" text="Woodland Leg Wrappings"/>
-    <string id="xQUi0F0k" text="Striped Coat"/>
-    <string id="XuwQvSDo" text="Iron Roundkettle Over Mail"/>
-    <string id="XXGZLTN6" text="Decorated Plate Boots"/>
-    <string id="xZfv7SAg" text="Highborns Leather Boots"/>
-    <string id="y1YTxkmn" text="Shoulder Harness"/>
-    <string id="ya4i8G3y" text="Belted Tunic"/>
-    <string id="yfjqWrUx" text="Woodlands Commoners Dress"/>
-    <string id="yrCoCgJf" text="Heavy Warlords Pauldrons"/>
-    <string id="YxglkaXU" text="White Tabard Over Mail Hauberk"/>
-    <string id="z7oMeRl3" text="Thick Brigandine Vest"/>
-    <string id="ZhcOdFgK" text="Luxurious Head Scarf"/>
-    <string id="1aboqFNg" text="Rider's Kite Shield"/>
-    <string id="1mCmYNl6" text="Polesword"/>
-    <string id="1SvtbBfk" text="Work Horse"/>
-    <string id="2Igdc86g" text="Sparing Spatha"/>
-    <string id="3daDQxwM" text="Lowland Arrows"/>
-    <string id="3yh33obu" text="Druzhinnik Lance"/>
-    <string id="4a832GZA" text="Light Bolt"/>
-    <string id="4eSEJor3" text="Corseted Dress"/>
-    <string id="4KZekKff" text="Tied Boots"/>
-    <string id="4q69NwNy" text="Crescent Guarded Arming Sword"/>
-    <string id="5gsp0xUN" text="Ringmail Shoulder Guard"/>
-    <string id="5kAqcWac" text="Jeweled Fur Rimmed Helmet"/>
-    <string id="63jCqJPA" text="Wildling Armor"/>
-    <string id="6QNQosHv" text="Tied Leather Boots"/>
-    <string id="8WlRREMh" text="Sparring Bamboo Handled Axe"/>
-    <string id="9YbFEaZ1" text="Yew Bow"/>
-    <string id="a47UTuL6" text="Justicier"/>
-    <string id="A6llHL9s" text="Lowland Longbow"/>
-    <string id="Ag6dujzl" text="Tapered Blade"/>
-    <string id="AHQQp0O0" text="Leather Lamellar Shoulder Guards"/>
-    <string id="AK0lNDmN" text="Jeweled Plumed Battle Crown"/>
+    <string id="uz24W7s4" text="Пластинчатый{.aj} {.MI}шлем{.nn} с венцом"/>
+    <string id="v4THTk5O" text="{.MI}Кафтан{.nn} с кожаным поясом"/>
+    <string id="V5qbVfWF" text="{.MI}Шлем{.nn} дворцового стража"/>
+    <string id="vCywYDmp" text="Легкая{.aj} {.FI}броня{.nn} с подкладом"/>
+    <string id="vimhFdZp" text="Тяжелый{.aj} носатый{.aj} {.MI}шлем{.nn} поверх кожи"/>
+    <string id="Vj4ZBxm5" text="Укрепленная{.aj} пластинчатая{.aj} {.FI}броня{.nn}"/>
+    <string id="VkRIefyW" text="Роскошная{.aj} чешуйчатая{.aj} {.FI}броня{.nn}"/>
+    <string id="VpxHysbZ" text="Крепкие{.ajp} кожаные{.ajp} {.MI}сапоги{.nnp}"/>
+    <string id="VQSdhQE3" text="Тяжелая{.aj} чешуйчатая{.aj} {.FI}броня{.nn} поверх кольчужного хауберка"/>
+    <string id="vRBg9ICF" text="Клетчатые{.ajp} плечевые{.ajp} {.MI}ремни{.nnp}"/>
+    <string id="VYmHTbTY" text="{.MI}Шлем{.nn} полководца поверх кольчуги"/>
+    <string id="w4RuDABQ" text="Пластинчатая{.aj} {.FI}куртка{.nn}"/>
+    <string id="W58TN2g5" text="{.FI}Блуза{.nn} варяга"/>
+    <string id="W8r7A7qH" text="Чешуйчатая{.aj} {.FI}полуброня{.nn}"/>
+    <string id="WDNKhjca" text="{.FI}Перевязь{.nn} легионера с подкладом"/>
+    <string id="wE7RWmIF" text="{.FI}Куртка{.nn} из шкуры кабана"/>
+    <string id="whiQg21b" text="Роскошный{.aj} {.MI}кафтан{.nn}"/>
+    <string id="wJ4Y9IFc" text="Кольчужная{.aj} {.FI}рубашка{.nn} всадника"/>
+    <string id="WkYsiU1c" text="{.FI}Шапка{.nn} с меховым койфом"/>
+    <string id="wLAL9NRB" text="{.MI}Наручи{.nnp} фиана"/>
+    <string id="WLJOnehi" text="Укрепленная{.aj} плотная{.aj} {.FI}блуза{.nn}"/>
+    <string id="wQY1oqdK" text="Украшенная{.aj} ребристая{.aj} стальная{.aj} {.FI}шапка{.nn} с нащечниками"/>
+    <string id="wRZ3LExm" text="Бронзовый{.aj} чешуйчатый{.aj} {.MI}жилет{.nn} поверх гамбезона"/>
+    <string id="wvnJzwbU" text="Пластинчатый{.aj} {.MI}шлем{.nn} полководца"/>
+    <string id="wWqavjat" text="Легкая{.aj} длинная{.aj} {.FI}броня{.nn} с подкладом"/>
+    <string id="x1kf94SW" text="Ребристый{.aj} {.MI}шлем{.nn}"/>
+    <string id="x3lcf2Do" text="Роскошный{.aj} пластинчатый{.aj} {.MI}жилет{.nn} поверх кожи"/>
+    <string id="XCnUaINR" text="Бронзовый{.aj} носатый{.aj} {.MI}шлем{.nn} поверх кольчуги"/>
+    <string id="XiwTesky" text="Шелковый{.aj} {.MI}кафтан{.nn}"/>
+    <string id="XkL1Re8b" text="Клепаная{.aj} кожаная{.aj} {.FI}куртка{.nn}"/>
+    <string id="xlLoyxXT" text="Легкая{.aj} пластинчатая{.aj} {.FI}броня{.nn}"/>
+    <string id="XNQPPIaA" text="{.MI}Гамбезон{.nn} пешего воина поверх кожаной куртки"/>
+    <string id="XNW3zyfZ" text="Чешуйчатая{.aj} {.FI}броня{.nn} полководца"/>
+    <string id="XpzvP7hE" text="Укрепленные{.ajp} пластинчатые{.ajp} {.MI}наплечники{.nnp}"/>
+    <string id="xqE9aycc" text="Ножные{.ajp} {.FI}обмотки{.nnp} жителя лесов"/>
+    <string id="xQUi0F0k" text="{.FI}Куртка{.nn} с накладками"/>
+    <string id="XuwQvSDo" text="Железный{.aj} круглый{.aj} {.MI}шлем{.nn} поверх кольчуги"/>
+    <string id="XXGZLTN6" text="Украшенные{.ajp} латные{.ajp} {.MI}сапоги{.nnp}"/>
+    <string id="xZfv7SAg" text="Кожаные{.ajp} {.MI}сапоги{.nnp} высокородного"/>
+    <string id="y1YTxkmn" text="Плечевые{.ajp} {.MI}ремни{.nnp}"/>
+    <string id="ya4i8G3y" text="{.FI}Блуза{.nn} с поясом"/>
+    <string id="yfjqWrUx" text="Простая{.aj} {.FI}одежда{.nn} жителя лесов"/>
+    <string id="yrCoCgJf" text="Тяжелое{.aj} {.NI}оплечье{.nn} полководца"/>
+    <string id="YxglkaXU" text="Белый{.aj} {.MI}камзол{.nn} поверх кольчужного хауберка"/>
+    <string id="z7oMeRl3" text="Толстый{.aj} {.MI}жилет{.nn}-{.FI}бригандина{.nn}"/>
+    <string id="ZhcOdFgK" text="Роскошный{.aj} головной{.aj} {.MI}шарф{.nn}"/>
+    <string id="1aboqFNg" text="{.MI}Каплевидный{.aj} {.MI}щит{.nn} всадника"/>
+    <string id="1mCmYNl6" text="{.FI}Алебарда"/>
+    <string id="1SvtbBfk" text="{.FA}Ломовой{.aj} {.FA}лошадь{.nn}"/>
+    <string id="2Igdc86g" text="{.FI}Тренировочный{.aj} {.FI}спата{.nn}"/>
+    <string id="3daDQxwM" text="{.FI}Стрелы{.nnp} жителя низин"/>
+    <string id="3yh33obu" text="{.MI}Ланец{.nn} дружинника"/>
+    <string id="4a832GZA" text="{.MI}Легкий{.aj} {.MI}болт{.nn}"/>
+    <string id="4eSEJor3" text="{.FI}Корсетный{.aj} {.FI}одежда{.nn}"/>
+    <string id="4KZekKff" text="{.MI}Сапоги{.nnp} с обмоткой"/>
+    <string id="4q69NwNy" text="{.MI}Рыцарский{.aj} {.MI}меч{.nn} с гардой в форме полумесяца"/>
+    <string id="5gsp0xUN" text="{.FI}Кольчужный{.ajp} {.FI}наплечи{.nnp}"/>
+    <string id="5kAqcWac" text="{.MI}Инкрустированный{.aj} {.MI}шлем{.nn} с меховой оторочкой"/>
+    <string id="63jCqJPA" text="{.FI}Броня{.nn} отшельника"/>
+    <string id="6QNQosHv" text="Кожаные{.ajp} {.MI}сапоги{.nnp} с обмотками"/>
+    <string id="8WlRREMh" text="Тренировочный{.aj} {.MI}топор{.nn} с бамбуковой рукоятью"/>
+    <string id="9YbFEaZ1" text="Тисовый{.aj} {.MI}лук{.nn}"/>
+    <string id="a47UTuL6" text="{.MI}Юстициар"/>
+    <string id="A6llHL9s" text="Длинный{.aj} {.MI}лук{.nn} жителя низин"/>
+    <string id="Ag6dujzl" text="Суженный{.aj} {.MI}клинок{.nn}"/>
+    <string id="AHQQp0O0" text="Кожаные{.ajp} пластинчатые{.ajp} {.MI}наплечники{.nnp}"/>
+    <string id="AK0lNDmN" text="Инкрустированный{.aj} воинский{.aj} {.MI}венец{.nn} с плюмажем"/>
     <string id="aUXr09kB" text="Brass Scale Shoulder Guards"/>
-    <string id="axaK9y6E" text="Closed Knight Helmet"/>
-    <string id="B0E6Zfyk" text="Sparring Javelin"/>
-    <string id="b88lWWOo" text="Fine Steel Mace"/>
-    <string id="BACi0kaM" text="Sparring Jagged Spear"/>
-    <string id="bdTQG99v" text="Bamboo Handled Axe"/>
-    <string id="beg6guIH" text="Wolf Pelt Cape"/>
-    <string id="bkpkeLZP" text="Heavy Quarrel"/>
-    <string id="bue69aD4" text="Simple Short Spear"/>
+    <string id="axaK9y6E" text="Закрытый{.aj} {.MI}шлем{.nn} рыцаря"/>
+    <string id="B0E6Zfyk" text="Тренировочный{.aj} {.MI}дротик{.nn}"/>
+    <string id="b88lWWOo" text="Качественная{.aj} стальная{.aj} {.FI}булава{.nn}"/>
+    <string id="BACi0kaM" text="Тренировочное{.aj} зазубренное{.aj} {.NI}копье{.nn}"/>
+    <string id="bdTQG99v" text="{.MI}Топор{.nn} с бамбуковой рукоятью"/>
+    <string id="beg6guIH" text="{.FI}Накидка{.nn} из волчьей шкуры"/>
+    <string id="bkpkeLZP" text="{.FI}Стрела{.nn} самострела"/>
+    <string id="bue69aD4" text="Простое{.aj} короткое{.aj} {.NI}копье{.nn}"/>
     <string id="byaIh4Mt" text="Reinforced Brass Scale Shoulder Guards"/>
-    <string id="cG1g4T3t" text="Sparring Flyssa"/>
-    <string id="cKtkyroA" text="Northlander Decorated Two Handed Axe"/>
+    <string id="cG1g4T3t" text="Тренировочная{.aj} {.FI}флисса{.nn}"/>
+    <string id="cKtkyroA" text="Северный{.aj} украшенный{.aj} двуручный{.aj} {.MI}топор{.nn}"/>
     <string id="cuyRKnd3" text="Simple Backsword"/>
-    <string id="D1webCRZ" text="Sparring Broadsword"/>
-    <string id="D9JrTpwU" text="Curved Boots"/>
-    <string id="DFcMeRdB" text="Simple Raider Battle Axe"/>
-    <string id="DhHBBpPf" text="Simple Leather Boots"/>
-    <string id="dSTxsYsh" text="Fullered Cavalry Mace"/>
-    <string id="EBRG6qbv" text="Noble Cavalry Lance"/>
-    <string id="Ejx5lXjk" text="Sturgian Chaser"/>
-    <string id="EOplBvKz" text="Imperial Plumed Helmet"/>
-    <string id="es77bJBa" text="Sparring Throwing Dagger"/>
-    <string id="f2awUw9x" text="Colored Kefiyyeh"/>
-    <string id="faiiCbbS" text="Sparring Round Shield"/>
-    <string id="FaYfE2dL" text="Heavy Bolt"/>
-    <string id="FJDCc3Y2" text="Heavy Horsemans Mace"/>
+    <string id="D1webCRZ" text="Тренировочный{.aj} {.MI}палаш{.nn}"/>
+    <string id="D9JrTpwU" text="{.MI}Сапоги{.nnp} с фигурным верхом"/>
+    <string id="DFcMeRdB" text="Простой{.aj} боевой{.aj} {.MI}топор{.nn} налетчика"/>
+    <string id="DhHBBpPf" text="Простые{.ajp} кожаные{.ajp} {.MI}сапоги{.nnp}"/>
+    <string id="dSTxsYsh" text="Ребристая{.aj} {.FI}булава{.nn} всадника"/>
+    <string id="EBRG6qbv" text="{.MI}Ланец{.nn} знатного всадника"/>
+    <string id="Ejx5lXjk" text="Стургийская{.aj} скаковая{.aj} {.FA}лошадь{.nn}"/>
+    <string id="EOplBvKz" text="Имперский{.aj} {.MI}шлем{.nn} с плюмажем"/>
+    <string id="es77bJBa" text="Тренировочный{.aj} метательный{.aj} {.MI}кинжал{.nn}"/>
+    <string id="f2awUw9x" text="Окрашенная{.aj} {.FI}куфия{.nn}"/>
+    <string id="faiiCbbS" text="Тренировочный{.aj} круглый{.aj} {.MI}щит{.nn}"/>
+    <string id="FaYfE2dL" text="Тяжелый{.aj} {.MI}болт{.nn}"/>
+    <string id="FJDCc3Y2" text="Тяжелая{.aj} {.FI}булава{.nn} всадника"/>
     <string id="FoiXMKbX" text="Brass Lamellar Shoulder Pieces"/>
-    <string id="FptcHNb9" text="Wrapped Boots"/>
-    <string id="FQdTo5ay" text="Scale Shoulder Guards"/>
-    <string id="FQHaFsyQ" text="Backsword"/>
-    <string id="fz23ajFz" text="Heavy Flanged Mace"/>
-    <string id="G7EbBKuA" text="Narrow Long Headed Spear"/>
-    <string id="Ga5mCiLp" text="Leather Riding Boots"/>
-    <string id="GdM7iaV9" text="Lordly Steel Cap"/>
-    <string id="Gzc0Ql3a" text="Colored Hijab"/>
-    <string id="h60wQVVX" text="Pike"/>
-    <string id="HECAP8QW" text="Short Handled Bardiche"/>
-    <string id="HIjSiX4E" text="Sparring Spear"/>
-    <string id="HpdJJO9g" text="Spatha Blade with Ring Pommel"/>
-    <string id="hyq1zBg5" text="Simple Commoner Spear"/>
-    <string id="I7izXTNj" text="Long Infantry Spear"/>
-    <string id="IClH3Pus" text="Avalanche"/>
-    <string id="ICsecuVv" text="Cured Leather Shoulder Pieces"/>
-    <string id="IDfl59yt" text="Knob Headed Spear"/>
-    <string id="igAT9Eqb" text="Steppe Charger"/>
-    <string id="ISQ0cdOc" text="Heavy Nasalhelm over Mail"/>
-    <string id="IU6HwbG1" text="Sultans' Crowned Lord Helmet"/>
-    <string id="j4XraSN6" text="Light Lance"/>
-    <string id="JFoFna6s" text="Riders Sparring Kite Shield"/>
-    <string id="jSspzlmR" text="Straight Sabre"/>
-    <string id="JXSZelwE" text="Tribesman Throwing Daggers"/>
-    <string id="k9bmPuTB" text="Heavy Cavalry Lance"/>
-    <string id="KanKBHcS" text="Infantry Axe"/>
-    <string id="Kba6rxWK" text="Sparring Scimitar"/>
+    <string id="FptcHNb9" text="Обмотанные{.ajp} {.MI}сапоги{.nnp}"/>
+    <string id="FQdTo5ay" text="Чешуйчатые{.ajp} {.FI}наплечи{.nnp}"/>
+    <string id="FQHaFsyQ" text="{.MI}Кавалерийский{.aj} {.MI}палаш{.nn}"/>
+    <string id="fz23ajFz" text="Тяжелая{.aj} ребристая{.aj} {.FI}булава{.nn}"/>
+    <string id="G7EbBKuA" text="{.NI}Копье{.nn} с узким длинным наконечником"/>
+    <string id="Ga5mCiLp" text="Кожаные{.ajp} {.MI}сапоги{.nnp} для верховой езды"/>
+    <string id="GdM7iaV9" text="Роскошная{.aj} стальная{.aj} {.FI}шапка{.nn}"/>
+    <string id="Gzc0Ql3a" text="Окрашенный{.aj} {.MI}хиджаб{.nn}"/>
+    <string id="h60wQVVX" text="{.FI}Пика"/>
+    <string id="HECAP8QW" text="{.MI}Бердыш{.nn} с короткой рукоятью"/>
+    <string id="HIjSiX4E" text="Тренировочное{.aj} {.NI}копье{.nn}"/>
+    <string id="HpdJJO9g" text="{.MI}Клинок{.nn} спаты с кольцевым яблоком"/>
+    <string id="hyq1zBg5" text="Простое{.aj} {.NI}копье{.nn} простолюдина"/>
+    <string id="I7izXTNj" text="Длинное{.aj} {.NI}копье{.nn} пешего воина"/>
+    <string id="IClH3Pus" text="{.FI}Лавина"/>
+    <string id="ICsecuVv" text="Наплечные{.ajp} {.MI}щитки{.nnp} из обработанной кожи"/>
+    <string id="IDfl59yt" text="{.NI}Копье{.nn} с шарообразным наконечником"/>
+    <string id="igAT9Eqb" text="Степная{.aj} строевая{.aj} {.FA}лошадь{.nn}"/>
+    <string id="ISQ0cdOc" text="Тяжелый{.aj} носатый{.aj} {.MI}шлем{.nn} поверх кольчуги"/>
+    <string id="IU6HwbG1" text="Султанский{.aj} {.MI}шлем{.nn} лорда с венцом"/>
+    <string id="j4XraSN6" text="Легкий{.aj} {.FI}ланец{.nn}"/>
+    <string id="JFoFna6s" text="Тренировочный{.aj} каплевидный{.aj} {.MI}щит{.nn} всадника"/>
+    <string id="jSspzlmR" text="{.FI}Прямая{.aj} {.FI}сабля{.nn}"/>
+    <string id="JXSZelwE" text="Метательные{.ajp} {.MI}кинжалы{.nnp} племенного воина"/>
+    <string id="k9bmPuTB" text="Тяжелый{.aj} {.MI}ланец{.nn} всадника"/>
+    <string id="KanKBHcS" text="{.MI}Топор{.nn} пешего воина"/>
+    <string id="Kba6rxWK" text="Тренировочный{.aj} {.MI}скимитар{.nn}"/>
     <string id="KbW3IFOd" text="Two Pronged Brass Crown"/>
-    <string id="lGHrlYqQ" text="Sparring Twohander"/>
-    <string id="LLaFEt1m" text="Sparring Arming Sword"/>
-    <string id="LpN4YWb2" text="Sparring Saber"/>
-    <string id="LVQworUy" text="Broad Kaskara"/>
-    <string id="M0n609ut" text="Mail Shoulder Pieces"/>
-    <string id="M75Ybg6r" text="Sparring Throwing Axe"/>
-    <string id="MChutiV6" text="Roundkettle over Cloth"/>
-    <string id="N0ErUFHS" text="Jagged Javelin"/>
-    <string id="N8VJWdVY" text="Steppe Light Mace"/>
-    <string id="NaaM2O2g" text="Northlander Wide Fullered Greatsword"/>
-    <string id="NhDpFjF0" text="Reinforced Closed Goggled Helmet"/>
-    <string id="o5kKAbRu" text="Knight Lance"/>
-    <string id="OFxwPQyA" text="Battle Crown"/>
-    <string id="OjHwbgeY" text="Strong Tribesman Bow"/>
-    <string id="oV5AhcDl" text="Lowland Javelin"/>
-    <string id="oXrbTRJo" text="Reaper"/>
-    <string id="P9FUrH8a" text="Gold Engraved Arming Sword"/>
-    <string id="P9PcIk4q" text="Hooked Cavalry Axe"/>
-    <string id="pdtQybBM" text="Desert Round Sparring Shield"/>
-    <string id="POhLMyat" text="Broad Tzkurion"/>
-    <string id="QA3k2I4A" text="Broad Bladed Throwing Knives"/>
-    <string id="QnyD1yWB" text="Northlander Broad Axe"/>
-    <string id="Rwp23MLA" text="Sparring Blade"/>
-    <string id="RzLZHrYT" text="Short Simple Raider Spear"/>
-    <string id="SDBvC0ON" text="Spiked Battle Axe"/>
-    <string id="sDKfIQbO" text="Peasant Head Wrapping"/>
-    <string id="SvYpE52J" text="Fur Trimmed Tunic"/>
-    <string id="sWUbsPty" text="Heavy Knight Lance"/>
-    <string id="t6pQ6Vxc" text="Reinforced Studded Shoulder Guards"/>
-    <string id="tBCm7Qqw" text="Khamseen"/>
-    <string id="tcN9Vyn7" text="Sparring Blunt Javelin"/>
-    <string id="Th4E7v2h" text="Horseman Javelin"/>
-    <string id="TQ1MVhIX" text="Light Cavalry Lance"/>
-    <string id="tsaSBPKu" text="Tzikourion"/>
-    <string id="tzoARfAm" text="Heavy Druzhinnik Lance"/>
-    <string id="u5eafobF" text="Imperial Jeweled Band"/>
-    <string id="uEcbnd5D" text="Round Shield"/>
-    <string id="uIov9Yo9" text="Reinforced Suede Shoulder Guards"/>
-    <string id="Uo2t80GH" text="Decorated Steel Lamellar Shoulder Pieces"/>
-    <string id="Ur3Q4U5x" text="Heavy Tartan Cape"/>
-    <string id="uSBxV2Ob" text="Rectangular Bitted Axe"/>
-    <string id="VeqZhu56" text="Light Quarrel"/>
-    <string id="vFqkSbGC" text="Reinforced Desert Round Shield"/>
+    <string id="lGHrlYqQ" text="Тренировочный{.aj} двуручный{.aj} {.MI}меч{.nn}"/>
+    <string id="LLaFEt1m" text="Тренировочный{.aj} рыцарский{.aj} {.MI}меч{.nn}"/>
+    <string id="LpN4YWb2" text="Тренировочная{.aj} {.FI}сабля{.nn}"/>
+    <string id="LVQworUy" text="Широкая{.aj} {.FI}каскара{.nn}"/>
+    <string id="M0n609ut" text="Кольчужные{.ajp} наплечные{.ajp} {.MI}щитки{.nnp}"/>
+    <string id="M75Ybg6r" text="Тренировочный{.aj} метательный{.aj} {.MI}топор{.nn}"/>
+    <string id="MChutiV6" text="Круглый{.aj} {.MI}шлем{.nn} поверх ткани"/>
+    <string id="N0ErUFHS" text="Зазубренный{.aj} {.MI}дротик{.nn}"/>
+    <string id="N8VJWdVY" text="Степная{.aj} легкая{.aj} {.FI}булава{.nn}"/>
+    <string id="NaaM2O2g" text="Северный{.aj} большой{.aj} {.MI}меч{.nn} с широкими желобками"/>
+    <string id="NhDpFjF0" text="Укрепленный{.aj} закрытый{.aj} {.MI}шлем{.nn} со щитком"/>
+    <string id="o5kKAbRu" text="{.MI}Ланец{.nn} рыцаря"/>
+    <string id="OFxwPQyA" text="Воинский{.aj} {.MI}венец{.nn}"/>
+    <string id="OjHwbgeY" text="Мощный{.aj} {.MI}лук{.nn} племенного воина"/>
+    <string id="oV5AhcDl" text="{.MI}Дротик{.nn} жителя низин"/>
+    <string id="oXrbTRJo" text="{.MI}Жнец"/>
+    <string id="P9FUrH8a" text="Рыцарский{.aj} {.MI}меч{.nn} с золотой гравировкой"/>
+    <string id="P9PcIk4q" text="Кавалерийский{.aj} {.MI}топор{.nn} с крюком"/>
+    <string id="pdtQybBM" text="Тренировочный{.aj} круглый{.aj} {.MI}щит{.nn} пустынника"/>
+    <string id="POhLMyat" text="Широкий{.aj} {.MI}цкурион{.nn}"/>
+    <string id="QA3k2I4A" text="Метательные{.ajp} {.MI}ножи{.nnp} с широким лезвием"/>
+    <string id="QnyD1yWB" text="Северный{.aj} широкий{.aj} {.MI}топор{.nn}"/>
+    <string id="Rwp23MLA" text="Тренировочный{.aj} {.MI}клинок{.nn}"/>
+    <string id="RzLZHrYT" text="Простое{.aj} короткое{.aj} {.NI}копье{.nn} налетчика"/>
+    <string id="SDBvC0ON" text="Боевой{.aj} {.MI}топор{.nn} с шипом"/>
+    <string id="sDKfIQbO" text="Головная{.aj} {.FI}повязка{.nn} крестьянина"/>
+    <string id="SvYpE52J" text="Меховая{.aj} {.FI}блуза{.nn}"/>
+    <string id="sWUbsPty" text="Тяжелый{.aj} {.MI}ланец{.nn} рыцаря"/>
+    <string id="t6pQ6Vxc" text="Укрепленные{.ajp} клепаные{.ajp} {.FI}наплечи{.nnp}"/>
+    <string id="tBCm7Qqw" text="{.MA}Хамсин"/>
+    <string id="tcN9Vyn7" text="Тренировочный{.aj} тупой{.aj} {.MI}дротик{.nn}"/>
+    <string id="Th4E7v2h" text="{.MI}Дротик{.nn} наездника"/>
+    <string id="TQ1MVhIX" text="Легкий{.aj} {.MI}ланец{.nn} всадника"/>
+    <string id="tsaSBPKu" text="{.MI}Цикурион"/>
+    <string id="tzoARfAm" text="Тяжелый{.aj} {.MI}ланец{.nn} дружинника"/>
+    <string id="u5eafobF" text="Имперская{.aj} инкрустированная{.aj} {.FI}лента{.nn}"/>
+    <string id="uEcbnd5D" text="Круглый{.aj} {.MI}щит{.nn}"/>
+    <string id="uIov9Yo9" text="Укрепленные{.ajp} замшевые{.ajp} {.FI}наплечи{.nnp}"/>
+    <string id="Uo2t80GH" text="Украшенные{.ajp} стальные{.ajp} пластинчатые{.ajp} наплечные{.ajp} {.MI}щитки{.nnp}"/>
+    <string id="Ur3Q4U5x" text="Плотная{.aj} клетчатая{.aj} {.FI}накидка{.nn}"/>
+    <string id="uSBxV2Ob" text="{.MI}Топор{.nn} с прямоугольным лезвием"/>
+    <string id="VeqZhu56" text="Легкая{.aj} {.FI}стрела{.nn} самострела"/>
+    <string id="vFqkSbGC" text="Укрепленный{.aj} круглый{.aj} {.MI}щит{.nn} пустынника"/>
     <string id="Vnhtxx41" text="Imperial Crown"/>
-    <string id="vo9kYKNQ" text="Lamellar Shoulder Pieces"/>
-    <string id="VP74qdJ3" text="Courser Lance"/>
-    <string id="VwQJ4aLY" text="Infantry Steel Helmet"/>
-    <string id="Vyw5KNxR" text="Short Militia Spear"/>
-    <string id="W9bsRAfD" text="Mail Shoulder Guards"/>
-    <string id="WWRKeqwD" text="Raider Throwing Axe"/>
-    <string id="wxL5TdDv" text="Militia Mace"/>
-    <string id="WzAJJQjP" text="Desert Round Shield"/>
-    <string id="X31qND4N" text="Tribesman Throwing Axe"/>
-    <string id="xgOuAWEE" text="Commoner Axe"/>
-    <string id="XIRtmaQt" text="Sentinel"/>
-    <string id="xJTfOqD6" text="Goggled Cataphract Helmet"/>
-    <string id="XU0b0yiW" text="Sparring Lance"/>
-    <string id="xwWYJb5A" text="Folded Leather Boots"/>
-    <string id="xYk4953c" text="Steel Mace"/>
-    <string id="YGndAhTr" text="Weighted Steppe Spear"/>
-    <string id="YmoddWwb" text="Sparring Seax"/>
-    <string id="YQ9ybgmj" text="Sparring Glaive"/>
-    <string id="zBRB0P5M" text="Closed Decorated Goggled Helmet"/>
-    <string id="Zcaucj4W" text="Decorated Arming Sword"/>
-    <string id="zf2GUNfh" text="Decorated Lamellar Leather Shoulder Guards"/>
+    <string id="vo9kYKNQ" text="Пластинчатые{.ajp} наплечные{.ajp} {.MI}щитки{.nnp}"/>
+    <string id="VP74qdJ3" text="{.MI}Ланец{.nn} налетчика"/>
+    <string id="VwQJ4aLY" text="Стальной{.aj} {.MI}шлем{.nn} пешего воина"/>
+    <string id="Vyw5KNxR" text="Короткое{.aj} {.NI}копье{.nn} ополченца"/>
+    <string id="W9bsRAfD" text="Кольчужные{.ajp} {.FI}наплечи{.nnp}"/>
+    <string id="WWRKeqwD" text="Метательный{.aj} {.MI}топор{.nn} налетчика"/>
+    <string id="wxL5TdDv" text="{.FI}Булава{.nn} ополченца"/>
+    <string id="WzAJJQjP" text="Круглый{.aj} {.MI}щит{.nn} пустынника"/>
+    <string id="X31qND4N" text="Метательный{.aj} {.MI}топор{.nn} племенного воина"/>
+    <string id="xgOuAWEE" text="{.MI}Топор{.nn} простолюдина"/>
+    <string id="XIRtmaQt" text="{.MI}Страж"/>
+    <string id="xJTfOqD6" text="{.MI}Шлем{.nn} катафрактария со щитком"/>
+    <string id="XU0b0yiW" text="Тренировочный{.aj} {.MI}ланец{.nn}"/>
+    <string id="xwWYJb5A" text="Кожаные{.ajp} {.MI}сапоги{.nnp} в гармошку"/>
+    <string id="xYk4953c" text="Стальная{.aj} {.FI}булава{.nn}"/>
+    <string id="YGndAhTr" text="Степное{.aj} утяжеленное{.aj} {.NI}копье{.nn}"/>
+    <string id="YmoddWwb" text="Тренировочный{.aj} {.MI}сакс{.nn}"/>
+    <string id="YQ9ybgmj" text="Тренировочная{.aj} {.FI}глефа{.nn}"/>
+    <string id="zBRB0P5M" text="Украшенный{.aj} закрытый{.aj} {.MI}шлем{.nn} со щитком"/>
+    <string id="Zcaucj4W" text="Украшенный{.aj} рыцарский{.aj} {.MI}меч{.nn}"/>
+    <string id="zf2GUNfh" text="Украшенные{.ajp} пластинчатые{.ajp} кожаные{.ajp} {.FI}наплечи{.nnp}"/>
     <string id="zkt4AwSi" text="Knight Helmet With Brass Faceguard"/>
-    <string id="ZMPw2IPy" text="Rough Fur over Mail"/>
-    <string id="ZQv5Bcl2" text="Tribesman Bow"/>
-    <string id="ZsaukY0N" text="Arming Sword with Circle"/>
-    <string id="zvIax8Kt" text="Lowland Throwing Knife"/>
+    <string id="ZMPw2IPy" text="Грубый{.aj} {.MI}мех{.nn} поверх кольчуги"/>
+    <string id="ZQv5Bcl2" text="{.MI}Лук{.nn} племенного воина"/>
+    <string id="ZsaukY0N" text="{.MI}Рыцарский{.aj} {.MI}меч{.nn} с гравировкой в виде круга"/>
+    <string id="zvIax8Kt" text="Метательный{.aj} {.MI}нож{.nn} жителя низин"/>
   </strings>
 </base>

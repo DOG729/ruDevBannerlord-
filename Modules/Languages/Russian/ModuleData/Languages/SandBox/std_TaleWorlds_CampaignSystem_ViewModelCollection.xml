@@ -435,10 +435,10 @@
     <string id="WySAapWO" text="Неограниченно"/>
     <string id="wZGj3qO1" text="Выберите, что будет создано"/>
     <string id="X3gcUz7C" text="Утро"/>
-    <string id="z3Xg0IaG" text="Замки принадлежащие фракции {FACTION}"/>
+    <string id="z3Xg0IaG" text="Замки {FACTION}"/>
     <string id="Zemk86FK" text="Нет города, завоёванного фракцией {FACTION}"/>
-    <string id="zFDoDbNj" text="Количество"/>
+    <string id="zFDoDbNj" text="Число"/>
     <string id="ZIn8W5ZG" text="Стоимость"/>
-    <string id="ZZmlYrgL" text="Нет замка, принадлежащего фракции {FACTION}"/>
+    <string id="ZZmlYrgL" text="У {FACTION}{.g} нет замков"/>
   </strings>
 </base>

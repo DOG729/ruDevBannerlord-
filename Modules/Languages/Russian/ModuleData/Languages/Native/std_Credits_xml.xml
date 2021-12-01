@@ -177,15 +177,15 @@
     <string id="U3X6WqoH" text="“Tales by the Hearth” и “The Longest Road”"/>
     <string id="engineeringcredits" text="Engineering"/>
     <string id="leJXYMYH" text="Mount &amp; Blade Chinese Localization Team (Qi Kan ZhongWenZhan)"/>
-    <string id="anbCaeSO" text="Community Management Team Lead"/>
-    <string id="Gvyqejhg" text="Game Designers"/>
-    <string id="H10V8Z5G" text="Human Resources Automation Engineer"/>
-    <string id="HjO6nuGU" text="Gameplay Designers"/>
-    <string id="iWTr0oeb" text="Gameplay Design Team Lead"/>
-    <string id="OOXQDRUJ" text="DevOps Engineer"/>
-    <string id="oxXZQIBo" text="Communications and Support Team Lead"/>
-    <string id="QdRHVLb3" text="UI Programmers Supervisor"/>
-    <string id="SU37hDxO" text="Additional Support"/>
-    <string id="Yly8UAYx" text="Additional Gameplay Designers"/>
+    <string id="anbCaeSO" text="Руководитель отдела управления сообществом"/>
+    <string id="Gvyqejhg" text="Геймдизайнеры"/>
+    <string id="H10V8Z5G" text="Инженер по автоматизации отдела кадров"/>
+    <string id="HjO6nuGU" text="Дизайнеры игрового процесса"/>
+    <string id="iWTr0oeb" text="Руководитель отдела дизайна игрового процесса"/>
+    <string id="OOXQDRUJ" text="Инженер по разработке"/>
+    <string id="oxXZQIBo" text="Руководитель отдела связей и поддержки"/>
+    <string id="QdRHVLb3" text="Координатор программистов интерфейса"/>
+    <string id="SU37hDxO" text="Дополнительная поддержка"/>
+    <string id="Yly8UAYx" text="Дополнительный дизайн игрового процесса"/>
   </strings>
 </base>

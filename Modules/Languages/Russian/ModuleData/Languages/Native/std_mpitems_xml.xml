@@ -480,216 +480,216 @@
     <string id="cMdtLfGB" text="Одеяния с кисточками"/>
     <string id="Csfcw8G7" text="Словенская кожанка"/>
     <string id="D9JrTpwU" text="Изогнутые сапоги"/>
-    <string id="FDEIHpIN" text="Mirrored Brigandine Armor"/>
-    <string id="fwxHsC1h" text="Short Gambeson Over Tunic"/>
-    <string id="g5BPd0Oc" text="Cloth Coif"/>
-    <string id="G8FQ2exX" text="Plate Reinforced Gloves"/>
-    <string id="GTaxqBcv" text="Auxiliary Armor"/>
-    <string id="GzgUzrFY" text="Mail Shirt"/>
-    <string id="h9PP7EWc" text="Cap With Neck Flap"/>
-    <string id="HVJ9ax8Z" text="Steppe Robe"/>
-    <string id="hXB6gvD2" text="Cured Leather Lamellar Shirt "/>
-    <string id="HXNb6Cqz" text="Luxury Kaftan With Waistband"/>
-    <string id="I0vRCZ7U" text="Scale Warlord Bracers"/>
-    <string id="iauvbwL3" text="Guard's Bow"/>
-    <string id="ilLE877K" text="Steppe Fur Saddle "/>
-    <string id="iOmTEMNm" text="Footmans Padded Coat"/>
-    <string id="IOt4KTHs" text="Midlands Palfrey"/>
-    <string id="j1pFE61w" text="Woodland Cloth Armor"/>
-    <string id="j2IVY6G6" text="Crude Hide Armor"/>
-    <string id="jimBaHvz" text="Reinforced Leather Armor"/>
-    <string id="Jt0Mcn4D" text="Savage Armor"/>
-    <string id="k71X3WNK" text="Robe Over Mail Hauberk"/>
-    <string id="KdbHrcQx" text="Short Tunic"/>
-    <string id="Kr8b1bxY" text="Infantrymans Mail Vest"/>
-    <string id="KVG0Tzaa" text="Reinforced Mirror Armor"/>
-    <string id="l5JDrvbW" text="Tartan Tunic"/>
-    <string id="l5PPS5lG" text="Infantrymans Mail Over Leather"/>
-    <string id="LMo6MaQS" text="Cataphracts Lamellar Armor"/>
-    <string id="luoXhz19" text="Heavy Lamellar Vest"/>
-    <string id="lZZOQsxc" text="Rough Cavalry Saddle"/>
-    <string id="mVAaWp5U" text="Imperial Charger"/>
-    <string id="mvTueU1y" text="Plated Leather Vambraces"/>
-    <string id="NTaol1uQ" text="Ring Mail"/>
-    <string id="OJIRIm4j" text="Simple Cloth Tunic"/>
-    <string id="OvlG2Vu1" text="Rough Brigandine"/>
-    <string id="p9cQARqf" text="Highborn Mail Armor"/>
-    <string id="PeozdF9h" text="Stitched Cured Leather Coat"/>
+    <string id="FDEIHpIN" text="Отполированная{.aj} {.FI}бригандина{.nn}"/>
+    <string id="fwxHsC1h" text="Короткий{.aj} {.MI}гамбезон{.nn} поверх блузы"/>
+    <string id="g5BPd0Oc" text="Тканевый{.aj} {.MI}койф{.nn}"/>
+    <string id="G8FQ2exX" text="Укрепленные{.ajp} пластинами {.FI}рукавицы{.nnp}"/>
+    <string id="GTaxqBcv" text="{.FI}Дополнительная{.aj} {.FI}броня{.nn}"/>
+    <string id="GzgUzrFY" text="Кольчужная{.aj} {.FI}рубашка{.nn}"/>
+    <string id="h9PP7EWc" text="{.FI}Шапка{.nn} с назатыльником"/>
+    <string id="HVJ9ax8Z" text="Степное{.aj} {.NI}одеяние{.nn}"/>
+    <string id="hXB6gvD2" text="Пластинчатая{.aj} {.FI}рубашка{.nn} с подкладом из обработанной кожи "/>
+    <string id="HXNb6Cqz" text="Роскошный{.aj} {.MI}кафтан{.nn} с поясом"/>
+    <string id="I0vRCZ7U" text="Чешуйчатые{.ajp} {.MI}наручи{.nnp} полководца"/>
+    <string id="iauvbwL3" text="Лук стражника"/>
+    <string id="ilLE877K" text="Степное меховое седло "/>
+    <string id="iOmTEMNm" text="{.FI}Куртка{.nn} пешего воина с подкладом"/>
+    <string id="IOt4KTHs" text="Верховая{.aj} {.FA}лошадь{.nn} внутренних земель"/>
+    <string id="j1pFE61w" text="Тканевая{.aj} {.FI}броня{.nn} жителя лесов"/>
+    <string id="j2IVY6G6" text="{.FI}Броня{.nn} из грубой шкуры"/>
+    <string id="jimBaHvz" text="Укрепленная{.aj} кожаная{.aj} {.FI}броня{.nn}"/>
+    <string id="Jt0Mcn4D" text="Броня дикаря"/>
+    <string id="k71X3WNK" text="{.NI}Одеяние{.nn} поверх кольчужного хауберка"/>
+    <string id="KdbHrcQx" text="Короткая{.aj} {.FI}блуза{.nn}"/>
+    <string id="Kr8b1bxY" text="Кольчужный{.aj} {.MI}жилет{.nn} пешего воина"/>
+    <string id="KVG0Tzaa" text="Укрепленная{.aj} отполированная{.aj} {.FI}броня{.nn}"/>
+    <string id="l5JDrvbW" text="Клетчатая{.aj} {.FI}блуза{.nn}"/>
+    <string id="l5PPS5lG" text="{.FI}Кольчуга{.nn} пешего воина поверх кожи"/>
+    <string id="LMo6MaQS" text="Пластинчатая{.aj} {.FI}броня{.nn} катафрактария"/>
+    <string id="luoXhz19" text="Тяжелый{.aj} пластинчатый{.aj} {.MI}жилет{.nn}"/>
+    <string id="lZZOQsxc" text="Грубое{.aj} кавалерийское{.aj} {.NI}седло{.nn}"/>
+    <string id="mVAaWp5U" text="Имперская{.aj} строевая{.aj} {.FA}лошадь{.nn}"/>
+    <string id="mvTueU1y" text="Кожаные{.ajp} пластинчатые{.ajp} {.MI}наручи{.nnp}"/>
+    <string id="NTaol1uQ" text="{.FI}Кольчуга"/>
+    <string id="OJIRIm4j" text="Простая{.aj} тканевая{.aj} {.FI}блуза{.nn}"/>
+    <string id="OvlG2Vu1" text="Грубая{.aj} {.FI}бригандина{.nn}"/>
+    <string id="p9cQARqf" text="{.MI}Кольчуга{.nn} высокородного"/>
+    <string id="PeozdF9h" text="Стеганая{.aj} {.FI}куртка{.nn} из обработанной кожи"/>
     <string id="PHNZn23Q" text="Brass Lamellar Over Mail"/>
-    <string id="PtfbqMeg" text="Brigandine Over Mail"/>
-    <string id="Qd0tQLpA" text="Studded Leather Armor"/>
-    <string id="qH5VV8In" text="Leather Villagers Tunic"/>
-    <string id="QtuZSbG9" text="Feathered Spangenhelm Over Coif"/>
-    <string id="QzAvlan7" text="Short Padded Robe"/>
+    <string id="PtfbqMeg" text="{.FI}Бригандина{.nn} поверх кольчуги"/>
+    <string id="Qd0tQLpA" text="Клепаная{.aj} кожаная{.aj} {.FI}броня{.nn}"/>
+    <string id="qH5VV8In" text="Кожаная{.aj} {.FI}блуза{.nn} жителя деревни"/>
+    <string id="QtuZSbG9" text="Каркасный шлем с перьями поверх койфа"/>
+    <string id="QzAvlan7" text="Короткое{.aj} {.NI}одеяние{.nn} с подкладом"/>
     <string id="ROlomxau" text="Heavy Brass Lamellar Over Mail"/>
-    <string id="rSEXAMUx" text="Legionary Helm"/>
-    <string id="S1XL4KJh" text="Luxury Thick Coat"/>
-    <string id="sAml91Z3" text="Luxury Brigandine"/>
-    <string id="T2POVRtg" text="Auxiliary Armor With Straps"/>
-    <string id="tG1Q8r2u" text="Lancer Lamellar Armor"/>
-    <string id="TwuAVsCn" text="Fur Cap"/>
-    <string id="UC2XfY7V" text="Cloth Hood"/>
-    <string id="v4THTk5O" text="Kaftan With Leather Belt"/>
-    <string id="vCywYDmp" text="Light Padded Armor"/>
-    <string id="veB9S1OI" text="Agile Dale Pony"/>
-    <string id="vimhFdZp" text="Heavy Nasalhelm Over Leather"/>
-    <string id="VkRIefyW" text="Luxury Scale Armor"/>
-    <string id="VQSdhQE3" text="Heavy Scale Armor Over Mail Hauberk"/>
-    <string id="w4RuDABQ" text="Coat Of Plates"/>
-    <string id="W58TN2g5" text="Varyag Tunic"/>
-    <string id="wE7RWmIF" text="Boarskin Leather Coat"/>
-    <string id="WLJOnehi" text="Reinforced Thick Tunic"/>
-    <string id="wWqavjat" text="Light Long Padded Armor"/>
-    <string id="x3lcf2Do" text="Luxury Lamellar Vest Over Leather"/>
-    <string id="XiwTesky" text="Silk Kaftan"/>
-    <string id="XkL1Re8b" text="Studded Leather Coat"/>
-    <string id="XNQPPIaA" text="Infantryman's Gambeson Over Leather Jacket"/>
-    <string id="XNW3zyfZ" text="Warlords Scale Armor"/>
-    <string id="xQUi0F0k" text="Striped Coat"/>
-    <string id="YxglkaXU" text="White Tabard Over Mail Hauberk"/>
-    <string id="z7oMeRl3" text="Thick Brigandine Vest"/>
-    <string id="ZOa7p47T" text="Stapped Curved Boots"/>
-    <string id="ZqTFQeai" text="Leather Tunic"/>
-    <string id="0LoGEHxz" text="Desert Mail Coif"/>
-    <string id="1iS91QJH" text="Battanian Two Handed Sword"/>
-    <string id="20moIxs1" text="Kettle over Laced Coif"/>
-    <string id="2FwUtU6h" text="Sturgian Throwing Axe"/>
-    <string id="2PN7ddKx" text="Great Spear"/>
-    <string id="2u4RneKh" text="Northlander Belted Tunic"/>
-    <string id="3aPKkyd2" text="Vlandian Short Sword"/>
-    <string id="3c3uqW3d" text="Battanian Short Sword"/>
-    <string id="4iqTIpAs" text="Noble Helmet with Fur"/>
-    <string id="4OT8Re4a" text="Desert Common Harness"/>
-    <string id="6eO6QDoE" text="Sturgian Heavy Lance"/>
-    <string id="8dvj7xik" text="Sturgian Sword"/>
-    <string id="8frVbv2b" text="Northlander Lamellar Shoulders"/>
-    <string id="8nuXQ9F9" text="Fur Coat"/>
-    <string id="9aVMFixc" text="Sturgian Long Lance"/>
-    <string id="abGJeb3q" text="Sturgian Lamellar Armor"/>
-    <string id="aDEjwU8L" text="Woodsplitter Axe"/>
-    <string id="aDeVl2EL" text="Sturgian Javelin"/>
-    <string id="Ae9L1a9g" text="Maul"/>
-    <string id="AHel76R6" text="Khuzait Heavy Mace"/>
-    <string id="aoPbMKwB" text="Feathered Spangenhelm over Mail"/>
-    <string id="aR1Tl119" text="Courser Boots"/>
-    <string id="arabgbEK" text="Battanian Cavalry Sword"/>
-    <string id="aT7w4Npp" text="Battanian Spiked Mace"/>
-    <string id="b0pyML1S" text="Sturgian Spear"/>
-    <string id="b5dkMbBp" text="Sturgian Short Spear"/>
-    <string id="bAXuK5eG" text="Aserai Lamellar Armor"/>
-    <string id="bcnknjPD" text="Battanian Mace"/>
-    <string id="bkg0kWHH" text="Khuzait Infantry Club"/>
-    <string id="BlTREYCY" text="Guarded Lord Helmet"/>
-    <string id="bMUPPn6N" text="Vlandian Lance"/>
-    <string id="bOPllY2F" text="Sturgian Cavalry Sword"/>
-    <string id="brmba4ca" text="Light Javelin"/>
-    <string id="btoJTO9G" text="Raider Axe"/>
-    <string id="BwOZwFxm" text="Aserai Pike"/>
-    <string id="bYxnCJjq" text="Infantryman Gambeson"/>
-    <string id="bZ0aUz2b" text="Aserai Heavy Mace"/>
-    <string id="C077yplu" text="Decorated Khuzait Shield"/>
-    <string id="c1a5Pt8j" text="Bronze Nasalhelm over Mail"/>
-    <string id="c6dK068V" text="Khuzait Long Lance"/>
-    <string id="cBZ6OlKW" text="Javelin"/>
-    <string id="CEk1LX84" text="Sturgian Long Spear"/>
-    <string id="cjHygHb0" text="Spiked Kettle over Padding"/>
-    <string id="CuZ2eWxn" text="Battanian Bastard Sword"/>
-    <string id="cVYVpeBS" text="Raider Helmet over Mail"/>
-    <string id="DxRrAuRo" text="Battanian Spear"/>
-    <string id="e0SDWwmU" text="Sturdy Steppe Armor"/>
-    <string id="Eb106Xg8" text="Sturgian Short Sword"/>
-    <string id="eEMgc7yU" text="Battanian Reinforced Large Shield"/>
-    <string id="Ejx5lXjk" text="Sturgian Chaser"/>
-    <string id="EPehLvzV" text="Imperial Javelin"/>
-    <string id="eso5zk60" text="Aserai Lord Helmet"/>
-    <string id="ESvxcn8T" text="Decorated Helmet with Open Mail Coif"/>
-    <string id="FxnFBhrF" text="Cavalry Kite Shield"/>
-    <string id="Gbfot0SN" text="Aserai Cavalry Mace"/>
-    <string id="GEHTam8H" text="Battanian Scout Shield"/>
-    <string id="GFKPrrb8" text="Aserai Noble Helmet"/>
-    <string id="gfvG04SP" text="Desert Leather Shoulderpad"/>
-    <string id="gXu0brD7" text="Vlandian Axe"/>
-    <string id="h5IlkYck" text="Heavy Coat"/>
-    <string id="H8SuI8bC" text="Long Arming Sword"/>
-    <string id="hF11nBki" text="Vlandian Cavalry Sword"/>
-    <string id="HFIsOSHl" text="Raider Twohanded Axe"/>
-    <string id="HKPCngu0" text="Raider Cavalry Axe"/>
-    <string id="Hm7D4Z6v" text="Northlander Ring Barding"/>
-    <string id="Hy4uQ7d5" text="Vlandian Cavalry Mace"/>
-    <string id="I1ZBVhON" text="Steppe Studded Shoulders"/>
-    <string id="Ia7K4egV" text="Lordly Helmet"/>
-    <string id="IH9GsYzv" text="Baggy Trousers"/>
-    <string id="ihN5JZ9h" text="Nasalhelm over Leather"/>
-    <string id="inquCxkd" text="Aserai Spear"/>
-    <string id="inr9Mt1i" text="Khuzait Lance"/>
-    <string id="inYBaDwu" text="Iron Feathered Spangenhelm over Mail"/>
-    <string id="Is7j0Ir8" text="Battanian Noble Two Handed Sword"/>
-    <string id="ISQ0cdOc" text="Heavy Nasalhelm over Mail"/>
-    <string id="it3sDnGw" text="Sturgian Round Shield"/>
-    <string id="ITKKkoXI" text="Raider Heavy Axe"/>
-    <string id="IWv37ncp" text="Northlander Light Harness"/>
-    <string id="JW1mE68R" text="Layered Desert Robe"/>
-    <string id="jy1VQ7Yg" text="Khuzait Cavalry Mace"/>
-    <string id="KD4pxN2C" text="Aserai Noble Sword"/>
-    <string id="l2pEOHk6" text="Aserai Axe"/>
-    <string id="LI3rc6S2" text="Aserai Throwing Axe"/>
-    <string id="lPeLZge5" text="Armored Baggy Trousers"/>
-    <string id="lxDZyKbU" text="Aserai Heavy Lance"/>
-    <string id="LyaWykYa" text="Noble Helmet with Neckguard"/>
-    <string id="Mbf8qAxs" text="Long Twohanded Axe"/>
-    <string id="MChutiV6" text="Roundkettle over Cloth"/>
-    <string id="MS1gaKXk" text="Battanian Throwing Axe"/>
-    <string id="ms4AKynl" text="Plated Boots"/>
-    <string id="mStaaxFF" text="Desert Ringmail Shoulder"/>
-    <string id="mTsEaNKb" text="Fur Cloak"/>
-    <string id="n21mBbbR" text="Bill"/>
-    <string id="nbjUGjaZ" text="Sturgian Horseman Shield"/>
-    <string id="Nk7bQUWJ" text="Aserai Two Handed Sword"/>
-    <string id="Np2OoVNd" text="Sturgian Light Mace"/>
-    <string id="OdsXaOjG" text="Khuzait Arrow"/>
-    <string id="oeE1E3FJ" text="Vlandian Bastard Sword"/>
-    <string id="OnpIGPEG" text="Battanian Large Bronze Shield"/>
-    <string id="oppGd4nH" text="Round Khuzait Shield"/>
-    <string id="Oyeu738O" text="Northlander Lord Helmet"/>
-    <string id="p2gPB04v" text="Steppe Leather Pauldron"/>
-    <string id="PPpvY6BZ" text="Khuzait Cavalry Shield"/>
-    <string id="pTtFr5Iw" text="Vlandian Military Sickle"/>
-    <string id="PxVFJaEM" text="Crowned Plated Helmet"/>
-    <string id="QcCC59DA" text="Studded Strip Shoulders"/>
-    <string id="QCOWP3E9" text="Steppe Raider Helmet"/>
-    <string id="qFV7uqVW" text="Infantry Spear"/>
-    <string id="RGwcnlmQ" text="Two Handed Woodcutter Axe"/>
-    <string id="RIswqnuJ" text="Goggled Helmet"/>
-    <string id="rLFdje27" text="Khuzait Short Spear"/>
-    <string id="rysPCUOp" text="Northlander Helmet"/>
-    <string id="s03kaATW" text="Khuzait Spear"/>
-    <string id="SZmyhMO2" text="Battanian Cavalry Shield"/>
-    <string id="t68bkisr" text="Hammer"/>
-    <string id="TB6NGI82" text="Tribal Khuzait Shield"/>
-    <string id="TSwgWEPv" text="Infantry Long Spear"/>
-    <string id="tYmOCuuQ" text="Roundkettle over Mail"/>
-    <string id="UHItyOQY" text="Steppe Studded Leather"/>
-    <string id="ujB7Eq9S" text="Aserai Mace"/>
-    <string id="UkR3F9lV" text="Vlandian Noble Sword"/>
-    <string id="uwkGsgxJ" text="Khuzait Throwing Spear"/>
-    <string id="uxVG86DF" text="Khuzait Long Spear"/>
-    <string id="vmJLhccb" text="Decorated Helmet"/>
-    <string id="VTMc9pMS" text="Battanian Longsword"/>
-    <string id="wD3Yuvfc" text="Steppe Stitched Leather"/>
-    <string id="wwAFqJE3" text="Arming Sword"/>
-    <string id="WyxIVvhe" text="Aserai Oval Shield"/>
-    <string id="x1kf94SW" text="Ridged Helm"/>
-    <string id="XcWJyWlF" text="Vlandian Mace"/>
-    <string id="xn5CfwON" text="Padded Warrior Shoulders"/>
-    <string id="xYC1bkr7" text="Sturgian Kite Shield"/>
-    <string id="XzoyPCvS" text="Khuzait Pike"/>
-    <string id="Y7wtGUKA" text="Sturgian Heavy Javelin"/>
-    <string id="y9uZrJv2" text="Sturgian Warlord Helmet"/>
-    <string id="YHWqNIYu" text="Battanian Javelin"/>
-    <string id="ykCJ3hDB" text="Studded Neckguard"/>
-    <string id="ys3kQM0R" text="Imperial Lamellar Armor"/>
-    <string id="Z9Kx7dOV" text="Vlandian Scale Mail"/>
-    <string id="Zo7jJbQj" text="Desert Helmet with Mail"/>
-    <string id="zoTMJFHK" text="Short Sickle"/>
+    <string id="rSEXAMUx" text="{.FI}Шлем{.nn} легионера"/>
+    <string id="S1XL4KJh" text="Роскошная{.aj} толстая{.aj} {.FI}куртка{.nn}"/>
+    <string id="sAml91Z3" text="Роскошная{.aj} {.FI}бригандина{.nn}"/>
+    <string id="T2POVRtg" text="{.FI}Дополнительная{.aj} {.FI}броня{.nn} с ремешками"/>
+    <string id="tG1Q8r2u" text="Пластинчатая{.aj} {.FI}броня{.nn} ланцера"/>
+    <string id="TwuAVsCn" text="Меховая{.aj} {.FI}шапка{.nn}"/>
+    <string id="UC2XfY7V" text="Тканевый{.aj} {.MI}капюшон{.nn}"/>
+    <string id="v4THTk5O" text="{.MI}Кафтан{.nn} с кожаным поясом"/>
+    <string id="vCywYDmp" text="Легкая{.aj} {.FI}броня{.nn} с подкладом"/>
+    <string id="veB9S1OI" text="Проворный дейл-пони"/>
+    <string id="vimhFdZp" text="Тяжелый{.aj} носатый{.aj} {.MI}шлем{.nn} поверх кожи"/>
+    <string id="VkRIefyW" text="Роскошная{.aj} чешуйчатая{.aj} {.FI}броня{.nn}"/>
+    <string id="VQSdhQE3" text="Тяжелая{.aj} чешуйчатая{.aj} {.FI}броня{.nn} поверх кольчужного хауберка"/>
+    <string id="w4RuDABQ" text="Пластинчатая{.aj} {.FI}куртка{.nn}"/>
+    <string id="W58TN2g5" text="{.FI}Блуза{.nn} варяга"/>
+    <string id="wE7RWmIF" text="{.FI}Куртка{.nn} из шкуры кабана"/>
+    <string id="WLJOnehi" text="Укрепленная{.aj} плотная{.aj} {.FI}блуза{.nn}"/>
+    <string id="wWqavjat" text="Легкая{.aj} длинная{.aj} {.FI}броня{.nn} с подкладом"/>
+    <string id="x3lcf2Do" text="Роскошный{.aj} пластинчатый{.aj} {.MI}жилет{.nn} поверх кожи"/>
+    <string id="XiwTesky" text="Шелковый{.aj} {.MI}кафтан{.nn}"/>
+    <string id="XkL1Re8b" text="Клепаная{.aj} кожаная{.aj} {.FI}куртка{.nn}"/>
+    <string id="XNQPPIaA" text="{.MI}Гамбезон{.nn} пешего воина поверх кожаной куртки"/>
+    <string id="XNW3zyfZ" text="Чешуйчатая{.aj} {.FI}броня{.nn} полководца"/>
+    <string id="xQUi0F0k" text="{.FI}Куртка{.nn} с накладками"/>
+    <string id="YxglkaXU" text="Белый{.aj} {.MI}камзол{.nn} поверх кольчужного хауберка"/>
+    <string id="z7oMeRl3" text="Толстый{.aj} {.MI}жилет{.nn}-{.FI}бригандина{.nn}"/>
+    <string id="ZOa7p47T" text="Сапоги с накладками с фигурным верхом"/>
+    <string id="ZqTFQeai" text="Кожаная{.aj} {.FI}блуза{.nn}"/>
+    <string id="0LoGEHxz" text="Кольчужный койф пустынника"/>
+    <string id="1iS91QJH" text="Баттанский двуручный меч"/>
+    <string id="20moIxs1" text="{.MI}Шлем{.nn} поверх шнурованного койфа"/>
+    <string id="2FwUtU6h" text="Стургийский метательный топор"/>
+    <string id="2PN7ddKx" text="Большое копье"/>
+    <string id="2u4RneKh" text="Северная блуза с поясом"/>
+    <string id="3aPKkyd2" text="Вландийский короткий меч"/>
+    <string id="3c3uqW3d" text="Баттанский короткий меч"/>
+    <string id="4iqTIpAs" text="Шлем знати на меху"/>
+    <string id="4OT8Re4a" text="Простая упряжь пустынника"/>
+    <string id="6eO6QDoE" text="Стургийский тяжелый ланец"/>
+    <string id="8dvj7xik" text="Стургийский меч"/>
+    <string id="8frVbv2b" text="Северные пластинчатые наплечники"/>
+    <string id="8nuXQ9F9" text="Меховая куртка"/>
+    <string id="9aVMFixc" text="Стургийский длинный ланец"/>
+    <string id="abGJeb3q" text="Стургийская пластинчатая броня"/>
+    <string id="aDEjwU8L" text="Топор дровосека"/>
+    <string id="aDeVl2EL" text="Стургийский дротик"/>
+    <string id="Ae9L1a9g" text="Кувалда"/>
+    <string id="AHel76R6" text="Хузаитская тяжелая булава"/>
+    <string id="aoPbMKwB" text="Каркасный{.aj} {.MI}шлем{.nn} с перьями поверх кольчуги"/>
+    <string id="aR1Tl119" text="Сапоги налетчика"/>
+    <string id="arabgbEK" text="Баттанский меч всадника"/>
+    <string id="aT7w4Npp" text="Баттанская шипованная булава"/>
+    <string id="b0pyML1S" text="Стургийское копье"/>
+    <string id="b5dkMbBp" text="Стургийское короткое копье"/>
+    <string id="bAXuK5eG" text="Асерайская пластинчатая броня"/>
+    <string id="bcnknjPD" text="Баттанская булава"/>
+    <string id="bkg0kWHH" text="Хузаитская дубина пешего воина"/>
+    <string id="BlTREYCY" text="Укрепленный шлем лорда"/>
+    <string id="bMUPPn6N" text="Вландийский ланец"/>
+    <string id="bOPllY2F" text="Стургийский меч всадника"/>
+    <string id="brmba4ca" text="Легкий дротик"/>
+    <string id="btoJTO9G" text="Топор налетчика"/>
+    <string id="BwOZwFxm" text="Асерайская пика"/>
+    <string id="bYxnCJjq" text="Гамбезон пешего воина"/>
+    <string id="bZ0aUz2b" text="Асерайская тяжелая булава"/>
+    <string id="C077yplu" text="Хузаитский украшенный щит"/>
+    <string id="c1a5Pt8j" text="Бронзовый носатый шлем поверх кольчуги"/>
+    <string id="c6dK068V" text="Хузаитский длинный ланец"/>
+    <string id="cBZ6OlKW" text="Дротик"/>
+    <string id="CEk1LX84" text="Стургийское длинное копье"/>
+    <string id="cjHygHb0" text="Шипастый круглый шлем поверх мягкой ткани"/>
+    <string id="CuZ2eWxn" text="Баттанский полуторный меч"/>
+    <string id="cVYVpeBS" text="Шлем налетчика поверх кольчуги"/>
+    <string id="DxRrAuRo" text="Баттанское копье"/>
+    <string id="e0SDWwmU" text="Степная крепкая броня"/>
+    <string id="Eb106Xg8" text="Стургийский короткий меч"/>
+    <string id="eEMgc7yU" text="Баттанский укрепленный большой щит"/>
+    <string id="Ejx5lXjk" text="Стургийская{.aj} скаковая{.aj} {.FA}лошадь{.nn}"/>
+    <string id="EPehLvzV" text="Имперский дротик"/>
+    <string id="eso5zk60" text="Асерайский шлем лорда"/>
+    <string id="ESvxcn8T" text="Украшенный шлем с открытым кольчужным койфом"/>
+    <string id="FxnFBhrF" text="Каплевидный{.aj} {.MI}щит{.nn} всадника"/>
+    <string id="Gbfot0SN" text="Асерайская булава всадника"/>
+    <string id="GEHTam8H" text="Баттанский щит разведчика"/>
+    <string id="GFKPrrb8" text="Асерайский шлем знати"/>
+    <string id="gfvG04SP" text="Кожаные наплечники пустынника"/>
+    <string id="gXu0brD7" text="Вландийский топор"/>
+    <string id="h5IlkYck" text="Тяжелая куртка"/>
+    <string id="H8SuI8bC" text="Длинный рыцарский меч"/>
+    <string id="hF11nBki" text="Вландийский меч всадника"/>
+    <string id="HFIsOSHl" text="Двуручный топор налетчика"/>
+    <string id="HKPCngu0" text="Топор всадника-налетчика"/>
+    <string id="Hm7D4Z6v" text="Северная кольчужная броня"/>
+    <string id="Hy4uQ7d5" text="Вландийская булава всадника"/>
+    <string id="I1ZBVhON" text="Степные клепаные наплечники"/>
+    <string id="Ia7K4egV" text="Роскошный шлем"/>
+    <string id="IH9GsYzv" text="Широкие бриджи"/>
+    <string id="ihN5JZ9h" text="Носатый шлем поверх кожи"/>
+    <string id="inquCxkd" text="Асерайское копье"/>
+    <string id="inr9Mt1i" text="Хузаитский ланец"/>
+    <string id="inYBaDwu" text="Железный каркасный шлем с перьями поверх кольчуги"/>
+    <string id="Is7j0Ir8" text="Баттанский двуручный меч знати"/>
+    <string id="ISQ0cdOc" text="Тяжелый{.aj} носатый{.aj} {.MI}шлем{.nn} поверх кольчуги"/>
+    <string id="it3sDnGw" text="Стургийский круглый щит"/>
+    <string id="ITKKkoXI" text="Тяжелый топор налетчика"/>
+    <string id="IWv37ncp" text="Северная легкая упряжь"/>
+    <string id="JW1mE68R" text="Многослойное одеяние пустынника"/>
+    <string id="jy1VQ7Yg" text="Хузаитская булава всадника"/>
+    <string id="KD4pxN2C" text="Асерайский меч знати"/>
+    <string id="l2pEOHk6" text="Асерайский топор"/>
+    <string id="LI3rc6S2" text="Асерайский метательный топор"/>
+    <string id="lPeLZge5" text="Укрепленные широкие бриджи"/>
+    <string id="lxDZyKbU" text="Асерайский тяжелый ланец"/>
+    <string id="LyaWykYa" text="Шлем знати с воротом"/>
+    <string id="Mbf8qAxs" text="Длинный двуручный топор"/>
+    <string id="MChutiV6" text="Круглый{.aj} {.MI}шлем{.nn} поверх ткани"/>
+    <string id="MS1gaKXk" text="Баттанский метательный топор"/>
+    <string id="ms4AKynl" text="Латные сапоги"/>
+    <string id="mStaaxFF" text="Кольчужные наплечники пустынника"/>
+    <string id="mTsEaNKb" text="Меховой плащ"/>
+    <string id="n21mBbbR" text="Алебарда"/>
+    <string id="nbjUGjaZ" text="Стургийский щит всадника"/>
+    <string id="Nk7bQUWJ" text="Асерайский двуручный меч"/>
+    <string id="Np2OoVNd" text="Стургийская легкая булава"/>
+    <string id="OdsXaOjG" text="Хузаитская стрела"/>
+    <string id="oeE1E3FJ" text="Вландийский полуторный меч"/>
+    <string id="OnpIGPEG" text="Баттанский бронзовый большой щит"/>
+    <string id="oppGd4nH" text="Хузаитский круглый щит"/>
+    <string id="Oyeu738O" text="Северный шлем лорда"/>
+    <string id="p2gPB04v" text="Степное кожаное оплечье"/>
+    <string id="PPpvY6BZ" text="Хузаитский щит всадника"/>
+    <string id="pTtFr5Iw" text="Вландийский армейский серп"/>
+    <string id="PxVFJaEM" text="Пластинчатый шлем с венцом"/>
+    <string id="QcCC59DA" text="Клепаные узкие наплечники"/>
+    <string id="QCOWP3E9" text="Степной шлем налетчика"/>
+    <string id="qFV7uqVW" text="Копье пешего воина"/>
+    <string id="RGwcnlmQ" text="Двуручный топор дровосека"/>
+    <string id="RIswqnuJ" text="Шлем со щитком"/>
+    <string id="rLFdje27" text="Хузаитское короткое копье"/>
+    <string id="rysPCUOp" text="Северный шлем"/>
+    <string id="s03kaATW" text="Хузаитское копье"/>
+    <string id="SZmyhMO2" text="Баттанский щит всадника"/>
+    <string id="t68bkisr" text="Молот"/>
+    <string id="TB6NGI82" text="Хузаитский племенной щит"/>
+    <string id="TSwgWEPv" text="Длинное копье пешего воина"/>
+    <string id="tYmOCuuQ" text="Круглый{.aj} {.MI}шлем{.nn} поверх кольчуги"/>
+    <string id="UHItyOQY" text="Степная клепаная кожаная броня"/>
+    <string id="ujB7Eq9S" text="Асерайская булава"/>
+    <string id="UkR3F9lV" text="Вландийский меч знати"/>
+    <string id="uwkGsgxJ" text="Хузаитское метательное копье"/>
+    <string id="uxVG86DF" text="Хузаитское длинное копье"/>
+    <string id="vmJLhccb" text="Украшенный шлем"/>
+    <string id="VTMc9pMS" text="Баттанский длинный меч"/>
+    <string id="wD3Yuvfc" text="Степной стеганый кожаный доспех"/>
+    <string id="wwAFqJE3" text="Рыцарский меч"/>
+    <string id="WyxIVvhe" text="Асерайский овальный щит"/>
+    <string id="x1kf94SW" text="Ребристый{.aj} {.MI}шлем{.nn}"/>
+    <string id="XcWJyWlF" text="Вландийская булава"/>
+    <string id="xn5CfwON" text="Воинские наплечники с подкладом"/>
+    <string id="xYC1bkr7" text="Стургийский каплевидный щит"/>
+    <string id="XzoyPCvS" text="Хузаитская пика"/>
+    <string id="Y7wtGUKA" text="Стургийский тяжелый дротик"/>
+    <string id="y9uZrJv2" text="Стургийский шлем полководца"/>
+    <string id="YHWqNIYu" text="Баттанский дротик"/>
+    <string id="ykCJ3hDB" text="Клепаный ворот"/>
+    <string id="ys3kQM0R" text="Имперская пластинчатая броня"/>
+    <string id="Z9Kx7dOV" text="Вландийская чешуйчатая кольчуга"/>
+    <string id="Zo7jJbQj" text="Шлем пустынника поверх кольчуги"/>
+    <string id="zoTMJFHK" text="Короткий серп"/>
   </strings>
 </base>

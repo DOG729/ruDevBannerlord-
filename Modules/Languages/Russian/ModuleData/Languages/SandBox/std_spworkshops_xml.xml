@@ -38,7 +38,7 @@
     <string id="VHLUHBaT" text="Ремесленники"/>
     <string id="wCuAxt4m" text="Продавец оливкового масла"/>
     <string id="wLTQpbIM" text="Гончар"/>
-    <string id="silversmithworker" text="Silversmith"/>
-    <string id="silversmithworkshop" text="Silversmith"/>
+    <string id="silversmithworker" text="Серебряник"/>
+    <string id="silversmithworkshop" text="Серебряная мастерская"/>
   </strings>
 </base>

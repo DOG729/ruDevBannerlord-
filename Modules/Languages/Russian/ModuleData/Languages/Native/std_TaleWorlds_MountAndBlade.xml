@@ -39,20 +39,20 @@
     <string id="EgTUzWUz" text="Имя не может быть пустым!"/>
     <string id="oZrVNUOk" text="ошибка"/>
     <string id="MbXatV1Q" text="Отключен"/>
-    <string id="oPOa77dI" text="Logged out of platform"/>
-    <string id="0B27RrYJ" text="Battania"/>
-    <string id="1nKa4pQX" text="Rest of the game content has been downloaded."/>
-    <string id="8OkPHu4f" text="No"/>
-    <string id="aeouhelq" text="Yes"/>
-    <string id="aseraifaction" text="Aserai"/>
-    <string id="BFhMw4bl" text="Rest of the game content has been downloaded. Do you want to return to the main menu?"/>
-    <string id="CaSafuAH" text="Content Download Complete"/>
-    <string id="empirefaction" text="Empire"/>
-    <string id="FjwRsf1C" text="Vlandia"/>
-    <string id="ljHPjjmX" text="Could not invite player to the game"/>
-    <string id="PjO7oY16" text="Sturgia"/>
-    <string id="sZLd6VHi" text="Khuzait"/>
-    <string id="XvSRoOzM" text="Recently Played Players"/>
-    <string id="yS7PvrTD" text="OK"/>
+    <string id="oPOa77dI" text="Вход на платформе не выполнен"/>
+    <string id="0B27RrYJ" text="{.FI}Баттания"/>
+    <string id="1nKa4pQX" text="Остальные материалы игры загружены."/>
+    <string id="8OkPHu4f" text="Нет"/>
+    <string id="aeouhelq" text="Да"/>
+    <string id="aseraifaction" text="{.MI}Султанат{.nn} асераев"/>
+    <string id="BFhMw4bl" text="Остальные материалы игры загружены. Вернуться в главное меню?"/>
+    <string id="CaSafuAH" text="Загрузка материалов завершена"/>
+    <string id="empirefaction" text="{.FI}Империя"/>
+    <string id="FjwRsf1C" text="{.FI}Вландия"/>
+    <string id="ljHPjjmX" text="Не удалось пригласить игрока в игру"/>
+    <string id="PjO7oY16" text="{.FI}Стургия"/>
+    <string id="sZLd6VHi" text="{.MA}Хузаиты{.nnp}"/>
+    <string id="XvSRoOzM" text="Игроки, с которыми вы недавно играли"/>
+    <string id="yS7PvrTD" text="ОК"/>
   </strings>
 </base>

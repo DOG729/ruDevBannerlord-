@@ -297,10 +297,10 @@
     <string id="Gwba5yPA" text="Стургианский тяжелый топорщик"/>
     <string id="J6Yksji5" text="Конный грабитель"/>
     <string id="Sc1d2lsH" text="Стургианский разрушитель строя"/>
-    <string id="5VBPoGYO" text="Aserai Light Archer"/>
-    <string id="BlZK3wDN" text="Flame"/>
-    <string id="ghilmanUnit" text="Ghilman"/>
-    <string id="UsvCnAS7" text="Blaze"/>
-    <string id="xJ4koSsx" text="Spark"/>
+    <string id="5VBPoGYO" text="Асерайский легкий лучник"/>
+    <string id="BlZK3wDN" text="Пламя"/>
+    <string id="ghilmanUnit" text="Гулямы"/>
+    <string id="UsvCnAS7" text="Вспышка"/>
+    <string id="xJ4koSsx" text="Искра"/>
   </strings>
 </base>

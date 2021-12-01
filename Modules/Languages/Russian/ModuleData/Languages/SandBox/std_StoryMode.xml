@@ -694,55 +694,55 @@
     <string id="Cl4xi6Be" text="Наконец, вам нужна столица. Подойдёт любое поселение, если его жители говорят на Имперском языке."/>
     <string id="cLZWjrZP" text="Они перебрались в другое укрытие."/>
     <string id="DaBN0O7N" text="Вам не удалось вовремя разгромить все отряды налётчиков. Многие местные жители считают, что вы навлекли на них несчастье, и не хотят иметь с вами ничего общего."/>
-    <string id="Db63Pe03" text="You have defeated the caravan and acquired its supplies, {MENTOR.LINK} {OTHER_MENTOR.LINK}'s allies will not have their weapons. This will give us time and resources to prepare."/>
-    <string id="dbLb3krw" text="Hunt the gangs of {RAIDER_NAME}"/>
-    <string id="DfiACGay" text="Destroy Raiders"/>
-    <string id="dPb2Vph3" text="My informants will tell me once you pledged your support..."/>
-    <string id="Dr63pCHt" text="{MENTOR.LINK} has sent you a message; about bandit attacks near {TARGET_SETTLEMENT} and advised you to go there and eliminate them all before their actions provoke the locals against your movement. "/>
-    <string id="DuUhVWaV" text="Let me tell you about myself... I was a confidant of the old emperor Neretzes. Officially I was not his spymaster, as I am a woman, but that was the role I played nonetheless. I liked Neretzes, and was very grateful for his trust, but he was not a good emperor. Too stubborn and principled. I probably should have poisoned him."/>
+    <string id="Db63Pe03" text="Вы победили охрану каравана и забрали его груз. Союзники {OTHER_MENTOR.LINK}{.g} не получат оружие. Теперь у нас есть больше времени и припасов для воплощения нашего плана."/>
+    <string id="dbLb3krw" text="Преследовать {._}{RAIDER_NAME}{.g}"/>
+    <string id="DfiACGay" text="Уничтожить налетчиков"/>
+    <string id="dPb2Vph3" text="Соглядатаи сообщат, когда вы окажете обещанную помощь..."/>
+    <string id="Dr63pCHt" text="Вы получили послание от {MENTOR.LINK}{.g} об участившихся нападениях разбойников возле {TARGET_SETTLEMENT}{.g}. Вам следует отправиться туда и уничтожить все разбойничьи банды, пока недовольные ими местные жители не подняли мятеж. "/>
+    <string id="DuUhVWaV" text="Теперь обо мне... Я была доверенным лицом старого императора Неретцеса. Официально женщина не могла стать главой его шпионов, но, по сути, именно этим я и занималась. Мне нравился Неретцес, и я была благодарна ему за доверие, но хорошим императором он не был. Слишком много упрямства и принципов. Пожалуй, мне стоило его отравить."/>
     <string id="eozrx6Ph" text="Elite {BANDIT_PARTY_NAME}"/>
-    <string id="EV5ykPuT" text="You and your men were defeated by {BOSS_NAME} and his conspirators. Rest of your men finds your broken body among the bloodied pile of corpses. Yet you live to fight another day."/>
-    <string id="eVzg5Mtl" text="Conspiracy Caravan"/>
-    <string id="f3NvtzpE" text="Conspiracy Quest Available"/>
-    <string id="frk7T3ue" text="It will not be easy, but I can explain in detail..."/>
-    <string id="FRSas4xT" text="Conspiracy Troops"/>
-    <string id="fUcwKbW8" text="If I win I will just kill you and let these poor excuses you call conspirators run away."/>
-    <string id="GDNXavAl" text="There's nothing special about our Empire. Any one of these petty kings and khans and sultans could probably get lucky and conquer Calradia and do as good a job ruling it as we did. But the point is - we already did it. Our greatest crimes are in the past. Let us not undo what has already been done."/>
-    <string id="H2FMIJmw" text="My wolves! Kill them!"/>
-    <string id="IPP6MKfy" text="{MENTOR.LINK} notified you about a weapons caravan that will supply conspirators with weapons and armour."/>
-    <string id="izCbZEZg" text="Conspiracy Commander{%Commander is male.}"/>
-    <string id="JvqBb6ye" text="You barely escaped with your life."/>
-    <string id="karjORwI" text="To hell with that! Why would I want to duel with you?"/>
-    <string id="LfH7VXDH" text="You have eliminated all {RAIDER_NAME} gangs in the vicinity."/>
-    <string id="LKiREaFZ" text="You have defeated {BOSS_NAME} in a fair duel his men the conspirators scatters and runs away in shame."/>
-    <string id="LLJ0oB8i" text="Next, your clan's renown must have spread far and wide, or no one will take you seriously."/>
-    <string id="LXGXxKqw" text="Ah... Well, I suppose we can drop the charade. I know who sent you, and I suppose you know who sent me. Certainly, you can see my wares, and then you can feel their sharp end in your belly."/>
-    <string id="MJd5agS2" text="I would recommend that you gather a fairly large army, as you may soon be at war with more powerful and established realms."/>
-    <string id="MU2O1SaZ" text="There is an army waiting for you outside,"/>
-    <string id="nOLFHL3x" text="You and your men have defeated {BOSS_NAME} and the rest of the conspirators as {MENTOR.LINK} asked you to do."/>
-    <string id="nrdl5QaF" text="My spy spotted conspiracy troops at the camp.. Some local bandits have joined them. My spy does not know if they are expecting attack, so I implore you to be cautious and to be ready for anything. Needless to say, I'm sure you will send any documents you can find to me so I can study them. Go quickly and return safely."/>
-    <string id="qg05CSZb" text="You have defeated all the raiders near {MENTOR.LINK}. Many people now hope you can bring peace and prosperity back to the region."/>
-    <string id="rmyXSgy7" text="First, your clan must be independent. You cannot be pledged to an existing realm."/>
-    <string id="rTYNL1LB" text="{MENTOR.LINK} told you about a group of conspirators operating in a hideout in the vicinity of their {LOCATION_LINK}. You should go there and raid the hideout with a small group of fighters and take the bandits by surprise."/>
-    <string id="SVcr0EJM" text="Caravan is moving on to {FROM_SETTLEMENT_LINK} from {TO_SETTLEMENT_LINK}"/>
-    <string id="T7OTmJUp" text="{MENTOR.LINK} has a message for you"/>
-    <string id="tF6VeYaA" text="If you win, I promise my army won't crush you."/>
-    <string id="tJQ5oajd" text="Next, your clan must have won for itself considerable renown, or no one will follow you."/>
-    <string id="tkJD40hE" text="Well, that should keep you busy for a while. Come back when you are ready."/>
-    <string id="UdHL9YZC" text="Well well, isn't this the famous {PLAYER.LINK}! You have been a thorn at our side for a while now. It's good that you are here now. It spares us from searching for you.[if:idle_angry][ib:warrior]"/>
-    <string id="Uk7F483P" text="You were defeated by the {BOSS_NAME} in the duel. Your men takes your wounded body to the safety. As agreed, conspirators quickly leave and disappear without a trace."/>
-    <string id="US0VAHiE" text="You have eliminated a {RAIDER_NAME} party."/>
-    <string id="V5K8RpAa" text="{MENTOR.LINK}'s message: “Greetings, {PLAYER.NAME}. We have a new problem. I've had reports from my agents of unusual bandit activity near {TARGET_SETTLEMENT}. They appear to be raiding and killing travellers {?IS_EMPIRE}under the protection of the Empire{?}who aren't under the protection of the Empire{\?}, and leaving the others alone. This seems very much like the work of {NEMESIS_MENTOR.LINK}, to terrorize local merchants so that no one will stand up for our cause. I advise you to wipe these bandits out as quickly as possible. That would send a good message, both to our allies and our enemies.”"/>
-    <string id="WWcG7kPr" text="A 'buyer'? Think bigger than that. Let me just say that, if you can find the missing pieces, I am sure I can help you put it to good use."/>
-    <string id="XQrmVPKL" text="{PLAYER.LINK} I hope this letter finds you well. I have learned from a spy in {LOCATION_LINK} that our adversaries have set up a camp in its environs. She could not tell me what they plan to do, but if you raided the camp, stole some of their supplies, and brought it back to me, we could get some idea of their wicked intentions. Search around {LOCATION_LINK} to find the hideout."/>
+    <string id="EV5ykPuT" text="{BOSS_NAME} со своими заговорщиками разгромил вашу армию. Уцелевшие воины сумели вынести вас с поля боя. Вы тяжело ранены, но все-таки живы и можете продолжить борьбу."/>
+    <string id="eVzg5Mtl" text="Караван заговорщиков"/>
+    <string id="f3NvtzpE" text="Задание «Заговор»"/>
+    <string id="frk7T3ue" text="Это будет непросто, но я все объясню..."/>
+    <string id="FRSas4xT" text="Воины заговорщиков"/>
+    <string id="fUcwKbW8" text="После победы я убью тебя, а тот жалкий сброд, который ты зовешь заговорщиками, попросту разбежится."/>
+    <string id="GDNXavAl" text="В общем-то, в нашей Империи нет ничего особенного. Любой из этих жалких королей, ханов и султанов мог бы попытать счастья, завоевать Кальрадию и править ей не хуже нас. Важно другое: мы уже это сделали. Самые страшные из наших преступлений остались в прошлом. Так зачем позволять кому-то проходить этот путь заново?"/>
+    <string id="H2FMIJmw" text="Убейте их, мои волки!"/>
+    <string id="IPP6MKfy" text="{MENTOR.LINK} сообщает о караване, который везет заговорщикам оружие и доспехи."/>
+    <string id="izCbZEZg" text="Командир заговорщиков"/>
+    <string id="JvqBb6ye" text="Вы чудом уцелели."/>
+    <string id="karjORwI" text="К дьяволу! Зачем бы мне с тобой драться?"/>
+    <string id="LfH7VXDH" text="Вы уничтожили всех {._}{RAIDER_NAME}{.gp} в этой местности."/>
+    <string id="LKiREaFZ" text="Вы победили {BOSS_NAME}{.g} в честном поединке. Остальные заговорщики бежали с позором."/>
+    <string id="LLJ0oB8i" text="Теперь надо, чтобы о вашем клане узнали повсюду. Иначе вас не будут принимать всерьез."/>
+    <string id="LXGXxKqw" text="А... Ну, мы можем сразу перейти к делу. Я знаю, кто прислал вас, а вы, должно быть, знаете, кто прислал меня. Конечно же, я покажу вам свой товар, а потом вы сможете испытать его на своем брюхе."/>
+    <string id="MJd5agS2" text="Рекомендую собрать армию побольше: вас ждет война с более могущественными и богатыми державами."/>
+    <string id="MU2O1SaZ" text="Снаружи вас ждет армия,"/>
+    <string id="nOLFHL3x" text="Вы со своими воинами победили {BOSS_NAME}{.g} и остальных заговорщиков. Просьба {MENTOR.LINK}{.g} выполнена."/>
+    <string id="nrdl5QaF" text="Мои лазутчики обнаружили лагерь заговорщиков, к которым примкнули местные разбойники. Неизвестно, ждут ли они нападения, так что я советую вам быть начеку и готовиться к любым сюрпризам. Если найдете какие-то документы, пришлите их мне. Действуйте быстро и берегите себя."/>
+    <string id="qg05CSZb" text="Вы сокрушили всех налетчиков возле {MENTOR.LINK}{.g}. Местные жители исполнены надежды, что вы наконец принесете им мир и процветание."/>
+    <string id="rmyXSgy7" text="В первую очередь, ваш клан должен быть независимым. У вас не должно быть обязательств перед другими державами."/>
+    <string id="rTYNL1LB" text="{MENTOR.LINK} сообщает о группе заговорщиков, устроивших укрытие в окрестностях {LOCATION_LINK}{.g}. Попробуйте застать негодяев врасплох, напав на их логово с небольшим отрядом."/>
+    <string id="SVcr0EJM" text="Караван идет из {TO_SETTLEMENT_LINK}{.g} в {FROM_SETTLEMENT_LINK}{.a}"/>
+    <string id="T7OTmJUp" text="Вы получили послание от {MENTOR.LINK}{.g}"/>
+    <string id="tF6VeYaA" text="Если ты победишь, клянусь, моя армия тебя не тронет."/>
+    <string id="tJQ5oajd" text="Затем ваш клан должен приобрести определенную известность, иначе за ним никто не пойдет."/>
+    <string id="tkJD40hE" text="Ну, пока что вам есть чем заняться. Возвращайтесь, как будете готовы."/>
+    <string id="UdHL9YZC" text="Так-так, {PLAYER.LINK} собственной персоной! Ты уже давно нам досаждаешь. Хорошо, что ты здесь. Нам не придется тебя искать.[if:idle_angry][ib:warrior]"/>
+    <string id="Uk7F483P" text="{BOSS_NAME} победил вас на дуэли. Вы отправились залечивать раны, а заговорщики, как вы и договаривались, быстро исчезли в неизвестном направлении."/>
+    <string id="US0VAHiE" text="Вы уничтожили отряд {._}{RAIDER_NAME}{.gp}."/>
+    <string id="V5K8RpAa" text="Послание {MENTOR.LINK}{.g}: «Приветствую вас, {PLAYER.NAME}. У нас новые неприятности. Соглядатаи сообщают о необычном поведении разбойников в окрестностях {TARGET_SETTLEMENT}{.g}. Эти негодяи стали целенаправленно преследовать {?IS_EMPIRE}подданных Империи{?}путников, не связанных с Империей{\?}, обходя стороной всех остальных. Похоже, тут не обошлось без {NEMESIS_MENTOR.LINK}{.g}: эта нечестивая тварь хочет лишить нас поддержки, запугав местных торговцев. Советую вам истребить этих разбойников как можно быстрее. Это будет убедительным аргументом как для союзников, так и для врагов»."/>
+    <string id="WWcG7kPr" text="«Покупатель»? Берите выше. Если вам удастся отыскать недостающие лоскуты, я расскажу, как использовать его с выгодой."/>
+    <string id="XQrmVPKL" text="{PLAYER.LINK}! Надеюсь, вы получили это послание. Моя лазутчица из {LOCATION_LINK}{.g} передает, что наши враги устроили лагерь в ее краях. Она не знает об их планах, но если вы нападете на этот лагерь, похитите часть припасов и доставите их мне, мы сможем выяснить, чего хотят эти негодяи. Ищите их укрытие в окрестностях {LOCATION_LINK}{.g}."/>
     <string id="Xv0NbK3H" text="Hunt the elite {RAIDER_NAME} gang"/>
-    <string id="Xx94UrYe" text="I might be. What are you carrying? Honest goods, or weapons? How about you let us have a look."/>
-    <string id="y150haHv" text="Disrupt Supply Lines"/>
-    <string id="yCzcfKNM" text="Firstly, your clan must be independent. You cannot be pledged to an existing realm."/>
-    <string id="ZKdBlAmp" text="{MENTOR.LINK} has sent you a message; An arms caravan will be resupplying conspirators and insurgents will be soon on its way.{newline}{MENTOR.LINK}'s message:{newline}&quot;Our Spies have learned about an arms caravan which is out to supply conspirators with finest weapon and armours possible.We know that it will start it's route from {QUEST_FROM_SETTLEMENT_NAME} to {QUEST_TO_SETTLEMENT_NAME} in 5 days. We will find out and notify you about the new routes that it takes as and if it progresses.&quot;"/>
-    <string id="CnXA7oyE" text="Now, there are two paths that lie ahead of you, my child!"/>
+    <string id="Xx94UrYe" text="Возможно. Что вы везете: честный товар или оружие? Позволите взглянуть?"/>
+    <string id="y150haHv" text="Нарушить снабжение"/>
+    <string id="yCzcfKNM" text="Во-первых, ваш клан должен быть независимым. У вас не должно быть обязательств перед другими державами."/>
+    <string id="ZKdBlAmp" text="Вы получили послание от {MENTOR.LINK}{.g}. Караван с оружием для заговорщиков и мятежников скоро выступит.{newline}Послание:{newline}"Наши лазутчики узнали о караване, который везет заговорщикам превосходное оружие и доспехи. Он отправится из {QUEST_FROM_SETTLEMENT_NAME}{.g} в {QUEST_TO_SETTLEMENT_NAME}{.a} в течение пяти дней. Мы постараемся выяснить его дальнейший маршрут и сообщить вам подробности"."/>
+    <string id="CnXA7oyE" text="Теперь перед тобой лежат два пути, дитя мое!"/>
     <string id="kek1czyb" text="You prepare to set off with your brother on a mission of vengeance and rescue. Here is your character. Click finish if you are ready, or go back to make changes."/>
-    <string id="o791xRtb" text="Right then, to the business of bringing down this cursed Empire. As I see it, you have two options..."/>
-    <string id="Z9mcDuDi" text="Achievements are disabled!"/>
+    <string id="o791xRtb" text="Что ж, займемся делом и уничтожим проклятую Империю. Насколько я понимаю, у вас есть два варианта..."/>
+    <string id="Z9mcDuDi" text="Достижения отключены!"/>
   </strings>
 </base>

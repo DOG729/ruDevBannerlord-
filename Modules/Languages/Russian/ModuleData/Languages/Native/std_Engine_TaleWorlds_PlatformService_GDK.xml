@@ -4,8 +4,8 @@
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id="ph6rtI5J" text="Xbox platform initialization failed: {FAILREASON}" />
-    <string id="Qb30URMY" text="User login failed: {FAILREASON}" />
-    <string id="yWJcwCHf" text="Could not retrieve Xbox Title Id" />
+     <string id="ph6rtI5J" text="Ошибка инициализации платформы Xbox: {FAILREASON}"/>
+    <string id="Qb30URMY" text="Ошибка входа пользователя: {FAILREASON}"/>
+    <string id="yWJcwCHf" text="Не удалось получить идентификатор продукта Xbox"/>
   </strings>
 </base>

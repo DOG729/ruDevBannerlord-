@@ -166,36 +166,36 @@
     <string id="C9ufRSsL" text="Меч и щит"/>
     <string id="4eFFdbbh" text="Заменяет Вульж на Двуручный Меч. Эффективен во время дуэлей и нанесения колющих ударов."/>
     <string id="FfpqIuV8" text="Заменяет Вульж на Щит и Меч. Обеспечивает подвижность и защиту."/>
-    <string id="3DRu8Oy5" text="Faster Release"/>
-    <string id="dd1bLkp4" text="Replaces Axe with Bastard Axe, longer, can be used two handed."/>
-    <string id="gPGjvzuU" text="Grants Light Javelins, good for harrassing, can be used in melee."/>
-    <string id="hGYfXIWN" text="Light Javelins"/>
-    <string id="HV6gfTmh" text="Grants further travelling projectiles, increasing effective range."/>
-    <string id="jPX5Uhwn" text="Replaces Recurve Bow with Crossbow, deals much more damage, low fire rate."/>
-    <string id="l2j9CAQn" text="Bastard Sword"/>
-    <string id="lu45Qgzm" text="Replaces Hunting Bow with Fast Hunting Bow, much faster, but deals less damage."/>
-    <string id="pxOUXM6q" text="Replaces Long Sword with Bastard Sword, longer and deals more damage. Can be used two handed."/>
-    <string id="5aZNQczb" text="Replaces mount with a more maneuverable horse."/>
-    <string id="9GQN5tTF" text="Grants Heavy Lance, more damage than spears, couchable."/>
-    <string id="A4wloU30" text="Replaces Hunting Bow with Guard's Bow, deals more damage, accurate but slower."/>
-    <string id="AClsYZ14" text="Heavy Kontos, deals more damage but is slow. Cant be used with shields."/>
-    <string id="AO5LPmQf" text="Heavy Kontos"/>
-    <string id="FqHvkh44" text="Replaces mount with a horse that deals more charge damage."/>
-    <string id="H6xJYE4M" text="Fast Kontos"/>
-    <string id="haax8kMa" text="Polearm"/>
-    <string id="K1UFTirG" text="Light Crossbow"/>
-    <string id="llneOWkU" text="Faster Sword"/>
-    <string id="OjaeHZVO" text="Replaces mount with a faster horse."/>
-    <string id="PhvYB5Jh" text="Replaces your horse with a random one."/>
-    <string id="pLvR8bKM" text="Grants Jereeds, deals more damage, can be used in melee."/>
-    <string id="qzJ2Sab1" text="Grants Long Lance, longer than spears, couchable."/>
-    <string id="TGuQw3ma" text="Replaces Two Handed Sword with Noble Two Handed Sword, faster and deals more damage."/>
-    <string id="tN6LRGbm" text="Looted Horse"/>
-    <string id="UoaUwLl0" text="Grants Empire Polearm, long and high damage."/>
-    <string id="urJEb6Dm" text="Fast Kontos, is longer than the Spear but cant be used with shields"/>
-    <string id="Z5sbkF6d" text="Better Sword"/>
-    <string id="zpv74Q1d" text="Long Lance"/>
-    <string id="7u5TNeZM" text="Replaces Gladius with Pugio, much faster but shorter and deals less damage."/>
-    <string id="DWIutWyg" text="Grants Axe, effective against shields, two handed."/>
+    <string id="3DRu8Oy5" text="Ускоренная стрельба"/>
+    <string id="dd1bLkp4" text="Заменяет обычный топор длинным, который можно держать двумя руками."/>
+    <string id="gPGjvzuU" text="Дает легкие дротики, удобные в нападении и пригодные для ближнего боя."/>
+    <string id="hGYfXIWN" text="Легкие{.ajp} {.MI}дротики{.nnp}"/>
+    <string id="HV6gfTmh" text="Увеличивает эффективную дальность стрельбы."/>
+    <string id="jPX5Uhwn" text="Заменяет изогнутый лук арбалетом, который наносит гораздо больший урон, но обладает меньшей скорострельностью."/>
+    <string id="l2j9CAQn" text="Полуторный меч"/>
+    <string id="lu45Qgzm" text="Заменяет обычный лук охотника скоростным, который позволяет стрелять намного быстрее, но наносит меньший урон."/>
+    <string id="pxOUXM6q" text="Заменяет длинный меч полуторным – он длиннее, наносит больший урон и может удерживаться двумя руками."/>
+    <string id="5aZNQczb" text="Заменяет ездовое животное более маневренной лошадью."/>
+    <string id="9GQN5tTF" text="Дает тяжелый ланец, имеющий больший урон по сравнению с другими копьями. Можно брать наперевес."/>
+    <string id="A4wloU30" text="Заменяет лук охотника луком стражника, наносящим больше урона и более точным, но более медленным."/>
+    <string id="AClsYZ14" text="Тяжелый контос – медленное оружие, наносящее большой урон. Нельзя использовать со щитами."/>
+    <string id="AO5LPmQf" text="Тяжелый контос"/>
+    <string id="FqHvkh44" text="Заменяет ездовое животное лошадью, наносящей больше урона при столкновении."/>
+    <string id="H6xJYE4M" text="Скоростной{.aj} {.MI}контос{.nn}"/>
+    <string id="haax8kMa" text="{.MI}Полэкс"/>
+    <string id="K1UFTirG" text="Легкий{.aj} {.MI}арбалет{.nn}"/>
+    <string id="llneOWkU" text="Быстрый{.aj} {.MI}меч{.nn}"/>
+    <string id="OjaeHZVO" text="Заменяет ездовое животное более быстрой лошадью."/>
+    <string id="PhvYB5Jh" text="Заменяет вашу лошадь случайной лошадью."/>
+    <string id="pLvR8bKM" text="Дает джериды, которые наносят больше урона и могут использоваться в ближнем бою."/>
+    <string id="qzJ2Sab1" text="Дает длинный ланец, более длинный, чем копье. Можно брать наперевес."/>
+    <string id="TGuQw3ma" text="Заменяет двуручный меч благородным двуручным мечом. Он более быстрый и наносит больше урона."/>
+    <string id="tN6LRGbm" text="Украденная{.aj} {.FA}лошадь{.nn}"/>
+    <string id="UoaUwLl0" text="Дает имперский полэкс – длинное оружие, наносящее большой урон."/>
+    <string id="urJEb6Dm" text="Скоростной контос длиннее копья, но не может использоваться со щитами."/>
+    <string id="Z5sbkF6d" text="Улучшенный{.aj} {.MI}меч{.nn}"/>
+    <string id="zpv74Q1d" text="Длинный{.aj} {.MI}ланец{.nn}"/>
+    <string id="7u5TNeZM" text="Заменяет гладиус на пугио – значительно более быстрое оружие, но наносящее меньший урон."/>
+    <string id="DWIutWyg" text="Дает топор, эффективный против щитов (двуручное оружие)."/>
   </strings>
 </base>

@@ -4,18 +4,18 @@
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id="0Xku0LQD" text="Sturgia Peasant" />
-    <string id="ansW4mx2" text="Aserai Townswoman" />
-    <string id="baAQDdE5" text="Vlandia Townswoman" />
-    <string id="BmYpwIYi" text="Battania Peasant" />
-    <string id="d6vsgKnp" text="Aserai Peasant" />
-    <string id="guardnoun" text="Guard" />
-    <string id="JMZiICD8" text="Vlandia Peasant" />
-    <string id="KtqB640w" text="Empire Peasant" />
-    <string id="LFUaO6rG" text="Khuzait Peasant" />
-    <string id="Q7wFotYV" text="Battania Townswoman" />
-    <string id="qMqRkvWu" text="Sturgia Townswoman" />
-    <string id="V8GrFH4B" text="Khuzait Townswoman" />
-    <string id="WbH2HS8j" text="Empire Townswoman" />
+    <string id="0Xku0LQD" text="Стургийский крестьянин"/>
+    <string id="ansW4mx2" text="Асерайская горожанка"/>
+    <string id="baAQDdE5" text="Вландийская горожанка"/>
+    <string id="BmYpwIYi" text="Баттанский крестьянин"/>
+    <string id="d6vsgKnp" text="Асерайский крестьянин"/>
+    <string id="guardnoun" text="Стражник"/>
+    <string id="JMZiICD8" text="Вландийский крестьянин"/>
+    <string id="KtqB640w" text="Имперский крестьянин"/>
+    <string id="LFUaO6rG" text="Хузаитский крестьянин"/>
+    <string id="Q7wFotYV" text="Баттанская горожанка"/>
+    <string id="qMqRkvWu" text="Стургийская горожанка"/>
+    <string id="V8GrFH4B" text="Хузаитская горожанка"/>
+    <string id="WbH2HS8j" text="Имперская горожанка"/>
   </strings>
 </base>

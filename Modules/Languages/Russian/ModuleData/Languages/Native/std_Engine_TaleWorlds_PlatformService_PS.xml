@@ -4,11 +4,11 @@
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id="cQqLxFLa" text="Join my Multiplayer party" />
-    <string id="GpM2cTW8" text="Playing Multiplayer" />
-    <string id="mkrcmk1E" text="Multiplayer Party" />
-    <string id="rGRbaAV3" text="Mount &amp; Blade II: Bannerlord Trophy Data" />
-    <string id="SBK40pPW" text="Contains trophy related progression data" />
-    <string id="Vw9g7UtL" text="Trophy Progression Data" />
+    <string id="cQqLxFLa" text="Вступайте в мой сетевой отряд"/>
+    <string id="GpM2cTW8" text="В сетевой игре"/>
+    <string id="mkrcmk1E" text="Сетевой отряд"/>
+    <string id="rGRbaAV3" text="Данные призов Mount and Blade II: Bannerlord"/>
+    <string id="SBK40pPW" text="Содержит данные, связанные с получением призов"/>
+    <string id="Vw9g7UtL" text="Данные о получении призов"/>
   </strings>
 </base>
